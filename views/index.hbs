@@ -1,0 +1,10 @@
+{{#each titles}}
+  <article>
+    <p>{{this.title}}</p>
+    <ol>
+    {{#each this.listings}}
+      <li>{{this.date}}, {{this.venue}}, {{this.screen}}</li>
+    {{/each}}
+    </ol>
+  </article>
+{{/each}}

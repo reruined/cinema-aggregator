@@ -1,7 +1,7 @@
 import fs from 'fs/promises'
 
-const spegeln = JSON.parse(await fs.readFile('./spegeln.json', { encoding: 'utf-8' }))
-const panora = JSON.parse(await fs.readFile('./panora.json', { encoding: 'utf-8' }))
+const spegeln = JSON.parse(await fs.readFile('./json/listings-spegeln.json', { encoding: 'utf-8' }))
+const panora = JSON.parse(await fs.readFile('./json/listings-panora.json', { encoding: 'utf-8' }))
 
 function transformSpegeln(source) {
   const transformedData = source.data.map(entry => ({
@@ -34,7 +34,8 @@ function transformPanora(source) {
 }
 
 function aggregate(sources, query) {
-  const shows = [].concat(...sources)
+  const listings = [].concat(...sources)
+  /*
   console.log(shows.find(x => x.title.toLowerCase().includes(query)).title)
   console.log(
     shows
@@ -43,10 +44,14 @@ function aggregate(sources, query) {
       .map( x => ({ ...x, date: `${ x.date.toLocaleDateString() } ${ x.date.toLocaleTimeString() }` }) )
       .map(x => `${x.screen} at ${x.venue}, ${x.date}`)
     )
+  */
+  return listings
 }
 
-const query = 'maigret'
-aggregate([
+const query = 'avatar'
+const listings = aggregate([
   transformSpegeln(spegeln),
   transformPanora(panora)
 ], query)
+
+await fs.writeFile('./json/listings-all.json', JSON.stringify(listings, null, 2))

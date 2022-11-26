@@ -1,20 +1,34 @@
 {
   "name": "cinema-aggregator",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Site for aggregating cinema shows",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon ./main.js",
+    "aggregate": "node ./scripts/aggregate.mjs"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "learning",
+    "mongodb",
+    "express",
+    "aggregator",
+    "cinema"
+  ],
+  "author": {
+    "name": "Aneira Gramarye",
+    "email": "alexander.szmidt@gmail.com"
+  },
+  "license": "UNLICENSED",
+  "private": true,
   "devDependencies": {
+    "connect-livereload": "^0.6.1",
+    "livereload": "^0.9.3",
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "axios": "^1.2.0",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
     "node-fetch": "^3.3.0"
-  },
-  "type": "module"
+  }
 }
