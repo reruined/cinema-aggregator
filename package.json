@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "nodemon ./main.js",
-    "aggregate": "node ./scripts/aggregate.mjs"
+    "aggregate": "node ./scripts/aggregate.mjs",
+    "start": "node ./main.js"
   },
   "keywords": [
     "learning",
