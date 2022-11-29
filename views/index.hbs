@@ -1,14 +1,20 @@
 <section class="titles-section">
   <h2 class="titles-heading">Titles</h2>
+  <form method="GET" action="/">
+    <input type="text" name="query" placeholder="Enter query..." value="{{query}}" />
+    <input type="submit" value="Search" />
+  </form>
   <ul class="titles-list">
   {{#each titles}}
     <li class="item">
-      <p class="item-title">{{this.title}}</p>
-      <ol class="item-listings">
-      {{#each this.listings}}
-        <li class="listing">{{this.date}}, {{this.venue}}, {{this.screen}}</li>
-      {{/each}}
-      </ol>
+      <a href="/?query={{this.url}}">
+        <p class="item-title">{{this.title}}</p>
+        <ol class="item-listings">
+        {{#each this.listings}}
+          <li class="listing">{{this.date}}, {{this.venue}}, {{this.screen}}</li>
+        {{/each}}
+        </ol>
+      </a>
     </li>
   {{/each}}
   </ul>
