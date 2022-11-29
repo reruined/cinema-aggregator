@@ -19,8 +19,9 @@ app.get('/', (req, res) => {
       const listingsForTitle = listings
         .filter(x => x.title.toLowerCase() === title.toLowerCase())
         .sort(x => x.date)
+        .slice(0, 5)
         .map(x => ({...x, date: new Date(x.date)}))
-        .map(x => ({...x, date: `${ x.date.toLocaleDateString() } ${ x.date.toLocaleTimeString() }`}))
+        .map(x => ({...x, date: `${ x.date.toLocaleDateString('se') } ${ x.date.toLocaleTimeString('se').slice(0, -3) }`}))
       return {
         title,
         listings: listingsForTitle

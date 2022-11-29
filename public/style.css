@@ -1,3 +1,52 @@
-ol {
+* {
+  box-sizing: border-box;
+}
+
+ol, ul, li, div, p {
   list-style: none;
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+.titles-heading {
+  display: block;
+  text-align: center;
+}
+
+.titles-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+}
+
+.item {
+  border: 1px solid rgb(128, 128, 128);
+  background-color: rgb(247, 247, 247);
+  width: 220px;
+  height: 200px;
+  padding: 8px;
+}
+
+.item-title {
+  margin-bottom: 0.5em;
+}
+
+.listing {
+  border: none;
+  border-bottom: 1px dashed rgb(150, 150, 150);
+  padding: 0.25em 0;
+  font-size: small;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.listing:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
 }

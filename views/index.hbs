@@ -1,10 +1,15 @@
-{{#each titles}}
-  <article>
-    <p>{{this.title}}</p>
-    <ol>
-    {{#each this.listings}}
-      <li>{{this.date}}, {{this.venue}}, {{this.screen}}</li>
-    {{/each}}
-    </ol>
-  </article>
-{{/each}}
+<section class="titles-section">
+  <h2 class="titles-heading">Titles</h2>
+  <ul class="titles-list">
+  {{#each titles}}
+    <li class="item">
+      <p class="item-title">{{this.title}}</p>
+      <ol class="item-listings">
+      {{#each this.listings}}
+        <li class="listing">{{this.date}}, {{this.venue}}, {{this.screen}}</li>
+      {{/each}}
+      </ol>
+    </li>
+  {{/each}}
+  </ul>
+</section>
