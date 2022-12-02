@@ -79,8 +79,16 @@ app.get('/', (req, res) => {
       }
     })
 
+  // const listingsByTitleOrderedByLastDate
+  const listingsByTitleOrderedByLastDate = listingsByTitle
+    .sort((a, b) => {
+      const lastDateA = a.listings[a.listings.length - 1].date
+      const lastDateB = b.listings[b.listings.length - 1].date
+      return lastDateA - lastDateB
+    })
+
   const query = req.query.query || ''
-  const listingsFilteredByQuery = listingsByTitle.filter(titleIncludesString(query))
+  const listingsFilteredByQuery = listingsByTitleOrderedByLastDate.filter(titleIncludesString(query))
 
   res.render('index', {
     titles: listingsFilteredByQuery,
