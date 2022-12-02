@@ -1,435 +1,21 @@
 [
   {
-    "title": "Bardo, en osann berättelse om en handfull sanningar",
-    "date": "2022-11-24T13:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Maigret",
-    "date": "2022-11-24T13:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-11-24T14:00:00.000Z",
+    "title": "Rose",
+    "date": "2022-12-02T13:00:00.000Z",
     "venue": "Spegeln",
     "screen": "Camera"
   },
   {
     "title": "Boy from Heaven",
-    "date": "2022-11-24T16:00:00.000Z",
+    "date": "2022-12-02T13:15:00.000Z",
     "venue": "Spegeln",
     "screen": "Alcazar"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-11-24T16:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Night Train to Terror",
-    "date": "2022-11-24T17:15:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "The Menu",
-    "date": "2022-11-24T18:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "She Said",
-    "date": "2022-11-24T19:15:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Night Train to Terror",
-    "date": "2022-11-24T19:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Maigret",
-    "date": "2022-11-25T13:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-11-25T13:15:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-11-25T13:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-11-25T15:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
   },
   {
     "title": "Hilma",
-    "date": "2022-11-25T16:15:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Boy from Heaven",
-    "date": "2022-11-25T16:45:00.000Z",
+    "date": "2022-12-02T13:45:00.000Z",
     "venue": "Spegeln",
     "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-11-25T18:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Sing Along: Les Misérables",
-    "date": "2022-11-25T19:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "The Woman King",
-    "date": "2022-11-25T19:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Hilma",
-    "date": "2022-11-26T12:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Black Panther: Wakanda Forever",
-    "date": "2022-11-26T12:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-11-26T13:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Beautiful Beings",
-    "date": "2022-11-26T15:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Boy from Heaven",
-    "date": "2022-11-26T16:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Purple Rain",
-    "date": "2022-11-26T17:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Moonage Daydream",
-    "date": "2022-11-26T18:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-11-26T19:15:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Bones and All",
-    "date": "2022-11-26T19:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-11-27T12:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-11-27T12:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-11-27T13:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "East End: A Christmas Carol",
-    "date": "2022-11-27T15:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Boy from Heaven",
-    "date": "2022-11-27T16:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "The Woman King",
-    "date": "2022-11-27T16:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Moonage Daydream",
-    "date": "2022-11-27T18:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-11-27T19:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "The Menu",
-    "date": "2022-11-27T19:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Maigret",
-    "date": "2022-11-28T13:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-11-28T13:15:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-11-28T13:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Beautiful Beings",
-    "date": "2022-11-28T15:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Boy from Heaven",
-    "date": "2022-11-28T16:15:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Hilma",
-    "date": "2022-11-28T16:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Moonage Daydream",
-    "date": "2022-11-28T18:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-11-28T19:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Bones and All",
-    "date": "2022-11-28T19:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Maigret",
-    "date": "2022-11-29T13:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-11-29T13:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Boy from Heaven",
-    "date": "2022-11-29T14:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-11-29T15:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-11-29T16:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Cine: Batalla en el cielo",
-    "date": "2022-11-29T17:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Boy from Heaven",
-    "date": "2022-11-29T18:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Black Panther: Wakanda Forever",
-    "date": "2022-11-29T19:15:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "The Woman King",
-    "date": "2022-11-29T19:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-11-30T13:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Maigret",
-    "date": "2022-11-30T13:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Boy from Heaven",
-    "date": "2022-11-30T14:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Beautiful Beings",
-    "date": "2022-11-30T15:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-11-30T16:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Hilma",
-    "date": "2022-11-30T17:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-11-30T18:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-11-30T19:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "The Menu",
-    "date": "2022-11-30T19:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-12-01T13:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Moonage Daydream",
-    "date": "2022-12-01T13:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-12-01T14:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
-  },
-  {
-    "title": "Neil Young: Harvest Time",
-    "date": "2022-12-01T16:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "Boy from Heaven",
-    "date": "2022-12-01T17:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Spegelns filmquiz",
-    "date": "2022-12-01T17:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Foajé"
-  },
-  {
-    "title": "Neil Young: Harvest Time",
-    "date": "2022-12-01T19:00:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Camera"
-  },
-  {
-    "title": "She Said",
-    "date": "2022-12-01T19:45:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "The Menu",
-    "date": "2022-12-01T20:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
   },
   {
     "title": "Emily",
@@ -462,6 +48,18 @@
     "screen": "Alcazar"
   },
   {
+    "title": "The Woman King",
+    "date": "2022-12-02T19:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Salong Bar Deco"
+  },
+  {
+    "title": "Kärlekens hjältar",
+    "date": "2022-12-03T12:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "Länge leve Bonusfamiljen",
     "date": "2022-12-03T12:30:00.000Z",
     "venue": "Spegeln",
@@ -474,10 +72,46 @@
     "screen": "Alcazar"
   },
   {
+    "title": "Länge leve Bonusfamiljen",
+    "date": "2022-12-03T15:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Salong Bar Deco"
+  },
+  {
+    "title": "Boy from Heaven",
+    "date": "2022-12-03T15:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "Neil Young: Harvest Time",
     "date": "2022-12-03T16:45:00.000Z",
     "venue": "Spegeln",
     "screen": "Alcazar"
+  },
+  {
+    "title": "Hilma",
+    "date": "2022-12-03T17:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Salong Bar Deco"
+  },
+  {
+    "title": "Black Panther: Wakanda Forever",
+    "date": "2022-12-03T18:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Bones and All",
+    "date": "2022-12-03T19:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "The Menu",
+    "date": "2022-12-03T20:15:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Salong Bar Deco"
   },
   {
     "title": "Frukostbio: Guillermo del Toro's Pinocchio",
@@ -486,10 +120,28 @@
     "screen": "Alcazar"
   },
   {
+    "title": "Länge leve Bonusfamiljen",
+    "date": "2022-12-04T12:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "Rose",
     "date": "2022-12-04T12:30:00.000Z",
     "venue": "Spegeln",
     "screen": "Salong Bar Deco"
+  },
+  {
+    "title": "Neil Young: Harvest Time",
+    "date": "2022-12-04T13:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Emily",
+    "date": "2022-12-04T14:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
   },
   {
     "title": "Länge leve Bonusfamiljen",
@@ -504,10 +156,76 @@
     "screen": "Alcazar"
   },
   {
+    "title": "Moonage Daydream",
+    "date": "2022-12-04T17:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-04T18:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Salong Bar Deco"
+  },
+  {
+    "title": "The Menu",
+    "date": "2022-12-04T19:15:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Kärlekens hjältar",
+    "date": "2022-12-05T13:15:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Länge leve Bonusfamiljen",
+    "date": "2022-12-05T13:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "The Woman King",
+    "date": "2022-12-05T16:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "East End: A Christmas Carol",
     "date": "2022-12-05T16:30:00.000Z",
     "venue": "Spegeln",
     "screen": "Alcazar"
+  },
+  {
+    "title": "Boy from Heaven",
+    "date": "2022-12-05T18:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Black Panther: Wakanda Forever",
+    "date": "2022-12-05T19:15:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-06T13:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Rose",
+    "date": "2022-12-06T14:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Boy from Heaven",
+    "date": "2022-12-06T16:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
   },
   {
     "title": "Cine: Merry Christmas, Mr. Lawrence",
@@ -516,10 +234,112 @@
     "screen": "Alcazar"
   },
   {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-06T19:15:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Guillermo del Toro's Pinocchio",
+    "date": "2022-12-06T19:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Kärlekens hjältar",
+    "date": "2022-12-07T13:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Beautiful Beings",
+    "date": "2022-12-07T14:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Hilma",
+    "date": "2022-12-07T16:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Guillermo del Toro's Pinocchio",
+    "date": "2022-12-07T17:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Länge leve Bonusfamiljen",
+    "date": "2022-12-07T19:15:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "The Woman King",
+    "date": "2022-12-07T19:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Emily",
+    "date": "2022-12-08T13:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Kärlekens hjältar",
+    "date": "2022-12-08T14:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Länge leve Bonusfamiljen",
+    "date": "2022-12-08T16:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Rose",
+    "date": "2022-12-08T17:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-08T19:15:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "The Menu",
+    "date": "2022-12-08T19:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Länge leve Bonusfamiljen",
+    "date": "2022-12-09T15:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Hilma",
+    "date": "2022-12-09T16:15:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
     "title": "Min vackra stjärna",
     "date": "2022-12-09T16:45:00.000Z",
     "venue": "Spegeln",
     "screen": "Salong Bar Deco"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-09T18:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
   },
   {
     "title": "Sing Along: Grease",
@@ -538,6 +358,18 @@
     "date": "2022-12-10T12:30:00.000Z",
     "venue": "Spegeln",
     "screen": "Salong Bar Deco"
+  },
+  {
+    "title": "Länge leve Bonusfamiljen",
+    "date": "2022-12-10T13:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Rose",
+    "date": "2022-12-10T15:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
   },
   {
     "title": "Met: The Hours",
@@ -562,6 +394,18 @@
     "date": "2022-12-11T19:00:00.000Z",
     "venue": "Spegeln",
     "screen": "Salong Bar Deco"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-11T19:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Min vackra stjärna",
+    "date": "2022-12-12T16:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
   },
   {
     "title": "The Apartment",
@@ -642,6 +486,12 @@
     "screen": "Camera"
   },
   {
+    "title": "Min vackra stjärna",
+    "date": "2022-12-16T17:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Salong Bar Deco"
+  },
+  {
     "title": "Avatar: The Way of Water",
     "date": "2022-12-16T19:00:00.000Z",
     "venue": "Spegeln",
@@ -652,6 +502,12 @@
     "date": "2022-12-16T19:30:00.000Z",
     "venue": "Spegeln",
     "screen": "Alcazar"
+  },
+  {
+    "title": "Moonage Daydream",
+    "date": "2022-12-16T20:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Salong Bar Deco"
   },
   {
     "title": "The Holiday",
@@ -762,6 +618,12 @@
     "screen": "Alcazar"
   },
   {
+    "title": "Gremlins",
+    "date": "2022-12-20T17:15:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "Avatar: The Way of Water",
     "date": "2022-12-20T18:45:00.000Z",
     "venue": "Spegeln",
@@ -816,6 +678,24 @@
     "screen": "Camera"
   },
   {
+    "title": "Håkan Bråkan",
+    "date": "2022-12-25T12:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "date": "2022-12-25T19:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Decision to Leave",
+    "date": "2022-12-25T19:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Salong Bar Deco"
+  },
+  {
     "title": "UFO Sweden",
     "date": "2022-12-25T20:00:00.000Z",
     "venue": "Spegeln",
@@ -828,14 +708,38 @@
     "screen": "Salong Bar Deco"
   },
   {
+    "title": "Håkan Bråkan",
+    "date": "2022-12-26T12:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "UFO Sweden",
     "date": "2022-12-26T16:45:00.000Z",
     "venue": "Spegeln",
     "screen": "Salong Bar Deco"
   },
   {
+    "title": "Avatar: The Way of Water",
+    "date": "2022-12-26T19:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Håkan Bråkan",
+    "date": "2022-12-27T12:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "E.T. the Extra-Terrestrial",
     "date": "2022-12-27T16:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "date": "2022-12-27T19:00:00.000Z",
     "venue": "Spegeln",
     "screen": "Alcazar"
   },
@@ -852,6 +756,12 @@
     "screen": "Salong Bar Deco"
   },
   {
+    "title": "Håkan Bråkan",
+    "date": "2022-12-28T12:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "UFO Sweden",
     "date": "2022-12-28T16:45:00.000Z",
     "venue": "Spegeln",
@@ -864,10 +774,28 @@
     "screen": "Salong Bar Deco"
   },
   {
+    "title": "Håkan Bråkan",
+    "date": "2022-12-29T12:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Decision to Leave",
+    "date": "2022-12-29T19:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Salong Bar Deco"
+  },
+  {
     "title": "Den oändliga historien",
     "date": "2022-12-30T11:30:00.000Z",
     "venue": "Spegeln",
     "screen": "Salong Bar Deco"
+  },
+  {
+    "title": "Håkan Bråkan",
+    "date": "2022-12-30T12:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
   },
   {
     "title": "Berlinfilharmonikernas nyårskonsert",
@@ -918,6 +846,12 @@
     "screen": "Alcazar"
   },
   {
+    "title": "Sirens",
+    "date": "2023-01-18T17:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "Sing Along: RENT",
     "date": "2023-01-20T19:45:00.000Z",
     "venue": "Spegeln",
@@ -942,14 +876,32 @@
     "screen": "Alcazar"
   },
   {
+    "title": "Voyage of the Rock Aliens",
+    "date": "2023-02-02T19:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Armi lever!",
+    "date": "2023-02-04T12:00:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Frukostbio: The Fabelmans",
+    "date": "2023-02-05T09:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
     "title": "National Theatre: Måsen",
     "date": "2023-02-05T15:30:00.000Z",
     "venue": "Spegeln",
     "screen": "Alcazar"
   },
   {
-    "title": "Frukostbio: The Fabelmans",
-    "date": "2023-02-12T09:30:00.000Z",
+    "title": "Party Along: Mamma Mia!",
+    "date": "2023-02-10T19:45:00.000Z",
     "venue": "Spegeln",
     "screen": "Alcazar"
   },
@@ -972,6 +924,24 @@
     "screen": "Alcazar"
   },
   {
+    "title": "Frukostbio: Aftersun",
+    "date": "2023-02-19T09:30:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
+    "title": "Dangerous Men",
+    "date": "2023-02-23T19:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
+    "title": "Twin Peaks: Fire Walk with Me",
+    "date": "2023-02-24T16:15:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "Lost Highway",
     "date": "2023-02-24T16:45:00.000Z",
     "venue": "Spegeln",
@@ -988,12 +958,6 @@
     "date": "2023-02-24T19:45:00.000Z",
     "venue": "Spegeln",
     "screen": "Salong Bar Deco"
-  },
-  {
-    "title": "Frukostbio: Aftersun",
-    "date": "2023-02-26T09:30:00.000Z",
-    "venue": "Spegeln",
-    "screen": "Alcazar"
   },
   {
     "title": "Sing Along: Grease",
@@ -1026,6 +990,12 @@
     "screen": "Alcazar"
   },
   {
+    "title": "Party Along: Mamma Mia: Here We Go Again!",
+    "date": "2023-03-31T18:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Alcazar"
+  },
+  {
     "title": "Met: Falstaff",
     "date": "2023-04-01T16:30:00.000Z",
     "venue": "Spegeln",
@@ -1044,6 +1014,12 @@
     "screen": "Alcazar"
   },
   {
+    "title": "Troll 2",
+    "date": "2023-05-18T18:45:00.000Z",
+    "venue": "Spegeln",
+    "screen": "Camera"
+  },
+  {
     "title": "Met: Don Giovanni",
     "date": "2023-05-20T17:00:00.000Z",
     "venue": "Spegeln",
@@ -1057,973 +1033,1321 @@
   },
   {
     "title": "Aja baja Alfons Åberg",
-    "date": "2023-01-26T11:15:00.000Z",
+    "date": "2022-12-26T11:15:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   },
   {
     "title": "Aja baja Alfons Åberg",
-    "date": "2023-01-30T13:30:00.000Z",
+    "date": "2022-12-30T13:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
     "title": "Aja baja Alfons Åberg",
-    "date": "2023-02-08T13:30:00.000Z",
+    "date": "2023-01-08T13:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
-    "title": "All Of Our Heartbeats Are Connected Through Explod",
-    "date": "2023-01-01T14:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "All the Beauty and the Bloodshed - Förhandsvisning!",
-    "date": "2023-02-10T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Avatar: The Way of Water",
-    "date": "2023-01-14T18:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Avatar: The Way of Water",
-    "date": "2023-01-15T18:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Avatar: The Way of Water",
-    "date": "2023-01-17T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Bamse och vulkanön",
-    "date": "2023-01-26T11:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Bamse och vulkanön",
-    "date": "2023-02-02T11:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Bamse och vulkanön",
-    "date": "2023-02-07T11:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Bardo",
-    "date": "2023-01-06T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Beautiful Beings",
-    "date": "2022-12-27T14:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Beautiful Beings",
-    "date": "2023-01-02T17:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Belle",
-    "date": "2023-02-04T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Bones and all",
-    "date": "2022-12-25T19:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Bones and all",
-    "date": "2022-12-26T17:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Bones and all",
-    "date": "2022-12-27T19:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Bones and all",
-    "date": "2022-12-28T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Bones and all",
-    "date": "2022-12-29T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Bones and all",
-    "date": "2022-12-30T16:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Boy from Heaven (Sv. txt)",
-    "date": "2022-12-24T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Boy from Heaven (Sv. txt)",
-    "date": "2022-12-25T17:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Boy from Heaven (Sv. txt)",
-    "date": "2022-12-26T16:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Boy from Heaven (Sv. txt)",
-    "date": "2022-12-27T17:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Boy from Heaven (Sv. txt)",
-    "date": "2022-12-28T17:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Boy from Heaven (Sv. txt)",
-    "date": "2022-12-29T16:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Boy from Heaven (Sv. txt)",
-    "date": "2022-12-30T19:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Boy from Heaven (Sv. txt)",
-    "date": "2023-01-01T19:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Boy from Heaven (Sv. txt)",
-    "date": "2023-01-04T17:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Bröderna Lejonhjärta",
-    "date": "2023-02-01T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "David Lynch: DYNAMIC: 01",
-    "date": "2023-01-21T19:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "David Lynch: Lost Highway",
-    "date": "2023-02-07T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "David Lynch: Mulholland Drive",
-    "date": "2023-01-15T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "David Lynch: Short Films of David Lynch + Dumbland",
-    "date": "2023-01-21T17:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "David Lynch: Twin Peaks: Fire Walk With me",
-    "date": "2023-01-05T17:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "David Lynch: Wild At Heart",
-    "date": "2022-12-30T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Decision to Leave - Förhandsvisning!",
-    "date": "2023-01-20T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Den Magiska Månresan",
-    "date": "2023-01-04T12:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Den oändliga historien (Eng tal)",
-    "date": "2023-01-11T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Det levande slottet (Sv. tal)",
-    "date": "2023-01-04T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Dunderklumpen",
-    "date": "2023-02-05T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-12-25T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-12-26T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-12-28T19:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-12-29T15:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Emily",
-    "date": "2022-12-30T14:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "En annorlunda värld (Sv. tal)",
-    "date": "2022-12-26T11:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "En annorlunda värld (Sv. tal)",
-    "date": "2022-12-27T12:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "En annorlunda värld (Sv. tal)",
-    "date": "2023-01-03T11:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "En persikolund i Katalonien (Eng. text)",
-    "date": "2023-01-12T17:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "En underbar finsk jävla jul",
-    "date": "2023-01-04T17:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Farha",
-    "date": "2022-12-29T17:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "FRIIS FRAME: Dekolonialitet workshop/studiecirkel",
-    "date": "2023-01-05T17:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "FRIIS FRAME: RAR x SAQMI",
-    "date": "2022-12-28T17:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "FRIIS FRAME: WIP - Queer Balkan // Scenario 2030",
-    "date": "2023-01-12T17:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Guellermo del Toro: Pinocchio",
-    "date": "2022-12-25T14:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Guellermo del Toro: Pinocchio",
-    "date": "2022-12-26T14:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Hilma (Sv. txt)",
-    "date": "2022-12-24T14:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Hilma (Sv. txt)",
-    "date": "2022-12-25T14:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Hilma (Sv. txt)",
-    "date": "2022-12-27T16:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Hilma (Sv. txt)",
-    "date": "2022-12-28T14:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Hilma (Sv. txt)",
-    "date": "2022-12-29T17:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Hilma (Sv. txt)",
-    "date": "2023-01-01T15:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Historien om Bodri",
-    "date": "2023-01-11T12:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Hundhotellet",
-    "date": "2023-01-25T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Höra ihop- tre små filmer om stora känslor",
-    "date": "2022-12-26T13:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Höra ihop- tre små filmer om stora känslor",
-    "date": "2022-12-27T11:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Kärlekens hjältar",
-    "date": "2023-01-02T14:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Kärlekens hjältar",
-    "date": "2023-01-03T17:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Kärlekens labyrinter",
-    "date": "2023-01-01T14:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "LasseMajas Detektivbyrå: Skorpionens gåta (Sv. txt",
-    "date": "2023-01-27T11:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "LasseMajas Detektivbyrå: Skorpionens gåta (Sv. txt",
-    "date": "2023-02-04T12:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Latte Igelkott och den magiska vattenstenen (Sv. t",
-    "date": "2023-01-28T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Lilla Spöket Laban - Världens snällaste spöke",
-    "date": "2022-12-26T11:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Lilla Spöket Laban - Världens snällaste spöke",
-    "date": "2022-12-27T11:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Lilla Spöket Laban - Världens snällaste spöke",
-    "date": "2023-01-03T13:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Loranga Masarin & Dartanjang",
-    "date": "2023-01-25T13:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Loranga Masarin & Dartanjang",
-    "date": "2023-02-03T11:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Loranga Masarin & Dartanjang",
-    "date": "2023-02-08T11:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Mamma Mu hittar hem (Sv. txt)",
-    "date": "2022-12-27T11:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Mamma Mu hittar hem (Sv. txt)",
-    "date": "2023-01-04T11:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Mamma Mu hittar hem (Sv. txt)",
-    "date": "2023-01-27T11:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Mamma Mu hittar hem (Sv. txt)",
-    "date": "2023-02-01T11:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Mamma Mu hittar hem (Sv. txt)",
-    "date": "2023-02-06T11:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Maya Nilo (Laura) (Eng. txt)",
-    "date": "2023-01-05T19:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Mike Leigh: Naken",
-    "date": "2023-01-01T19:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Min vackra stjärna",
+    "title": "Akira (Eng. text)",
     "date": "2023-01-09T19:00:00.000Z",
     "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Min vackra stjärna",
-    "date": "2023-01-10T16:45:00.000Z",
-    "venue": "Panora",
     "screen": "Salong 2"
   },
   {
-    "title": "Miraï min lillasyster (Sv. tal)",
-    "date": "2023-02-06T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Moonage Daydream",
-    "date": "2022-12-24T19:30:00.000Z",
+    "title": "Alfons och hemlige Mållgan",
+    "date": "2023-01-01T13:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
-    "title": "Moonage Daydream",
-    "date": "2022-12-29T19:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Moonage Daydream",
-    "date": "2023-01-07T19:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Mor och Son",
-    "date": "2022-12-25T16:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Mor och Son",
-    "date": "2022-12-27T17:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Mor och Son",
-    "date": "2022-12-28T16:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Mor och Son",
-    "date": "2022-12-30T14:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Mullvadens nya äventyr",
-    "date": "2022-12-26T12:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Nausicaä från Vindarnas dal (Jap. tal)",
-    "date": "2023-02-07T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Neil Young: Harvest Time",
-    "date": "2023-01-01T19:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Nelly Rapp - Monsteragent (Sv. txt)",
-    "date": "2023-02-03T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Polarexpressen",
-    "date": "2023-01-18T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Ponyo på klippan vid havet (Sv. tal)",
-    "date": "2023-02-02T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Prick och Fläck på Fläcken",
-    "date": "2023-01-03T11:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Prick och Fläck på Fläcken",
+    "title": "Alfons och hemlige Mållgan",
     "date": "2023-01-04T11:15:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   },
   {
-    "title": "Resan till Melonia",
-    "date": "2022-12-27T12:45:00.000Z",
+    "title": "All Of Our Heartbeats Are Connected Through Explod",
+    "date": "2022-12-08T14:45:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
-    "title": "Resan till Melonia",
-    "date": "2023-01-27T13:00:00.000Z",
+    "title": "All the Beauty and the Bloodshed - Förhandsvisning!",
+    "date": "2023-01-10T19:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
-    "title": "Ronja Rövardotter",
-    "date": "2023-02-08T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-12-24T15:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-12-24T17:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-12-28T19:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Rose",
-    "date": "2022-12-29T14:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Rose",
-    "date": "2023-01-01T17:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Rumbaterapi",
-    "date": "2023-01-02T19:15:00.000Z",
+    "title": "Arne Alligator",
+    "date": "2022-12-10T11:15:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
-    "title": "Satoshi Kon: Paprika",
-    "date": "2023-02-08T15:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Satoshi Kon: Perfect Blue",
-    "date": "2023-01-14T17:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Satoshi Kon: Perfect Blue",
-    "date": "2023-01-15T16:45:00.000Z",
+    "title": "Avatar: The Way of Water",
+    "date": "2022-12-14T18:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   },
   {
-    "title": "Satoshi Kon: Perfect Blue",
-    "date": "2023-02-05T15:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Satoshi Kon: Tokyo godfathers",
-    "date": "2023-01-25T16:45:00.000Z",
+    "title": "Avatar: The Way of Water",
+    "date": "2022-12-15T18:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   },
   {
-    "title": "She Said",
-    "date": "2022-12-27T19:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "She Said",
-    "date": "2022-12-28T14:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "She Said",
-    "date": "2022-12-30T14:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Shoplifters",
-    "date": "2023-01-07T19:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Skolan vid världens ände",
-    "date": "2022-12-24T14:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Skolan vid världens ände",
-    "date": "2022-12-28T15:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "Skolan vid världens ände",
-    "date": "2022-12-30T17:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Speak No Evil",
-    "date": "2023-01-05T19:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Stora stygga räven (Sv. tal)",
-    "date": "2023-01-30T13:00:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "SVENSK KORTFILM C/O FOLKETS BIO HT 2022 - DEL 1",
-    "date": "2023-01-21T17:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "SVENSK KORTFILM C/O FOLKETS BIO HT 2022 - DEL 2",
-    "date": "2023-01-21T18:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "The Handmaiden",
-    "date": "2023-01-17T14:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "The Menu",
-    "date": "2022-12-24T16:45:00.000Z",
+    "title": "Avatar: The Way of Water",
+    "date": "2022-12-16T18:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   },
   {
-    "title": "The Menu",
-    "date": "2022-12-26T19:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 2"
-  },
-  {
-    "title": "The Menu",
-    "date": "2022-12-27T19:00:00.000Z",
+    "title": "Avatar: The Way of Water",
+    "date": "2022-12-17T13:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   },
   {
-    "title": "The Menu",
-    "date": "2022-12-30T17:00:00.000Z",
+    "title": "Bamse och vulkanön",
+    "date": "2022-12-26T11:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
-    "title": "The Menu",
-    "date": "2023-01-01T17:15:00.000Z",
+    "title": "Bamse och vulkanön",
+    "date": "2023-01-02T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Bamse och vulkanön",
+    "date": "2023-01-07T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Bardo",
+    "date": "2022-12-06T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Beautiful Beings",
+    "date": "2022-12-02T17:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
-    "title": "The Woman King",
+    "title": "Belle",
+    "date": "2023-01-04T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Bones and all",
+    "date": "2022-12-02T19:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Bones and all",
+    "date": "2022-12-03T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Bones and all",
+    "date": "2022-12-04T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Bones and all",
+    "date": "2022-12-06T19:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Bones and all",
+    "date": "2022-12-08T19:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Bones and all",
+    "date": "2022-12-09T19:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Boy from Heaven (Sv. txt)",
+    "date": "2022-12-02T17:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Boy from Heaven (Sv. txt)",
+    "date": "2022-12-03T17:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Boy from Heaven (Sv. txt)",
+    "date": "2022-12-04T17:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Boy from Heaven (Sv. txt)",
+    "date": "2022-12-05T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Boy from Heaven (Sv. txt)",
+    "date": "2022-12-06T14:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Boy from Heaven (Sv. txt)",
+    "date": "2022-12-06T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Boy from Heaven (Sv. txt)",
+    "date": "2022-12-07T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Boy from Heaven (Sv. txt)",
+    "date": "2022-12-08T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Boy from Heaven (Sv. txt)",
+    "date": "2022-12-09T17:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Bränn alla mina brev (Sv. txt)",
+    "date": "2023-01-03T17:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Bröderna Lejonhjärta",
+    "date": "2023-01-01T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Clara Sola",
+    "date": "2023-01-04T16:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "David Lynch: DYNAMIC: 01",
+    "date": "2022-12-21T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "David Lynch: Lost Highway",
+    "date": "2023-01-07T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "David Lynch: Mulholland Drive",
+    "date": "2022-12-15T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "David Lynch: Short Films of David Lynch + Dumbland",
+    "date": "2022-12-21T17:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "David Lynch: Twin Peaks: Fire Walk With me",
+    "date": "2022-12-05T17:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "David Lynch: Wild at Heart",
+    "date": "2023-01-04T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Decision to Leave (Eng. text)",
+    "date": "2023-01-16T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Decision to Leave - Förhandsvisning!",
+    "date": "2022-12-20T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Den Magiska Månresan",
+    "date": "2022-12-04T12:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Den Magiska Månresan",
+    "date": "2023-01-01T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Den oändliga historien (Eng tal)",
+    "date": "2022-12-11T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Det levande slottet (Sv. tal)",
+    "date": "2022-12-04T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Dunderklumpen",
+    "date": "2023-01-05T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Där kräftorna sjunger",
+    "date": "2023-01-02T14:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Döttrar (Eng. text)",
+    "date": "2023-01-23T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Döttrar (Sv. txt)",
+    "date": "2022-12-30T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Emily",
+    "date": "2022-12-03T19:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Emily",
+    "date": "2022-12-06T14:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "En annorlunda värld (Sv. tal)",
+    "date": "2022-12-03T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "En annorlunda värld (Sv. tal)",
+    "date": "2022-12-11T12:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "En annorlunda värld (Sv. tal)",
+    "date": "2022-12-28T12:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "En annorlunda värld (Sv. tal)",
+    "date": "2022-12-29T12:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "En annorlunda värld (Sv. tal)",
+    "date": "2023-01-06T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "En persikolund i Katalonien",
+    "date": "2022-12-27T17:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "En persikolund i Katalonien (Eng. text)",
+    "date": "2022-12-12T17:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "En underbar finsk jävla jul",
+    "date": "2022-12-04T17:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Encanto (Sv. tal)",
+    "date": "2023-01-07T12:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Everything Everywhere All at Once",
     "date": "2022-12-25T19:30:00.000Z",
     "venue": "Panora",
-    "screen": "Salong 3"
+    "screen": "Salong 2"
   },
   {
-    "title": "The Woman King",
-    "date": "2022-12-26T19:15:00.000Z",
+    "title": "Finding Fela",
+    "date": "2023-05-04T16:15:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
-    "title": "The Woman King",
-    "date": "2022-12-29T14:30:00.000Z",
+    "title": "FRIIS FRAME: Dekolonialitet workshop/studiecirkel",
+    "date": "2022-12-05T17:15:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
-    "title": "The Woman King",
-    "date": "2022-12-30T19:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Titina (Sv. tal)",
-    "date": "2022-12-26T12:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Titina (Sv. tal)",
-    "date": "2023-01-03T12:15:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 1"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-12-24T19:15:00.000Z",
+    "title": "FRIIS FRAME: Sven slutar gå",
+    "date": "2022-12-19T17:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
-    "title": "Triangle of Sadness",
-    "date": "2022-12-25T14:30:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Triangle of Sadness",
-    "date": "2022-12-26T14:15:00.000Z",
+    "title": "FRIIS FRAME: WIP - Queer Balkan // Scenario 2030",
+    "date": "2022-12-12T17:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
-    "title": "Triangle of Sadness",
-    "date": "2022-12-27T14:00:00.000Z",
+    "title": "Guellermo del Toro: Pinocchio",
+    "date": "2022-12-04T12:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Hilma (Sv. txt)",
+    "date": "2022-12-02T14:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Hilma (Sv. txt)",
+    "date": "2022-12-03T14:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   },
   {
-    "title": "Triangle of Sadness",
+    "title": "Hilma (Sv. txt)",
+    "date": "2022-12-04T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Hilma (Sv. txt)",
+    "date": "2022-12-05T14:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Hilma (Sv. txt)",
+    "date": "2022-12-06T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Hilma (Sv. txt)",
+    "date": "2022-12-07T14:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Hilma (Sv. txt)",
+    "date": "2022-12-09T14:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Historien om Bodri",
+    "date": "2022-12-11T12:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Hundhotellet",
+    "date": "2022-12-25T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Inna de Yard",
+    "date": "2023-03-23T17:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Joe Strummer: The Future is unwritten",
+    "date": "2023-02-23T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Joyce Carol Oates A Body in the Service of Mind (S",
+    "date": "2023-01-05T16:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Katia Lund Fernando Meirelles: Guds Stad",
+    "date": "2023-01-03T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Katia Lund Fernando Meirelles: Guds Stad",
+    "date": "2023-01-11T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Kärlekens hjältar",
+    "date": "2022-12-02T14:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Kärlekens hjältar",
+    "date": "2022-12-03T17:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Kärlekens hjältar",
+    "date": "2022-12-05T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Kärlekens hjältar",
+    "date": "2022-12-06T15:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "LasseMajas Detektivbyrå: Skorpionens gåta (Sv. txt",
+    "date": "2022-12-11T12:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "LasseMajas Detektivbyrå: Skorpionens gåta (Sv. txt",
+    "date": "2022-12-27T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "LasseMajas Detektivbyrå: Skorpionens gåta (Sv. txt",
+    "date": "2023-01-04T12:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Latte Igelkott och den magiska vattenstenen (Sv. t",
+    "date": "2022-12-28T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Licorice Pizza",
+    "date": "2022-12-26T19:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Lilla Spöket Laban - Bullar och Bång",
+    "date": "2023-01-02T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Lilla Spöket Laban - Bullar och Bång",
+    "date": "2023-01-05T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Lilla Spöket Laban - Världens snällaste spöke",
+    "date": "2022-12-03T13:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Lilla Spöket Laban - Världens snällaste spöke",
+    "date": "2022-12-11T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Lille Allan - den mänsklige antennen (Sv. tal)",
+    "date": "2022-12-30T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Lille Allan - den mänsklige antennen (Sv. tal)",
+    "date": "2023-01-04T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Loranga Masarin & Dartanjang",
+    "date": "2022-12-25T13:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Loranga Masarin & Dartanjang",
+    "date": "2023-01-03T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Loranga Masarin & Dartanjang",
+    "date": "2023-01-08T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Maija Isola",
+    "date": "2023-01-29T17:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Mamma Mu hittar hem (Sv. txt)",
+    "date": "2022-12-04T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Mamma Mu hittar hem (Sv. txt)",
+    "date": "2022-12-11T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Mamma Mu hittar hem (Sv. txt)",
+    "date": "2022-12-27T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Mamma Mu hittar hem (Sv. txt)",
+    "date": "2023-01-01T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Mamma Mu hittar hem (Sv. txt)",
+    "date": "2023-01-06T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Mamman och den vilda bebin/Lillasyster Kanin",
+    "date": "2022-12-30T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Mamman och den vilda bebin/Lillasyster Kanin",
+    "date": "2023-01-02T13:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Matangi/Maya/M.I.A.",
+    "date": "2023-04-20T16:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Maya Nilo (Laura) (Eng. txt)",
+    "date": "2022-12-05T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Min vackra stjärna",
+    "date": "2022-12-10T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Min vackra stjärna",
+    "date": "2022-12-11T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Min vackra stjärna + premiärmingel",
+    "date": "2022-12-09T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Minioner: Berättelsen om Gru (Sv. tal)",
+    "date": "2023-01-07T15:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Minioner: Berättelsen om Gru (Sv. tal)",
+    "date": "2023-01-08T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Miraï min lillasyster (Sv. tal)",
+    "date": "2023-01-06T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Molly Monster och Äggmysteriet",
+    "date": "2022-12-29T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Molly Monster och Äggmysteriet",
+    "date": "2023-01-03T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Molly och Julmonstret",
+    "date": "2022-12-25T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Molly och Julmonstret",
+    "date": "2022-12-26T13:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Molly och Julmonstret",
+    "date": "2023-01-03T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Moonage Daydream",
+    "date": "2022-12-07T19:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Mor och Son",
+    "date": "2022-12-04T14:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Mor och Son",
+    "date": "2022-12-07T14:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Mor och Son",
+    "date": "2022-12-08T17:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Nausicaä från Vindarnas dal (Jap. tal)",
+    "date": "2023-01-07T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Neil Young: Harvest Time",
+    "date": "2022-12-12T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Nelly Rapp - Monsteragent (Sv. txt)",
+    "date": "2023-01-03T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Nicholas Ray: Ung Rebell (otextad)",
+    "date": "2023-03-01T17:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Nope",
+    "date": "2022-12-28T19:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Official Competition",
     "date": "2022-12-29T19:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
-    "title": "Triangle of Sadness",
-    "date": "2023-01-01T16:45:00.000Z",
+    "title": "Oliver Stone: Natural Born Killers (otextad)",
+    "date": "2023-01-18T19:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
-    "title": "Trollkarlen från Oz",
-    "date": "2023-01-26T13:00:00.000Z",
+    "title": "Pelle Svanslös",
+    "date": "2022-12-28T11:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
-    "title": "Trollvinter i Mumindalen",
-    "date": "2023-01-25T11:45:00.000Z",
+    "title": "Pelle Svanslös",
+    "date": "2023-01-05T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Pelle Svanslös",
+    "date": "2023-01-08T11:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Playground",
+    "date": "2023-01-07T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Polarexpressen",
+    "date": "2022-12-18T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Poly Styrene: I am a Cliché",
+    "date": "2023-02-09T17:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
-    "title": "Trollvinter i Mumindalen",
-    "date": "2023-02-02T11:45:00.000Z",
-    "venue": "Panora",
-    "screen": "Salong 3"
-  },
-  {
-    "title": "Vitt Brus",
-    "date": "2023-01-09T19:15:00.000Z",
+    "title": "Ponyo på klippan vid havet (Sv. tal)",
+    "date": "2023-01-02T13:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
-    "title": "Vitt Brus",
-    "date": "2023-01-10T19:00:00.000Z",
+    "title": "Prick och Fläck på Fläcken",
+    "date": "2022-12-03T11:15:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   },
   {
+    "title": "Prick och Fläck på Fläcken",
+    "date": "2022-12-04T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Prick och Fläck på pricken",
+    "date": "2023-01-07T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Prick och Fläck på pricken",
+    "date": "2023-01-08T12:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Resan till Melonia",
+    "date": "2022-12-27T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Rita och Krokodil",
+    "date": "2022-12-04T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Ronja Rövardotter",
+    "date": "2023-01-08T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Rose",
+    "date": "2022-12-04T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Rose",
+    "date": "2022-12-05T14:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Rumbaterapi",
+    "date": "2022-12-02T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Rumbaterapi",
+    "date": "2022-12-06T17:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Rumbaterapi",
+    "date": "2022-12-07T15:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Satoshi Kon: Paprika",
+    "date": "2023-01-08T15:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Satoshi Kon: Perfect Blue",
+    "date": "2022-12-14T17:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Satoshi Kon: Perfect Blue",
+    "date": "2022-12-15T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Satoshi Kon: Perfect Blue",
+    "date": "2023-01-05T15:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Satoshi Kon: Tokyo godfathers",
+    "date": "2022-12-25T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "She Said",
+    "date": "2022-12-08T14:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Shoplifters",
+    "date": "2022-12-07T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Sing  2 (Sv. tal)",
+    "date": "2023-01-05T12:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Sirens",
+    "date": "2023-01-26T17:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Skolan vid världens ände",
+    "date": "2022-12-02T14:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Skolan vid världens ände",
+    "date": "2022-12-03T14:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Skolan vid världens ände",
+    "date": "2022-12-08T15:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Skolan vid världens ände",
+    "date": "2022-12-09T14:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Snipp Snapp Snut och Tråkmånsarna",
+    "date": "2022-12-28T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Snipp Snapp Snut och Tråkmånsarna",
+    "date": "2023-01-05T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Snipp Snapp Snut och Tråkmånsarna",
+    "date": "2023-01-07T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Speak No Evil",
+    "date": "2022-12-05T19:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Stanley Kubrick: Full Metal Jacket (otextad)",
+    "date": "2023-02-15T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Stora stygga räven (Sv. tal)",
+    "date": "2022-12-30T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Super 8-åren",
+    "date": "2022-12-16T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "SVENSK KORTFILM C/O FOLKETS BIO HT 2022 - DEL 1",
+    "date": "2022-12-21T17:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "SVENSK KORTFILM C/O FOLKETS BIO HT 2022 - DEL 2",
+    "date": "2022-12-21T18:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "The Devil and Daniel Johnston",
+    "date": "2023-04-06T16:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "The French Dispatch",
+    "date": "2023-01-01T16:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "The Handmaiden",
+    "date": "2022-12-17T14:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "The Lost Daughter",
+    "date": "2023-01-06T14:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "The Menu",
+    "date": "2022-12-02T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "The Menu",
+    "date": "2022-12-03T16:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "The Menu",
+    "date": "2022-12-04T15:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "The Menu",
+    "date": "2022-12-07T17:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "The Woman King",
+    "date": "2022-12-04T19:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Tigrar och tatueringar (Sv. tal)",
+    "date": "2022-12-27T13:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Tigrar och tatueringar (Sv. tal)",
+    "date": "2022-12-29T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Titina (Sv. tal)",
+    "date": "2022-12-03T12:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Titina (Sv. tal)",
+    "date": "2022-12-30T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-02T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-03T18:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-04T14:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-05T14:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-07T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-08T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Triangle of Sadness",
+    "date": "2022-12-09T16:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Trollkarlen från Oz",
+    "date": "2022-12-26T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Trollvinter i Mumindalen",
+    "date": "2022-12-25T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Trollvinter i Mumindalen",
+    "date": "2023-01-02T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Ture och Jerry",
+    "date": "2022-12-27T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Ture och Jerry",
+    "date": "2023-01-03T12:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Urpo och Turpo",
+    "date": "2023-01-01T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Urpo och Turpo",
+    "date": "2023-01-06T11:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Vatten över huvudet (Sv. txt)",
+    "date": "2022-12-29T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Vatten över huvudet (Sv. txt)",
+    "date": "2023-01-06T13:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Vem?",
+    "date": "2022-12-28T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Vem?",
+    "date": "2023-01-04T11:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Viljas äventyr (Sv. tal)",
+    "date": "2023-01-03T12:45:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
+    "title": "Vitt Brus",
+    "date": "2022-12-09T19:15:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Vitt Brus",
+    "date": "2022-12-10T19:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 1"
+  },
+  {
+    "title": "Världens värsta människa",
+    "date": "2023-01-08T16:30:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 3"
+  },
+  {
     "title": "Werner Herzog: Fitzcarraldo",
-    "date": "2023-01-11T14:00:00.000Z",
+    "date": "2022-12-11T14:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   },
   {
     "title": "WIFT SJUAN+",
-    "date": "2023-01-21T19:30:00.000Z",
+    "date": "2022-12-21T19:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
     "title": "Wolfwalkers",
-    "date": "2023-01-29T13:00:00.000Z",
+    "date": "2022-12-29T13:00:00.000Z",
+    "venue": "Panora",
+    "screen": "Salong 2"
+  },
+  {
+    "title": "Wong Kar-Wai: As Tears Go By",
+    "date": "2023-02-14T17:15:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
     "title": "Yuku och fjällets blomma (Sv. tal)",
-    "date": "2023-01-16T15:00:00.000Z",
+    "date": "2022-12-16T15:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   },
   {
     "title": "Yuku och fjällets blomma (Sv. tal)",
-    "date": "2023-01-17T12:45:00.000Z",
+    "date": "2022-12-17T12:45:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
     "title": "Yuku och fjällets blomma (Sv. tal)",
-    "date": "2023-01-18T12:30:00.000Z",
+    "date": "2022-12-18T12:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
     "title": "Yuku och fjällets blomma (Sv. tal)",
-    "date": "2023-01-25T11:30:00.000Z",
+    "date": "2022-12-25T11:30:00.000Z",
     "venue": "Panora",
     "screen": "Salong 2"
   },
   {
     "title": "Yuku och fjällets blomma (Sv. tal)",
-    "date": "2023-01-26T12:00:00.000Z",
+    "date": "2022-12-26T12:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 3"
   },
   {
     "title": "Yuku och fjällets blomma (Sv. tal)",
-    "date": "2023-01-28T12:00:00.000Z",
+    "date": "2022-12-28T12:00:00.000Z",
     "venue": "Panora",
     "screen": "Salong 1"
   }

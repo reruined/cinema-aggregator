@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "antal": 81,
+  "antal": 128,
   "film": [
     {
       "FilmNr": "002921",
@@ -57,6 +57,75 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "001909",
+      "FilmNamn": "Akira (Eng. text)",
+      "Alder": "15 år",
+      "Speltid": "2.04",
+      "Genre": "Animerad film, Drama, Science Fiction",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/akira_2.jpg",
+      "tid": "20:00",
+      "datum": "2023-01-09",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37703",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "9/1 2023",
+          "Tid": "20:00",
+          "Pris": "130",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "001909",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "002944",
+      "FilmNamn": "Alfons och hemlige Mållgan",
+      "Alder": "0 år",
+      "Speltid": "0.36",
+      "Genre": "Animerad familjefilm",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/alfonsmÃ¥llgan.jpg",
+      "tid": "12:15",
+      "datum": "2023-01-01",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37608",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "1/1 2023",
+          "Tid": "14:30",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "002944",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37609",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "4/1 2023",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "002944",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003392",
       "FilmNamn": "All Of Our Heartbeats Are Connected Through Explod",
       "Alder": "0 år",
@@ -64,14 +133,14 @@
       "Genre": "Dokumentär",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/allofourheartbeats.jpg",
       "tid": "15:45",
-      "datum": "2022-12-01",
+      "datum": "2022-12-08",
       "AntalPlatsersalong": "104",
       "forestall": [
         {
-          "LopNr": "37521",
+          "LopNr": "37693",
           "Salong": "Salong 2",
           "SalongNr": "2",
-          "Datum": "1/12 2022",
+          "Datum": "8/12 2022",
           "Tid": "15:45",
           "Pris": "95",
           "AntalPlatsersalong": "104",
@@ -113,6 +182,34 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "001930",
+      "FilmNamn": "Arne Alligator",
+      "Alder": "0 år",
+      "Speltid": "0.40",
+      "Genre": "Animerad film, Barnfilm",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/arnealligator1_1.jpg",
+      "tid": "12:15",
+      "datum": "2022-12-10",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37714",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "10/12 2022",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "001930",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003462",
       "FilmNamn": "Avatar: The Way of Water",
       "Alder": "-1 år",
@@ -131,7 +228,7 @@
           "Tid": "19:30",
           "Pris": "140",
           "AntalPlatsersalong": "195",
-          "AntalLediga": "191",
+          "AntalLediga": "185",
           "HasStarted": false,
           "FilmNr": "003462",
           "Notering": ""
@@ -142,6 +239,19 @@
           "SalongNr": "1",
           "Datum": "15/12 2022",
           "Tid": "19:30",
+          "Pris": "140",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "194",
+          "HasStarted": false,
+          "FilmNr": "003462",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37700",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "16/12 2022",
+          "Tid": "19:00",
           "Pris": "140",
           "AntalPlatsersalong": "195",
           "AntalLediga": "195",
@@ -157,13 +267,13 @@
           "Tid": "14:00",
           "Pris": "140",
           "AntalPlatsersalong": "195",
-          "AntalLediga": "192",
+          "AntalLediga": "190",
           "HasStarted": false,
           "FilmNr": "003462",
           "Notering": ""
         }
       ],
-      "Antalforestall": 3,
+      "Antalforestall": 4,
       "Antalsalong": "9"
     },
     {
@@ -196,7 +306,7 @@
           "SalongNr": "2",
           "Datum": "2/1 2023",
           "Tid": "12:30",
-          "Pris": "120",
+          "Pris": "95",
           "AntalPlatsersalong": "103",
           "AntalLediga": "103",
           "HasStarted": false,
@@ -255,23 +365,10 @@
       "Speltid": "2.03",
       "Genre": "Drama",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/beautifulbeings.jpg",
-      "tid": "15:45",
-      "datum": "2022-11-27",
+      "tid": "18:00",
+      "datum": "2022-12-02",
       "AntalPlatsersalong": "78",
       "forestall": [
-        {
-          "LopNr": "37341",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "27/11 2022",
-          "Tid": "15:45",
-          "Pris": "130",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
-          "HasStarted": false,
-          "FilmNr": "003432",
-          "Notering": ""
-        },
         {
           "LopNr": "37442",
           "Salong": "Salong 3",
@@ -286,7 +383,7 @@
           "Notering": ""
         }
       ],
-      "Antalforestall": 2,
+      "Antalforestall": 1,
       "Antalsalong": "9"
     },
     {
@@ -324,41 +421,67 @@
       "Speltid": "2.10",
       "Genre": "Drama, Romantik, Skräck",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/bonesandall.jpg",
-      "tid": "17:45",
-      "datum": "2022-11-25",
-      "AntalPlatsersalong": "195",
+      "tid": "20:00",
+      "datum": "2022-12-02",
+      "AntalPlatsersalong": "78",
       "forestall": [
         {
-          "LopNr": "37177",
+          "LopNr": "37618",
           "Salong": "Salong 2",
           "SalongNr": "2",
-          "Datum": "25/11 2022",
+          "Datum": "2/12 2022",
+          "Tid": "20:30",
+          "Pris": "130",
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "95",
+          "HasStarted": false,
+          "FilmNr": "003388",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37666",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "3/12 2022",
           "Tid": "20:15",
           "Pris": "130",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "81",
+          "AntalLediga": "102",
           "HasStarted": false,
           "FilmNr": "003388",
           "Notering": ""
         },
         {
-          "LopNr": "37331",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "26/11 2022",
-          "Tid": "18:00",
+          "LopNr": "37670",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "4/12 2022",
+          "Tid": "20:00",
           "Pris": "130",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "191",
           "HasStarted": false,
           "FilmNr": "003388",
           "Notering": ""
         },
         {
-          "LopNr": "37502",
+          "LopNr": "37685",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "6/12 2022",
+          "Tid": "20:30",
+          "Pris": "130",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "76",
+          "HasStarted": false,
+          "FilmNr": "003388",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37696",
           "Salong": "Salong 2",
           "SalongNr": "2",
-          "Datum": "27/11 2022",
+          "Datum": "8/12 2022",
           "Tid": "20:30",
           "Pris": "130",
           "AntalPlatsersalong": "104",
@@ -368,40 +491,14 @@
           "Notering": ""
         },
         {
-          "LopNr": "37508",
+          "LopNr": "37748",
           "Salong": "Salong 3",
           "SalongNr": "3",
-          "Datum": "28/11 2022",
-          "Tid": "20:00",
+          "Datum": "9/12 2022",
+          "Tid": "20:30",
           "Pris": "130",
           "AntalPlatsersalong": "78",
           "AntalLediga": "78",
-          "HasStarted": false,
-          "FilmNr": "003388",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37441",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "29/11 2022",
-          "Tid": "20:00",
-          "Pris": "130",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
-          "FilmNr": "003388",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37548",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "30/11 2022",
-          "Tid": "17:45",
-          "Pris": "130",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
           "HasStarted": false,
           "FilmNr": "003388",
           "Notering": ""
@@ -417,110 +514,32 @@
       "Speltid": "2.01",
       "Genre": "Thriller",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Boy_from_Heaven_huvudaffisch_TriArt_Film-336x480.jpg",
-      "tid": "17:45",
-      "datum": "2022-11-24",
+      "tid": "15:30",
+      "datum": "2022-12-02",
       "AntalPlatsersalong": "104",
       "forestall": [
         {
-          "LopNr": "37426",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "24/11 2022",
-          "Tid": "20:00",
+          "LopNr": "37612",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "2/12 2022",
+          "Tid": "18:15",
           "Pris": "130",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "172",
-          "HasStarted": true,
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "84",
+          "HasStarted": false,
           "FilmNr": "003349",
           "Notering": ""
         },
         {
-          "LopNr": "37439",
+          "LopNr": "37614",
           "Salong": "Salong 2",
           "SalongNr": "2",
-          "Datum": "25/11 2022",
+          "Datum": "3/12 2022",
           "Tid": "18:00",
           "Pris": "130",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "100",
-          "HasStarted": false,
-          "FilmNr": "003349",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37386",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "26/11 2022",
-          "Tid": "17:45",
-          "Pris": "130",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "191",
-          "HasStarted": false,
-          "FilmNr": "003349",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37497",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "27/11 2022",
-          "Tid": "18:15",
-          "Pris": "130",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "99",
-          "HasStarted": false,
-          "FilmNr": "003349",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37530",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "28/11 2022",
-          "Tid": "18:15",
-          "Pris": "130",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
-          "HasStarted": false,
-          "FilmNr": "003349",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37440",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "29/11 2022",
-          "Tid": "17:45",
-          "Pris": "130",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "194",
-          "HasStarted": false,
-          "FilmNr": "003349",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37519",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "30/11 2022",
-          "Tid": "20:15",
-          "Pris": "130",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
-          "FilmNr": "003349",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37527",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "1/12 2022",
-          "Tid": "20:30",
-          "Pris": "130",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "98",
           "HasStarted": false,
           "FilmNr": "003349",
           "Notering": ""
@@ -533,6 +552,84 @@
           "Tid": "18:15",
           "Pris": "130",
           "AntalPlatsersalong": "104",
+          "AntalLediga": "88",
+          "HasStarted": false,
+          "FilmNr": "003349",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37678",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "5/12 2022",
+          "Tid": "17:45",
+          "Pris": "130",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "193",
+          "HasStarted": false,
+          "FilmNr": "003349",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37680",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "6/12 2022",
+          "Tid": "15:30",
+          "Pris": "105",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "193",
+          "HasStarted": false,
+          "FilmNr": "003349",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37682",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "6/12 2022",
+          "Tid": "20:15",
+          "Pris": "130",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "191",
+          "HasStarted": false,
+          "FilmNr": "003349",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37688",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "7/12 2022",
+          "Tid": "20:00",
+          "Pris": "130",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "003349",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37698",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "8/12 2022",
+          "Tid": "20:15",
+          "Pris": "130",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003349",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37747",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "9/12 2022",
+          "Tid": "18:00",
+          "Pris": "130",
+          "AntalPlatsersalong": "104",
           "AntalLediga": "104",
           "HasStarted": false,
           "FilmNr": "003349",
@@ -540,6 +637,34 @@
         }
       ],
       "Antalforestall": 9,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003296",
+      "FilmNamn": "Bränn alla mina brev (Sv. txt)",
+      "Alder": "11 år",
+      "Speltid": "2.00",
+      "Genre": "Drama",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/brannallaminabrev.jpg",
+      "tid": "18:00",
+      "datum": "2023-01-03",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37726",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "3/1 2023",
+          "Tid": "18:00",
+          "Pris": "100",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "192",
+          "HasStarted": false,
+          "FilmNr": "003296",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
       "Antalsalong": "9"
     },
     {
@@ -571,6 +696,34 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "002824",
+      "FilmNamn": "Clara Sola",
+      "Alder": "11 år",
+      "Speltid": "1.48",
+      "Genre": "Drama",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/clara_sola_poster.jpg",
+      "tid": "17:30",
+      "datum": "2023-01-04",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37727",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "4/1 2023",
+          "Tid": "17:30",
+          "Pris": "100",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "002824",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003321",
       "FilmNamn": "David Lynch: DYNAMIC: 01",
       "Alder": "15 år",
@@ -589,7 +742,7 @@
           "Tid": "20:15",
           "Pris": "120",
           "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
+          "AntalLediga": "76",
           "HasStarted": false,
           "FilmNr": "003321",
           "Notering": "Rabatter eller Klippkort gäller ej."
@@ -617,7 +770,7 @@
           "Tid": "20:00",
           "Pris": "130",
           "AntalPlatsersalong": "195",
-          "AntalLediga": "193",
+          "AntalLediga": "186",
           "HasStarted": false,
           "FilmNr": "003433",
           "Notering": "Rabatter eller Klippkort gäller ej."
@@ -645,7 +798,7 @@
           "Tid": "20:00",
           "Pris": "130",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "85",
+          "AntalLediga": "73",
           "HasStarted": false,
           "FilmNr": "002651",
           "Notering": "Rabatter eller Klippkort gäller ej."
@@ -673,7 +826,7 @@
           "Tid": "18:30",
           "Pris": "120",
           "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
+          "AntalLediga": "75",
           "HasStarted": false,
           "FilmNr": "003320",
           "Notering": "Rabatter eller Klippkort gäller ej."
@@ -701,7 +854,7 @@
           "Tid": "18:00",
           "Pris": "130",
           "AntalPlatsersalong": "78",
-          "AntalLediga": "60",
+          "AntalLediga": "53",
           "HasStarted": false,
           "FilmNr": "003239",
           "Notering": "Rabatter eller Klippkort gäller ej."
@@ -711,28 +864,56 @@
       "Antalsalong": "9"
     },
     {
-      "FilmNr": "003319",
-      "FilmNamn": "David Lynch: Wild At Heart",
+      "FilmNr": "003491",
+      "FilmNamn": "David Lynch: Wild at Heart",
       "Alder": "15 år",
-      "Speltid": "2.05",
+      "Speltid": "2.07",
       "Genre": "",
-      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/wildatheart.jpg",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/wildatheart_1.jpg",
+      "tid": "20:15",
+      "datum": "2023-01-04",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37750",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "4/1 2023",
+          "Tid": "20:15",
+          "Pris": "130",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003491",
+          "Notering": "Rabatter eller Klippkort gäller ej."
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003477",
+      "FilmNamn": "Decision to Leave (Eng. text)",
+      "Alder": "11 år",
+      "Speltid": "2.18",
+      "Genre": "Crime, Drama, Mysterie",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/decisiontoleave_3.jpg",
       "tid": "20:00",
-      "datum": "2022-11-30",
+      "datum": "2023-01-16",
       "AntalPlatsersalong": "104",
       "forestall": [
         {
-          "LopNr": "36759",
+          "LopNr": "37704",
           "Salong": "Salong 2",
           "SalongNr": "2",
-          "Datum": "30/11 2022",
+          "Datum": "16/1 2023",
           "Tid": "20:00",
           "Pris": "130",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "74",
+          "AntalLediga": "104",
           "HasStarted": false,
-          "FilmNr": "003319",
-          "Notering": "Rabatter eller Klippkort gäller ej."
+          "FilmNr": "003477",
+          "Notering": ""
         }
       ],
       "Antalforestall": 1,
@@ -757,7 +938,7 @@
           "Tid": "20:00",
           "Pris": "130",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
+          "AntalLediga": "99",
           "HasStarted": false,
           "FilmNr": "003430",
           "Notering": "Rabatter eller Klippkort gäller ej."
@@ -773,9 +954,9 @@
       "Speltid": "1.20",
       "Genre": "Animerad familjefilm, Animerad film, Barnfilm, Fantasy",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/denmagiskamanresan.jpg",
-      "tid": "13:15",
+      "tid": "12:45",
       "datum": "2022-12-04",
-      "AntalPlatsersalong": "195",
+      "AntalPlatsersalong": "78",
       "forestall": [
         {
           "LopNr": "37555",
@@ -789,9 +970,22 @@
           "HasStarted": false,
           "FilmNr": "003269",
           "Notering": ""
+        },
+        {
+          "LopNr": "37628",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "1/1 2023",
+          "Tid": "12:45",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003269",
+          "Notering": ""
         }
       ],
-      "Antalforestall": 1,
+      "Antalforestall": 2,
       "Antalsalong": "9"
     },
     {
@@ -813,7 +1007,7 @@
           "Tid": "14:00",
           "Pris": "120",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "88",
+          "AntalLediga": "82",
           "HasStarted": false,
           "FilmNr": "003422",
           "Notering": ""
@@ -841,7 +1035,7 @@
           "Tid": "14:00",
           "Pris": "120",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "102",
+          "AntalLediga": "98",
           "HasStarted": false,
           "FilmNr": "001501",
           "Notering": ""
@@ -879,83 +1073,128 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "003231",
+      "FilmNamn": "Där kräftorna sjunger",
+      "Alder": "11 år",
+      "Speltid": "2.06",
+      "Genre": "Drama, Mysterie",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/darkraftornasjunger_bp_webb.jpg",
+      "tid": "15:30",
+      "datum": "2023-01-02",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37725",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "2/1 2023",
+          "Tid": "15:30",
+          "Pris": "100",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003231",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003479",
+      "FilmNamn": "Döttrar (Eng. text)",
+      "Alder": "11 år",
+      "Speltid": "1.30",
+      "Genre": "Dokumentär",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/dottrar_2.jpg",
+      "tid": "17:45",
+      "datum": "2023-01-23",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37705",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "23/1 2023",
+          "Tid": "17:45",
+          "Pris": "120",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003479",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003382",
+      "FilmNamn": "Döttrar (Sv. txt)",
+      "Alder": "11 år",
+      "Speltid": "1.30",
+      "Genre": "Dokumentär",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/dottrar_1.jpg",
+      "tid": "17:45",
+      "datum": "2022-12-30",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37734",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "30/12 2022",
+          "Tid": "17:45",
+          "Pris": "100",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "003382",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003387",
       "FilmNamn": "Emily",
       "Alder": "11 år",
       "Speltid": "2.10",
       "Genre": "Drama",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/emily.jpg",
-      "tid": "15:45",
-      "datum": "2022-11-25",
-      "AntalPlatsersalong": "78",
+      "tid": "15:15",
+      "datum": "2022-12-03",
+      "AntalPlatsersalong": "104",
       "forestall": [
         {
-          "LopNr": "37176",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "25/11 2022",
-          "Tid": "20:00",
-          "Pris": "130",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "193",
-          "HasStarted": false,
-          "FilmNr": "003387",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37492",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "26/11 2022",
-          "Tid": "20:00",
-          "Pris": "130",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
-          "FilmNr": "003387",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37509",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "28/11 2022",
+          "LopNr": "37667",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "3/12 2022",
           "Tid": "20:30",
           "Pris": "130",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003387",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37683",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "6/12 2022",
+          "Tid": "15:15",
+          "Pris": "105",
           "AntalPlatsersalong": "104",
           "AntalLediga": "104",
           "HasStarted": false,
           "FilmNr": "003387",
           "Notering": ""
-        },
-        {
-          "LopNr": "37513",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "29/11 2022",
-          "Tid": "16:00",
-          "Pris": "105",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
-          "HasStarted": false,
-          "FilmNr": "003387",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37518",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "30/11 2022",
-          "Tid": "15:45",
-          "Pris": "105",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
-          "HasStarted": false,
-          "FilmNr": "003387",
-          "Notering": ""
         }
       ],
-      "Antalforestall": 5,
+      "Antalforestall": 2,
       "Antalsalong": "9"
     },
     {
@@ -966,35 +1205,9 @@
       "Genre": "Animerad familjefilm",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/enannorlundavarld.jpg",
       "tid": "12:30",
-      "datum": "2022-11-26",
-      "AntalPlatsersalong": "104",
+      "datum": "2022-12-03",
+      "AntalPlatsersalong": "78",
       "forestall": [
-        {
-          "LopNr": "37453",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "26/11 2022",
-          "Tid": "12:30",
-          "Pris": "120",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "102",
-          "HasStarted": false,
-          "FilmNr": "003445",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37454",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "27/11 2022",
-          "Tid": "13:00",
-          "Pris": "120",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "193",
-          "HasStarted": false,
-          "FilmNr": "003445",
-          "Notering": ""
-        },
         {
           "LopNr": "37544",
           "Salong": "Salong 2",
@@ -1003,13 +1216,93 @@
           "Tid": "12:30",
           "Pris": "120",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
+          "AntalLediga": "100",
+          "HasStarted": false,
+          "FilmNr": "003445",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37718",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "11/12 2022",
+          "Tid": "13:30",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003445",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37600",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "28/12 2022",
+          "Tid": "13:30",
+          "Pris": "95",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003445",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37601",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "29/12 2022",
+          "Tid": "13:30",
+          "Pris": "95",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003445",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37602",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "6/1 2023",
+          "Tid": "12:45",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
           "HasStarted": false,
           "FilmNr": "003445",
           "Notering": ""
         }
       ],
-      "Antalforestall": 3,
+      "Antalforestall": 5,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003310",
+      "FilmNamn": "En persikolund i Katalonien",
+      "Alder": "0 år",
+      "Speltid": "2.00",
+      "Genre": "Drama",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/enpersikolund_1.jpg",
+      "tid": "18:00",
+      "datum": "2022-12-27",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37721",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "27/12 2022",
+          "Tid": "18:00",
+          "Pris": "100",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003310",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
       "Antalsalong": "9"
     },
     {
@@ -1059,7 +1352,7 @@
           "Tid": "18:00",
           "Pris": "120",
           "AntalPlatsersalong": "78",
-          "AntalLediga": "76",
+          "AntalLediga": "73",
           "HasStarted": false,
           "FilmNr": "003389",
           "Notering": "Rabatter eller Klippkort gäller ej."
@@ -1069,28 +1362,84 @@
       "Antalsalong": "9"
     },
     {
-      "FilmNr": "003312",
-      "FilmNamn": "Farha",
-      "Alder": "15 år",
-      "Speltid": "1.32",
-      "Genre": "Drama",
-      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/farha_3.png",
-      "tid": "18:30",
-      "datum": "2022-11-29",
+      "FilmNr": "002868",
+      "FilmNamn": "Encanto (Sv. tal)",
+      "Alder": "7 år",
+      "Speltid": "1.49",
+      "Genre": "Animerad familjefilm, Komedi, Äventyr",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/encanto.jpg",
+      "tid": "13:30",
+      "datum": "2023-01-07",
       "AntalPlatsersalong": "78",
       "forestall": [
         {
-          "LopNr": "37314",
+          "LopNr": "37648",
           "Salong": "Salong 3",
           "SalongNr": "3",
-          "Datum": "29/11 2022",
-          "Tid": "18:30",
-          "Pris": "0",
+          "Datum": "7/1 2023",
+          "Tid": "13:30",
+          "Pris": "120",
           "AntalPlatsersalong": "78",
-          "AntalLediga": "51",
+          "AntalLediga": "78",
           "HasStarted": false,
-          "FilmNr": "003312",
-          "Notering": "Bokade biljetter hämtas i kassan senast 30min före visningen"
+          "FilmNr": "002868",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003145",
+      "FilmNamn": "Everything Everywhere All at Once",
+      "Alder": "11 år",
+      "Speltid": "2.19",
+      "Genre": "Action, Fantasy, Komedi, Äventyr",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/everythingeverywheree.jpg",
+      "tid": "20:30",
+      "datum": "2022-12-25",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37719",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "25/12 2022",
+          "Tid": "20:30",
+          "Pris": "100",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003145",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "000441",
+      "FilmNamn": "Finding Fela",
+      "Alder": "15 år",
+      "Speltid": "1.59",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/findingfela.jpg",
+      "tid": "18:15",
+      "datum": "2023-05-04",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37742",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "4/5 2023",
+          "Tid": "18:15",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "000441",
+          "Notering": "Rabatter eller Klippkort gäller ej."
         }
       ],
       "Antalforestall": 1,
@@ -1115,7 +1464,7 @@
           "Tid": "18:15",
           "Pris": "0",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "102",
+          "AntalLediga": "98",
           "HasStarted": false,
           "FilmNr": "003428",
           "Notering": "Bokade biljetter hämtas i kassan senast 30min före visningen"
@@ -1125,27 +1474,27 @@
       "Antalsalong": "9"
     },
     {
-      "FilmNr": "003418",
-      "FilmNamn": "FRIIS FRAME: RAR x SAQMI",
-      "Alder": "-1 år",
+      "FilmNr": "003474",
+      "FilmNamn": "FRIIS FRAME: Sven slutar gå",
+      "Alder": "år",
       "Speltid": "0.00",
       "Genre": "",
-      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Friisframe-internetbokningen_27_8.jpg",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Friisframe-internetbokningen_28.jpg",
       "tid": "18:00",
-      "datum": "2022-11-28",
-      "AntalPlatsersalong": "78",
+      "datum": "2022-12-19",
+      "AntalPlatsersalong": "103",
       "forestall": [
         {
-          "LopNr": "37451",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "28/11 2022",
+          "LopNr": "37650",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "19/12 2022",
           "Tid": "18:00",
           "Pris": "0",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "34",
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "95",
           "HasStarted": false,
-          "FilmNr": "003418",
+          "FilmNr": "003474",
           "Notering": "Bokade biljetter hämtas i kassan senast 30min före visningen"
         }
       ],
@@ -1171,7 +1520,7 @@
           "Tid": "18:00",
           "Pris": "0",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "95",
+          "AntalLediga": "86",
           "HasStarted": false,
           "FilmNr": "003439",
           "Notering": "Bokade biljetter hämtas i kassan senast 30min före visningen"
@@ -1187,38 +1536,25 @@
       "Speltid": "1.54",
       "Genre": "Animerad familjefilm, Drama",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/pinoccgioGDT.jpg",
-      "tid": "15:15",
-      "datum": "2022-11-25",
-      "AntalPlatsersalong": "195",
+      "tid": "13:30",
+      "datum": "2022-12-04",
+      "AntalPlatsersalong": "78",
       "forestall": [
         {
-          "LopNr": "37469",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "25/11 2022",
-          "Tid": "15:15",
-          "Pris": "95",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
-          "FilmNr": "003410",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37253",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "26/11 2022",
-          "Tid": "15:30",
+          "LopNr": "37619",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "4/12 2022",
+          "Tid": "13:30",
           "Pris": "120",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "193",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "75",
           "HasStarted": false,
           "FilmNr": "003410",
           "Notering": ""
         }
       ],
-      "Antalforestall": 2,
+      "Antalforestall": 1,
       "Antalsalong": "9"
     },
     {
@@ -1228,54 +1564,54 @@
       "Speltid": "1.59",
       "Genre": "Drama",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/hilma.jpg",
-      "tid": "15:30",
-      "datum": "2022-11-24",
+      "tid": "15:00",
+      "datum": "2022-12-02",
       "AntalPlatsersalong": "78",
       "forestall": [
         {
-          "LopNr": "37424",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "24/11 2022",
-          "Tid": "15:30",
+          "LopNr": "37662",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "2/12 2022",
+          "Tid": "15:45",
           "Pris": "95",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "185",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "74",
           "HasStarted": true,
           "FilmNr": "003313",
           "Notering": ""
         },
         {
-          "LopNr": "37470",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "25/11 2022",
-          "Tid": "15:45",
-          "Pris": "95",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "96",
+          "LopNr": "37663",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "3/12 2022",
+          "Tid": "15:00",
+          "Pris": "120",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "193",
           "HasStarted": false,
           "FilmNr": "003313",
           "Notering": ""
         },
         {
-          "LopNr": "37496",
+          "LopNr": "37669",
           "Salong": "Salong 1",
           "SalongNr": "1",
-          "Datum": "27/11 2022",
+          "Datum": "4/12 2022",
           "Tid": "17:45",
           "Pris": "120",
           "AntalPlatsersalong": "195",
-          "AntalLediga": "192",
+          "AntalLediga": "193",
           "HasStarted": false,
           "FilmNr": "003313",
           "Notering": ""
         },
         {
-          "LopNr": "37504",
+          "LopNr": "37675",
           "Salong": "Salong 1",
           "SalongNr": "1",
-          "Datum": "28/11 2022",
+          "Datum": "5/12 2022",
           "Tid": "15:30",
           "Pris": "95",
           "AntalPlatsersalong": "195",
@@ -1285,24 +1621,37 @@
           "Notering": ""
         },
         {
-          "LopNr": "37471",
+          "LopNr": "37620",
           "Salong": "Salong 2",
           "SalongNr": "2",
-          "Datum": "29/11 2022",
-          "Tid": "18:00",
+          "Datum": "6/12 2022",
+          "Tid": "17:45",
           "Pris": "120",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "99",
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "101",
           "HasStarted": false,
           "FilmNr": "003313",
           "Notering": ""
         },
         {
-          "LopNr": "37522",
+          "LopNr": "37690",
           "Salong": "Salong 3",
           "SalongNr": "3",
-          "Datum": "1/12 2022",
-          "Tid": "16:00",
+          "Datum": "7/12 2022",
+          "Tid": "15:30",
+          "Pris": "95",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003313",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37744",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "9/12 2022",
+          "Tid": "15:30",
           "Pris": "95",
           "AntalPlatsersalong": "78",
           "AntalLediga": "78",
@@ -1311,7 +1660,7 @@
           "Notering": ""
         }
       ],
-      "Antalforestall": 6,
+      "Antalforestall": 7,
       "Antalsalong": "9"
     },
     {
@@ -1371,41 +1720,125 @@
       "Antalsalong": "9"
     },
     {
-      "FilmNr": "003426",
-      "FilmNamn": "Höra ihop- tre små filmer om stora känslor",
+      "FilmNr": "001800",
+      "FilmNamn": "Inna de Yard",
+      "Alder": "0 år",
+      "Speltid": "1.39",
+      "Genre": "Dokumentär",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/innadeyard_1.jpg",
+      "tid": "18:30",
+      "datum": "2023-03-23",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37739",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "23/3 2023",
+          "Tid": "18:30",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "001800",
+          "Notering": "Rabatter eller Klippkort gäller ej."
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003489",
+      "FilmNamn": "Joe Strummer: The Future is unwritten",
+      "Alder": "-1 år",
+      "Speltid": "2.04",
+      "Genre": "Dokumentär",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/joestrummerthefutureisunwritten.jpg",
+      "tid": "20:00",
+      "datum": "2023-02-23",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37737",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "23/2 2023",
+          "Tid": "20:00",
+          "Pris": "130",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003489",
+          "Notering": "Rabatter eller Klippkort gäller ej."
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003271",
+      "FilmNamn": "Joyce Carol Oates A Body in the Service of Mind (S",
       "Alder": "7 år",
-      "Speltid": "0.30",
-      "Genre": "Animerad film, Barnfilm",
-      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/hora-ihop-a4.jpg",
-      "tid": "12:15",
-      "datum": "2022-11-26",
+      "Speltid": "1.34",
+      "Genre": "Dokumentär",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/joycecaroloates_1.jpg",
+      "tid": "17:30",
+      "datum": "2023-01-05",
       "AntalPlatsersalong": "195",
       "forestall": [
         {
-          "LopNr": "37431",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "26/11 2022",
-          "Tid": "14:30",
-          "Pris": "60",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
-          "HasStarted": false,
-          "FilmNr": "003426",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37432",
+          "LopNr": "37728",
           "Salong": "Salong 1",
           "SalongNr": "1",
-          "Datum": "27/11 2022",
-          "Tid": "12:15",
-          "Pris": "60",
+          "Datum": "5/1 2023",
+          "Tid": "17:30",
+          "Pris": "100",
           "AntalPlatsersalong": "195",
           "AntalLediga": "195",
           "HasStarted": false,
-          "FilmNr": "003426",
+          "FilmNr": "003271",
           "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003480",
+      "FilmNamn": "Katia Lund Fernando Meirelles: Guds Stad",
+      "Alder": "15 år",
+      "Speltid": "2.10",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/gudsstad.jpg",
+      "tid": "20:00",
+      "datum": "2023-01-03",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37706",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "3/1 2023",
+          "Tid": "20:15",
+          "Pris": "130",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "003480",
+          "Notering": "Rabatter eller Klippkort gäller ej."
+        },
+        {
+          "LopNr": "37707",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "11/1 2023",
+          "Tid": "20:00",
+          "Pris": "130",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003480",
+          "Notering": "Rabatter eller Klippkort gäller ej."
         }
       ],
       "Antalforestall": 2,
@@ -1430,8 +1863,8 @@
           "Tid": "15:15",
           "Pris": "105",
           "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
+          "AntalLediga": "189",
+          "HasStarted": true,
           "FilmNr": "003427",
           "Notering": ""
         },
@@ -1447,37 +1880,35 @@
           "HasStarted": false,
           "FilmNr": "003427",
           "Notering": ""
-        }
-      ],
-      "Antalforestall": 2,
-      "Antalsalong": "9"
-    },
-    {
-      "FilmNr": "003341",
-      "FilmNamn": "Kärlekens labyrinter",
-      "Alder": "7 år",
-      "Speltid": "1.56",
-      "Genre": "Drama",
-      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/karlekenslabyrinter.jpg",
-      "tid": "15:30",
-      "datum": "2022-12-01",
-      "AntalPlatsersalong": "195",
-      "forestall": [
+        },
         {
-          "LopNr": "37473",
+          "LopNr": "37679",
           "Salong": "Salong 1",
           "SalongNr": "1",
-          "Datum": "1/12 2022",
-          "Tid": "15:30",
-          "Pris": "95",
+          "Datum": "5/12 2022",
+          "Tid": "20:00",
+          "Pris": "130",
           "AntalPlatsersalong": "195",
           "AntalLediga": "195",
           "HasStarted": false,
-          "FilmNr": "003341",
+          "FilmNr": "003427",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37684",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "6/12 2022",
+          "Tid": "16:00",
+          "Pris": "105",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003427",
           "Notering": ""
         }
       ],
-      "Antalforestall": 1,
+      "Antalforestall": 4,
       "Antalsalong": "9"
     },
     {
@@ -1488,16 +1919,29 @@
       "Genre": "Familjefilm, Äventyr",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/lassemajaskorpionensgta.jpg",
       "tid": "12:45",
-      "datum": "2022-12-27",
+      "datum": "2022-12-11",
       "AntalPlatsersalong": "195",
       "forestall": [
+        {
+          "LopNr": "37717",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "11/12 2022",
+          "Tid": "13:15",
+          "Pris": "120",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "003333",
+          "Notering": ""
+        },
         {
           "LopNr": "37587",
           "Salong": "Salong 3",
           "SalongNr": "3",
           "Datum": "27/12 2022",
           "Tid": "12:45",
-          "Pris": "120",
+          "Pris": "95",
           "AntalPlatsersalong": "78",
           "AntalLediga": "78",
           "HasStarted": false,
@@ -1510,7 +1954,7 @@
           "SalongNr": "1",
           "Datum": "4/1 2023",
           "Tid": "13:15",
-          "Pris": "120",
+          "Pris": "95",
           "AntalPlatsersalong": "195",
           "AntalLediga": "195",
           "HasStarted": false,
@@ -1518,7 +1962,7 @@
           "Notering": ""
         }
       ],
-      "Antalforestall": 2,
+      "Antalforestall": 3,
       "Antalsalong": "9"
     },
     {
@@ -1550,42 +1994,85 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "003057",
+      "FilmNamn": "Licorice Pizza",
+      "Alder": "0 år",
+      "Speltid": "2.13",
+      "Genre": "Drama, Komedi, Romantik, Romantisk komedi",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/licorice-pizza-poster-575x540.jpg",
+      "tid": "20:30",
+      "datum": "2022-12-26",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37720",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "26/12 2022",
+          "Tid": "20:30",
+          "Pris": "100",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003057",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "001306",
+      "FilmNamn": "Lilla Spöket Laban - Bullar och Bång",
+      "Alder": "0 år",
+      "Speltid": "0.44",
+      "Genre": "Barnfilm",
+      "BildSokvag": "https://panora.internetbokningen.com:443/chap/resources/img/posters/lillaspÃ¶ketlabanbullarobÃ¥ng.jpg",
+      "tid": "12:15",
+      "datum": "2023-01-02",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37641",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "2/1 2023",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "001306",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37642",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "5/1 2023",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "001306",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "001400",
       "FilmNamn": "Lilla Spöket Laban - Världens snällaste spöke",
       "Alder": "0 år",
       "Speltid": "0.44",
       "Genre": "Familjefilm",
       "BildSokvag": "https://panora.internetbokningen.com:443/chap/resources/img/posters/lillaspÃ¶ketlaban_1.jpg",
-      "tid": "12:45",
-      "datum": "2022-11-26",
-      "AntalPlatsersalong": "103",
+      "tid": "12:15",
+      "datum": "2022-12-03",
+      "AntalPlatsersalong": "195",
       "forestall": [
-        {
-          "LopNr": "37434",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "26/11 2022",
-          "Tid": "12:45",
-          "Pris": "60",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
-          "FilmNr": "001400",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37435",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "27/11 2022",
-          "Tid": "12:45",
-          "Pris": "60",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
-          "HasStarted": false,
-          "FilmNr": "001400",
-          "Notering": ""
-        },
         {
           "LopNr": "37553",
           "Salong": "Salong 2",
@@ -1598,9 +2085,63 @@
           "HasStarted": false,
           "FilmNr": "001400",
           "Notering": ""
+        },
+        {
+          "LopNr": "37715",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "11/12 2022",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "001400",
+          "Notering": ""
         }
       ],
-      "Antalforestall": 3,
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003201",
+      "FilmNamn": "Lille Allan - den mänsklige antennen (Sv. tal)",
+      "Alder": "0 år",
+      "Speltid": "1.20",
+      "Genre": "Animerad familjefilm",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/lilleallan-poster-70x100-swe-v2-a3-800x1200.jpg",
+      "tid": "12:30",
+      "datum": "2022-12-30",
+      "AntalPlatsersalong": "103",
+      "forestall": [
+        {
+          "LopNr": "37659",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "30/12 2022",
+          "Tid": "12:30",
+          "Pris": "95",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003201",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37638",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "4/1 2023",
+          "Tid": "12:30",
+          "Pris": "95",
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "103",
+          "HasStarted": false,
+          "FilmNr": "003201",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
       "Antalsalong": "9"
     },
     {
@@ -1615,14 +2156,14 @@
       "AntalPlatsersalong": "195",
       "forestall": [
         {
-          "LopNr": "37573",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
+          "LopNr": "37611",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
           "Datum": "25/12 2022",
           "Tid": "14:30",
           "Pris": "60",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
           "HasStarted": false,
           "FilmNr": "002792",
           "Notering": ""
@@ -1658,6 +2199,34 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "003476",
+      "FilmNamn": "Maija Isola",
+      "Alder": "0 år",
+      "Speltid": "1.37",
+      "Genre": "Dokumentär",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/maijaisola.jpg",
+      "tid": "18:15",
+      "datum": "2023-01-29",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37702",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "29/1 2023",
+          "Tid": "18:15",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003476",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003294",
       "FilmNamn": "Mamma Mu hittar hem (Sv. txt)",
       "Alder": "0 år",
@@ -1665,22 +2234,9 @@
       "Genre": "Animerad familjefilm",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Mamma_Mu_hittar_hem_Poster_01.jpg",
       "tid": "12:30",
-      "datum": "2022-11-27",
+      "datum": "2022-12-04",
       "AntalPlatsersalong": "103",
       "forestall": [
-        {
-          "LopNr": "37433",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "27/11 2022",
-          "Tid": "12:30",
-          "Pris": "120",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "73",
-          "HasStarted": false,
-          "FilmNr": "003294",
-          "Notering": ""
-        },
         {
           "LopNr": "37547",
           "Salong": "Salong 2",
@@ -1695,12 +2251,25 @@
           "Notering": ""
         },
         {
+          "LopNr": "37716",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "11/12 2022",
+          "Tid": "12:30",
+          "Pris": "120",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003294",
+          "Notering": ""
+        },
+        {
           "LopNr": "37581",
           "Salong": "Salong 2",
           "SalongNr": "2",
           "Datum": "27/12 2022",
           "Tid": "12:30",
-          "Pris": "120",
+          "Pris": "95",
           "AntalPlatsersalong": "103",
           "AntalLediga": "103",
           "HasStarted": false,
@@ -1738,6 +2307,75 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "002688",
+      "FilmNamn": "Mamman och den vilda bebin/Lillasyster Kanin",
+      "Alder": "0 år",
+      "Speltid": "0.46",
+      "Genre": "Animerad familjefilm",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/mammanochdenvildabebin.jpg",
+      "tid": "12:15",
+      "datum": "2022-12-30",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37604",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "30/12 2022",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "002688",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37605",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "2/1 2023",
+          "Tid": "14:30",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "002688",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "001424",
+      "FilmNamn": "Matangi/Maya/M.I.A.",
+      "Alder": "15 år",
+      "Speltid": "1.36",
+      "Genre": "Dokumentär",
+      "BildSokvag": "https://panora.internetbokningen.com:443/chap/resources/img/posters/Matangi_2.jpg",
+      "tid": "18:30",
+      "datum": "2023-04-20",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37741",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "20/4 2023",
+          "Tid": "18:30",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "001424",
+          "Notering": "Rabatter eller Klippkort gäller ej."
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003429",
       "FilmNamn": "Maya Nilo (Laura) (Eng. txt)",
       "Alder": "11 år",
@@ -1766,34 +2404,6 @@
       "Antalsalong": "9"
     },
     {
-      "FilmNr": "003259",
-      "FilmNamn": "Mike Leigh: Naken",
-      "Alder": "-1 år",
-      "Speltid": "2.11",
-      "Genre": "Drama",
-      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/naked_1.jpg",
-      "tid": "20:15",
-      "datum": "2022-12-01",
-      "AntalPlatsersalong": "78",
-      "forestall": [
-        {
-          "LopNr": "36461",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "1/12 2022",
-          "Tid": "20:15",
-          "Pris": "130",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "77",
-          "HasStarted": false,
-          "FilmNr": "003259",
-          "Notering": "Rabatter eller Klippkort gäller ej."
-        }
-      ],
-      "Antalforestall": 1,
-      "Antalsalong": "9"
-    },
-    {
       "FilmNr": "003396",
       "FilmNamn": "Min vackra stjärna",
       "Alder": "0 år",
@@ -1801,22 +2411,9 @@
       "Genre": "Drama",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled.jpg",
       "tid": "17:45",
-      "datum": "2022-12-09",
-      "AntalPlatsersalong": "104",
+      "datum": "2022-12-10",
+      "AntalPlatsersalong": "78",
       "forestall": [
-        {
-          "LopNr": "37191",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "9/12 2022",
-          "Tid": "20:00",
-          "Pris": "130",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
-          "FilmNr": "003396",
-          "Notering": ""
-        },
         {
           "LopNr": "37474",
           "Salong": "Salong 2",
@@ -1828,6 +2425,88 @@
           "AntalLediga": "104",
           "HasStarted": false,
           "FilmNr": "003396",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37699",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "11/12 2022",
+          "Tid": "17:45",
+          "Pris": "130",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "77",
+          "HasStarted": false,
+          "FilmNr": "003396",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003471",
+      "FilmNamn": "Min vackra stjärna + premiärmingel",
+      "Alder": "0 år",
+      "Speltid": "2.09",
+      "Genre": "Drama",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled_1.jpg",
+      "tid": "20:00",
+      "datum": "2022-12-09",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37621",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "9/12 2022",
+          "Tid": "20:00",
+          "Pris": "130",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "184",
+          "HasStarted": false,
+          "FilmNr": "003471",
+          "Notering": "Premiärmingel från 19:30!"
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003200",
+      "FilmNamn": "Minioner: Berättelsen om Gru (Sv. tal)",
+      "Alder": "7 år",
+      "Speltid": "1.27",
+      "Genre": "Animerad familjefilm",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/minioner-berattelsen-om-gru.jpg",
+      "tid": "12:45",
+      "datum": "2023-01-07",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37639",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "7/1 2023",
+          "Tid": "16:00",
+          "Pris": "120",
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "103",
+          "HasStarted": false,
+          "FilmNr": "003200",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37640",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "8/1 2023",
+          "Tid": "12:45",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003200",
           "Notering": ""
         }
       ],
@@ -1863,42 +2542,111 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "000775",
+      "FilmNamn": "Molly Monster och Äggmysteriet",
+      "Alder": "0 år",
+      "Speltid": "1.12",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/mollymonsteroch aggmysteriet.jpg",
+      "tid": "12:30",
+      "datum": "2022-12-29",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37631",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "29/12 2022",
+          "Tid": "12:30",
+          "Pris": "60",
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "103",
+          "HasStarted": false,
+          "FilmNr": "000775",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37658",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "3/1 2023",
+          "Tid": "12:30",
+          "Pris": "60",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "000775",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "000580",
+      "FilmNamn": "Molly och Julmonstret",
+      "Alder": "0 år",
+      "Speltid": "0.35",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/molly_ochjulmonstret.jpg",
+      "tid": "12:15",
+      "datum": "2022-12-25",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37652",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "25/12 2022",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "193",
+          "AntalLediga": "193",
+          "HasStarted": false,
+          "FilmNr": "000580",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37653",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "26/12 2022",
+          "Tid": "14:30",
+          "Pris": "60",
+          "AntalPlatsersalong": "76",
+          "AntalLediga": "76",
+          "HasStarted": false,
+          "FilmNr": "000580",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37657",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "3/1 2023",
+          "Tid": "12:45",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "000580",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 3,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003275",
       "FilmNamn": "Moonage Daydream",
       "Alder": "7 år",
       "Speltid": "2.15",
       "Genre": "Dokumentär, Musik",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/moonagedaydream.jpg",
-      "tid": "20:15",
-      "datum": "2022-11-24",
+      "tid": "20:30",
+      "datum": "2022-12-07",
       "AntalPlatsersalong": "78",
       "forestall": [
-        {
-          "LopNr": "37430",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "24/11 2022",
-          "Tid": "20:30",
-          "Pris": "140",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "72",
-          "HasStarted": true,
-          "FilmNr": "003275",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37514",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "29/11 2022",
-          "Tid": "20:15",
-          "Pris": "140",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "102",
-          "HasStarted": false,
-          "FilmNr": "003275",
-          "Notering": ""
-        },
         {
           "LopNr": "37536",
           "Salong": "Salong 3",
@@ -1913,7 +2661,7 @@
           "Notering": ""
         }
       ],
-      "Antalforestall": 3,
+      "Antalforestall": 1,
       "Antalsalong": "9"
     },
     {
@@ -1923,28 +2671,41 @@
       "Speltid": "1.56",
       "Genre": "Drama",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Mother_and_Son_TriArt_Film_Bild_11.jpg",
-      "tid": "15:30",
-      "datum": "2022-11-25",
-      "AntalPlatsersalong": "195",
+      "tid": "15:45",
+      "datum": "2022-12-04",
+      "AntalPlatsersalong": "78",
       "forestall": [
         {
-          "LopNr": "37190",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "25/11 2022",
-          "Tid": "17:45",
+          "LopNr": "37673",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "4/12 2022",
+          "Tid": "15:45",
           "Pris": "120",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "193",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
           "HasStarted": false,
           "FilmNr": "003395",
           "Notering": ""
         },
         {
-          "LopNr": "37498",
+          "LopNr": "37689",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "7/12 2022",
+          "Tid": "15:45",
+          "Pris": "95",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003395",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37697",
           "Salong": "Salong 3",
           "SalongNr": "3",
-          "Datum": "27/11 2022",
+          "Datum": "8/12 2022",
           "Tid": "18:00",
           "Pris": "120",
           "AntalPlatsersalong": "78",
@@ -1952,63 +2713,9 @@
           "HasStarted": false,
           "FilmNr": "003395",
           "Notering": ""
-        },
-        {
-          "LopNr": "37529",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "28/11 2022",
-          "Tid": "17:45",
-          "Pris": "120",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
-          "FilmNr": "003395",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37516",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "30/11 2022",
-          "Tid": "15:30",
-          "Pris": "95",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
-          "FilmNr": "003395",
-          "Notering": ""
         }
       ],
-      "Antalforestall": 4,
-      "Antalsalong": "9"
-    },
-    {
-      "FilmNr": "001913",
-      "FilmNamn": "Mullvadens nya äventyr",
-      "Alder": "0 år",
-      "Speltid": "0.44",
-      "Genre": "Barnfilm",
-      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/mullvadensnyaÃ¤ventyr.jpg",
-      "tid": "13:00",
-      "datum": "2022-11-26",
-      "AntalPlatsersalong": "78",
-      "forestall": [
-        {
-          "LopNr": "37436",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "26/11 2022",
-          "Tid": "13:00",
-          "Pris": "60",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
-          "HasStarted": false,
-          "FilmNr": "001913",
-          "Notering": ""
-        }
-      ],
-      "Antalforestall": 1,
+      "Antalforestall": 3,
       "Antalsalong": "9"
     },
     {
@@ -2047,21 +2754,21 @@
       "Genre": "Dokumentär, Musik",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/neilyoungharvesttime.jpg",
       "tid": "20:00",
-      "datum": "2022-12-01",
-      "AntalPlatsersalong": "195",
+      "datum": "2022-12-12",
+      "AntalPlatsersalong": "104",
       "forestall": [
         {
-          "LopNr": "37316",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "1/12 2022",
+          "LopNr": "37749",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "12/12 2022",
           "Tid": "20:00",
           "Pris": "130",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "160",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "103",
           "HasStarted": false,
           "FilmNr": "003423",
-          "Notering": "Rabatter eller Klippkort gäller ej. Eng txt."
+          "Notering": "Rabatter eller Klippkort gäller ej."
         }
       ],
       "Antalforestall": 1,
@@ -2096,6 +2803,200 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "003486",
+      "FilmNamn": "Nicholas Ray: Ung Rebell (otextad)",
+      "Alder": "15 år",
+      "Speltid": "1.51",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/ungrebell.jpg",
+      "tid": "18:00",
+      "datum": "2023-03-01",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37711",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "1/3 2023",
+          "Tid": "18:00",
+          "Pris": "120",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003486",
+          "Notering": "Rabatter eller Klippkort gäller ej."
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003227",
+      "FilmNamn": "Nope",
+      "Alder": "15 år",
+      "Speltid": "2.11",
+      "Genre": "Science Fiction, Thriller",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/nope.jpg",
+      "tid": "20:30",
+      "datum": "2022-12-28",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37722",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "28/12 2022",
+          "Tid": "20:30",
+          "Pris": "100",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003227",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003215",
+      "FilmNamn": "Official Competition",
+      "Alder": "7 år",
+      "Speltid": "1.55",
+      "Genre": "Komedi",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Officialcompetition-poster-336x480-c-default.jpeg",
+      "tid": "20:30",
+      "datum": "2022-12-29",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37733",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "29/12 2022",
+          "Tid": "20:30",
+          "Pris": "100",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003215",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003481",
+      "FilmNamn": "Oliver Stone: Natural Born Killers (otextad)",
+      "Alder": "15 år",
+      "Speltid": "1.59",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/naturalbornkillers.jpg",
+      "tid": "20:00",
+      "datum": "2023-01-18",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37708",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "18/1 2023",
+          "Tid": "20:00",
+          "Pris": "120",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "102",
+          "HasStarted": false,
+          "FilmNr": "003481",
+          "Notering": "Rabatter eller Klippkort gäller ej."
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "002058",
+      "FilmNamn": "Pelle Svanslös",
+      "Alder": "0 år",
+      "Speltid": "1.07",
+      "Genre": "Animerad familjefilm",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/pellesvanslÃ¶s2020.jpg",
+      "tid": "12:30",
+      "datum": "2022-12-28",
+      "AntalPlatsersalong": "103",
+      "forestall": [
+        {
+          "LopNr": "37597",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "28/12 2022",
+          "Tid": "12:30",
+          "Pris": "95",
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "103",
+          "HasStarted": false,
+          "FilmNr": "002058",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37598",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "5/1 2023",
+          "Tid": "12:30",
+          "Pris": "95",
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "103",
+          "HasStarted": false,
+          "FilmNr": "002058",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37599",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "8/1 2023",
+          "Tid": "12:30",
+          "Pris": "120",
+          "AntalPlatsersalong": "103",
+          "AntalLediga": "103",
+          "HasStarted": false,
+          "FilmNr": "002058",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 3,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003225",
+      "FilmNamn": "Playground",
+      "Alder": "15 år",
+      "Speltid": "1.13",
+      "Genre": "Drama",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/playground-poster-2-336x480-c-default.jpg",
+      "tid": "17:45",
+      "datum": "2023-01-07",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37731",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "7/1 2023",
+          "Tid": "17:45",
+          "Pris": "100",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003225",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003459",
       "FilmNamn": "Polarexpressen",
       "Alder": "7 år",
@@ -2118,6 +3019,34 @@
           "HasStarted": false,
           "FilmNr": "003459",
           "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003488",
+      "FilmNamn": "Poly Styrene: I am a Cliché",
+      "Alder": "-1 år",
+      "Speltid": "1.36",
+      "Genre": "Dokumentär",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Poly_Styrene_I_Am_a_Clich-844223146-large.jpg",
+      "tid": "18:30",
+      "datum": "2023-02-09",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37736",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "9/2 2023",
+          "Tid": "18:30",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003488",
+          "Notering": "Rabatter eller Klippkort gäller ej."
         }
       ],
       "Antalforestall": 1,
@@ -2193,29 +3122,57 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "001077",
+      "FilmNamn": "Prick och Fläck på pricken",
+      "Alder": "0 år",
+      "Speltid": "0.43",
+      "Genre": "Animerad familjefilm",
+      "BildSokvag": "https://panora.internetbokningen.com:443/chap/resources/img/posters/prickochflackpapricken_2.jpg",
+      "tid": "12:15",
+      "datum": "2023-01-07",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37646",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "7/1 2023",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "001077",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37647",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "8/1 2023",
+          "Tid": "13:30",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "001077",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "001134",
       "FilmNamn": "Resan till Melonia",
       "Alder": "0 år",
       "Speltid": "1.44",
       "Genre": "Barnfilm",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/resantillmelonia.jpg",
-      "tid": "13:45",
-      "datum": "2022-11-27",
+      "tid": "14:00",
+      "datum": "2022-12-27",
       "AntalPlatsersalong": "104",
       "forestall": [
-        {
-          "LopNr": "37309",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "27/11 2022",
-          "Tid": "13:45",
-          "Pris": "120",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "71",
-          "HasStarted": false,
-          "FilmNr": "001134",
-          "Notering": ""
-        },
         {
           "LopNr": "37457",
           "Salong": "Salong 2",
@@ -2224,13 +3181,41 @@
           "Tid": "14:00",
           "Pris": "95",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
+          "AntalLediga": "100",
           "HasStarted": false,
           "FilmNr": "001134",
           "Notering": ""
         }
       ],
-      "Antalforestall": 2,
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "000683",
+      "FilmNamn": "Rita och Krokodil",
+      "Alder": "0 år",
+      "Speltid": "0.30",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/ritaochkrokodil.jpg",
+      "tid": "12:45",
+      "datum": "2022-12-04",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37622",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "4/12 2022",
+          "Tid": "12:45",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "000683",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
       "Antalsalong": "9"
     },
     {
@@ -2269,76 +3254,37 @@
       "Genre": "Drama",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/rose.jpg",
       "tid": "15:45",
-      "datum": "2022-11-24",
-      "AntalPlatsersalong": "195",
+      "datum": "2022-12-04",
+      "AntalPlatsersalong": "104",
       "forestall": [
         {
-          "LopNr": "37427",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "24/11 2022",
-          "Tid": "16:00",
-          "Pris": "95",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "100",
-          "HasStarted": true,
-          "FilmNr": "003401",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37428",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "24/11 2022",
-          "Tid": "18:15",
-          "Pris": "120",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "98",
-          "HasStarted": true,
-          "FilmNr": "003401",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37507",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "28/11 2022",
+          "LopNr": "37674",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "4/12 2022",
           "Tid": "20:15",
           "Pris": "120",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
           "HasStarted": false,
           "FilmNr": "003401",
           "Notering": ""
         },
         {
-          "LopNr": "37511",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "29/11 2022",
+          "LopNr": "37676",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "5/12 2022",
           "Tid": "15:45",
           "Pris": "95",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
-          "FilmNr": "003401",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37523",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "1/12 2022",
-          "Tid": "18:00",
-          "Pris": "120",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
           "HasStarted": false,
           "FilmNr": "003401",
           "Notering": ""
         }
       ],
-      "Antalforestall": 5,
+      "Antalforestall": 2,
       "Antalsalong": "9"
     },
     {
@@ -2348,9 +3294,9 @@
       "Speltid": "1.42",
       "Genre": "Drama, Komedi",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/rumbaterapi.jpg",
-      "tid": "20:15",
+      "tid": "16:00",
       "datum": "2022-12-02",
-      "AntalPlatsersalong": "78",
+      "AntalPlatsersalong": "195",
       "forestall": [
         {
           "LopNr": "37307",
@@ -2360,13 +3306,39 @@
           "Tid": "20:15",
           "Pris": "120",
           "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
+          "AntalLediga": "73",
+          "HasStarted": false,
+          "FilmNr": "003416",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37681",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "6/12 2022",
+          "Tid": "18:00",
+          "Pris": "120",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "003416",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37686",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "7/12 2022",
+          "Tid": "16:00",
+          "Pris": "95",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
           "HasStarted": false,
           "FilmNr": "003416",
           "Notering": ""
         }
       ],
-      "Antalforestall": 1,
+      "Antalforestall": 3,
       "Antalsalong": "9"
     },
     {
@@ -2388,7 +3360,7 @@
           "Tid": "16:30",
           "Pris": "120",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "103",
+          "AntalLediga": "102",
           "HasStarted": false,
           "FilmNr": "003456",
           "Notering": "Rabatter eller Klippkort gäller ej. Eng text."
@@ -2416,7 +3388,7 @@
           "Tid": "18:30",
           "Pris": "120",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "74",
+          "AntalLediga": "73",
           "HasStarted": false,
           "FilmNr": "003393",
           "Notering": "Rabatter eller Klippkort gäller ej."
@@ -2429,7 +3401,7 @@
           "Tid": "17:45",
           "Pris": "120",
           "AntalPlatsersalong": "195",
-          "AntalLediga": "185",
+          "AntalLediga": "181",
           "HasStarted": false,
           "FilmNr": "003393",
           "Notering": "Rabatter eller Klippkort gäller ej."
@@ -2470,7 +3442,7 @@
           "Tid": "17:45",
           "Pris": "120",
           "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
+          "AntalLediga": "194",
           "HasStarted": false,
           "FilmNr": "003455",
           "Notering": "Rabatter eller Klippkort gäller ej. Eng text."
@@ -2486,51 +3458,25 @@
       "Speltid": "2.09",
       "Genre": "Drama",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/shesaid.jpg",
-      "tid": "15:15",
-      "datum": "2022-11-27",
-      "AntalPlatsersalong": "104",
+      "tid": "15:30",
+      "datum": "2022-12-08",
+      "AntalPlatsersalong": "78",
       "forestall": [
         {
-          "LopNr": "37500",
+          "LopNr": "37694",
           "Salong": "Salong 3",
           "SalongNr": "3",
-          "Datum": "27/11 2022",
-          "Tid": "20:15",
-          "Pris": "130",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
-          "HasStarted": false,
-          "FilmNr": "003425",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37506",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "28/11 2022",
-          "Tid": "15:15",
+          "Datum": "8/12 2022",
+          "Tid": "15:30",
           "Pris": "105",
           "AntalPlatsersalong": "78",
           "AntalLediga": "78",
-          "HasStarted": false,
-          "FilmNr": "003425",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37517",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "30/11 2022",
-          "Tid": "15:15",
-          "Pris": "105",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
           "HasStarted": false,
           "FilmNr": "003425",
           "Notering": ""
         }
       ],
-      "Antalforestall": 3,
+      "Antalforestall": 1,
       "Antalsalong": "9"
     },
     {
@@ -2552,10 +3498,66 @@
           "Tid": "20:15",
           "Pris": "130",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
+          "AntalLediga": "102",
           "HasStarted": false,
           "FilmNr": "001500",
           "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "002905",
+      "FilmNamn": "Sing  2 (Sv. tal)",
+      "Alder": "7 år",
+      "Speltid": "1.50",
+      "Genre": "Animerad familjefilm, Komedi",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/sing2.jpg",
+      "tid": "13:30",
+      "datum": "2023-01-05",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37645",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "5/1 2023",
+          "Tid": "13:30",
+          "Pris": "95",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "002905",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003487",
+      "FilmNamn": "Sirens",
+      "Alder": "15 år",
+      "Speltid": "1.19",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/sirens_movie_poster.jpg",
+      "tid": "18:30",
+      "datum": "2023-01-26",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37735",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "26/1 2023",
+          "Tid": "18:30",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003487",
+          "Notering": "Rabatter eller Klippkort gäller ej."
         }
       ],
       "Antalforestall": 1,
@@ -2568,30 +3570,30 @@
       "Speltid": "1.50",
       "Genre": "Drama",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/skolanvidvarlden_1.jpg",
-      "tid": "15:45",
-      "datum": "2022-11-24",
-      "AntalPlatsersalong": "78",
+      "tid": "15:15",
+      "datum": "2022-12-02",
+      "AntalPlatsersalong": "195",
       "forestall": [
         {
-          "LopNr": "37334",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "24/11 2022",
-          "Tid": "15:45",
+          "LopNr": "37661",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "2/12 2022",
+          "Tid": "15:30",
           "Pris": "95",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "65",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "99",
           "HasStarted": true,
           "FilmNr": "003391",
           "Notering": ""
         },
         {
-          "LopNr": "37505",
+          "LopNr": "37665",
           "Salong": "Salong 2",
           "SalongNr": "2",
-          "Datum": "28/11 2022",
-          "Tid": "16:00",
-          "Pris": "95",
+          "Datum": "3/12 2022",
+          "Tid": "15:30",
+          "Pris": "120",
           "AntalPlatsersalong": "104",
           "AntalLediga": "104",
           "HasStarted": false,
@@ -2599,16 +3601,83 @@
           "Notering": ""
         },
         {
-          "LopNr": "37472",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "30/11 2022",
-          "Tid": "18:15",
-          "Pris": "120",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "74",
+          "LopNr": "37692",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "8/12 2022",
+          "Tid": "16:00",
+          "Pris": "95",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
           "HasStarted": false,
           "FilmNr": "003391",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37743",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "9/12 2022",
+          "Tid": "15:15",
+          "Pris": "95",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "003391",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 4,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "002018",
+      "FilmNamn": "Snipp Snapp Snut och Tråkmånsarna",
+      "Alder": "0 år",
+      "Speltid": "0.31",
+      "Genre": "Barnfilm",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/snippsnappsnutochtrakmansar_2.jpg",
+      "tid": "12:15",
+      "datum": "2022-12-28",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37593",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "28/12 2022",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "002018",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37594",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "5/1 2023",
+          "Tid": "12:45",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "002018",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37595",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "7/1 2023",
+          "Tid": "12:45",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "002018",
           "Notering": ""
         }
       ],
@@ -2634,10 +3703,38 @@
           "Tid": "20:30",
           "Pris": "120",
           "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
+          "AntalLediga": "77",
           "HasStarted": false,
           "FilmNr": "003394",
           "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003485",
+      "FilmNamn": "Stanley Kubrick: Full Metal Jacket (otextad)",
+      "Alder": "15 år",
+      "Speltid": "1.56",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/fullmetaljacket.jpg",
+      "tid": "20:00",
+      "datum": "2023-02-15",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37710",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "15/2 2023",
+          "Tid": "20:00",
+          "Pris": "120",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003485",
+          "Notering": "Rabatter eller Klippkort gäller ej."
         }
       ],
       "Antalforestall": 1,
@@ -2672,6 +3769,34 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "003475",
+      "FilmNamn": "Super 8-åren",
+      "Alder": "-1 år",
+      "Speltid": "1.00",
+      "Genre": "Dokumentär",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/s8.jpg",
+      "tid": "17:45",
+      "datum": "2022-12-16",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37701",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "16/12 2022",
+          "Tid": "17:45",
+          "Pris": "85",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "003475",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003441",
       "FilmNamn": "SVENSK KORTFILM C/O FOLKETS BIO HT 2022 - DEL 1",
       "Alder": "-1 år",
@@ -2690,7 +3815,7 @@
           "Tid": "18:15",
           "Pris": "0",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
+          "AntalLediga": "102",
           "HasStarted": false,
           "FilmNr": "003441",
           "Notering": "Bokade biljetter hämtas i kassan senast 30min före visningen"
@@ -2718,10 +3843,66 @@
           "Tid": "19:15",
           "Pris": "0",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
+          "AntalLediga": "102",
           "HasStarted": false,
           "FilmNr": "003442",
           "Notering": "Bokade biljetter hämtas i kassan senast 30min före visningen"
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "003490",
+      "FilmNamn": "The Devil and Daniel Johnston",
+      "Alder": "-1 år",
+      "Speltid": "1.50",
+      "Genre": "Dokumentär",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/thedevilanddanieljohnston.jpg",
+      "tid": "18:15",
+      "datum": "2023-04-06",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37740",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "6/4 2023",
+          "Tid": "18:15",
+          "Pris": "120",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003490",
+          "Notering": "Rabatter eller Klippkort gäller ej."
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "002801",
+      "FilmNamn": "The French Dispatch",
+      "Alder": "11 år",
+      "Speltid": "1.47",
+      "Genre": "Drama, Komedi, Romantik",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/thefrenchdispatch_.jpg",
+      "tid": "17:30",
+      "datum": "2023-01-01",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37724",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "1/1 2023",
+          "Tid": "17:30",
+          "Pris": "100",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "002801",
+          "Notering": ""
         }
       ],
       "Antalforestall": 1,
@@ -2756,61 +3937,76 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "003038",
+      "FilmNamn": "The Lost Daughter",
+      "Alder": "11 år",
+      "Speltid": "2.02",
+      "Genre": "Drama",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/lostdaughter_1.jpg",
+      "tid": "15:30",
+      "datum": "2023-01-06",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37729",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "6/1 2023",
+          "Tid": "15:30",
+          "Pris": "100",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003038",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003424",
       "FilmNamn": "The Menu",
       "Alder": "15 år",
       "Speltid": "1.47",
       "Genre": "Drama, Skräck",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Menu_web.jpg",
-      "tid": "17:45",
-      "datum": "2022-11-24",
-      "AntalPlatsersalong": "78",
+      "tid": "16:15",
+      "datum": "2022-12-02",
+      "AntalPlatsersalong": "195",
       "forestall": [
         {
-          "LopNr": "37425",
+          "LopNr": "37660",
           "Salong": "Salong 1",
           "SalongNr": "1",
-          "Datum": "24/11 2022",
+          "Datum": "2/12 2022",
           "Tid": "17:45",
           "Pris": "120",
           "AntalPlatsersalong": "195",
-          "AntalLediga": "184",
-          "HasStarted": true,
-          "FilmNr": "003424",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37493",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "26/11 2022",
-          "Tid": "20:30",
-          "Pris": "120",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "98",
+          "AntalLediga": "176",
           "HasStarted": false,
           "FilmNr": "003424",
           "Notering": ""
         },
         {
-          "LopNr": "37499",
+          "LopNr": "37664",
           "Salong": "Salong 1",
           "SalongNr": "1",
-          "Datum": "27/11 2022",
-          "Tid": "20:00",
+          "Datum": "3/12 2022",
+          "Tid": "17:30",
           "Pris": "120",
           "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
+          "AntalLediga": "184",
           "HasStarted": false,
           "FilmNr": "003424",
           "Notering": ""
         },
         {
-          "LopNr": "37549",
+          "LopNr": "37671",
           "Salong": "Salong 2",
           "SalongNr": "2",
-          "Datum": "30/11 2022",
-          "Tid": "18:00",
+          "Datum": "4/12 2022",
+          "Tid": "16:15",
           "Pris": "120",
           "AntalPlatsersalong": "104",
           "AntalLediga": "104",
@@ -2819,20 +4015,20 @@
           "Notering": ""
         },
         {
-          "LopNr": "37525",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "1/12 2022",
-          "Tid": "18:15",
+          "LopNr": "37687",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "7/12 2022",
+          "Tid": "18:00",
           "Pris": "120",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
           "HasStarted": false,
           "FilmNr": "003424",
           "Notering": ""
         }
       ],
-      "Antalforestall": 5,
+      "Antalforestall": 4,
       "Antalsalong": "9"
     },
     {
@@ -2842,64 +4038,66 @@
       "Speltid": "2.15",
       "Genre": "Action, Drama",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/thewomanking.jpg",
-      "tid": "15:30",
-      "datum": "2022-11-25",
-      "AntalPlatsersalong": "78",
+      "tid": "20:30",
+      "datum": "2022-12-04",
+      "AntalPlatsersalong": "104",
       "forestall": [
         {
-          "LopNr": "37452",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "25/11 2022",
-          "Tid": "20:30",
-          "Pris": "130",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "75",
-          "HasStarted": false,
-          "FilmNr": "003444",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37494",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "26/11 2022",
-          "Tid": "20:15",
-          "Pris": "130",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
-          "HasStarted": false,
-          "FilmNr": "003444",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37512",
+          "LopNr": "37672",
           "Salong": "Salong 2",
           "SalongNr": "2",
-          "Datum": "29/11 2022",
-          "Tid": "15:30",
-          "Pris": "105",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
-          "HasStarted": false,
-          "FilmNr": "003444",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37520",
-          "Salong": "Salong 3",
-          "SalongNr": "3",
-          "Datum": "30/11 2022",
+          "Datum": "4/12 2022",
           "Tid": "20:30",
           "Pris": "130",
-          "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "103",
           "HasStarted": false,
           "FilmNr": "003444",
           "Notering": ""
         }
       ],
-      "Antalforestall": 4,
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "000405",
+      "FilmNamn": "Tigrar och tatueringar (Sv. tal)",
+      "Alder": "0 år",
+      "Speltid": "0.45",
+      "Genre": "Animerad familjefilm",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/tigrarochtatueringar.jpg",
+      "tid": "12:15",
+      "datum": "2022-12-27",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37591",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "27/12 2022",
+          "Tid": "14:30",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "000405",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37592",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "29/12 2022",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "000405",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
       "Antalsalong": "9"
     },
     {
@@ -2910,22 +4108,9 @@
       "Genre": "Barnfilm",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/titina.jpg",
       "tid": "12:45",
-      "datum": "2022-11-26",
-      "AntalPlatsersalong": "195",
+      "datum": "2022-12-03",
+      "AntalPlatsersalong": "78",
       "forestall": [
-        {
-          "LopNr": "37324",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "26/11 2022",
-          "Tid": "13:45",
-          "Pris": "120",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "195",
-          "HasStarted": false,
-          "FilmNr": "003331",
-          "Notering": ""
-        },
         {
           "LopNr": "37545",
           "Salong": "Salong 1",
@@ -2935,6 +4120,19 @@
           "Pris": "120",
           "AntalPlatsersalong": "195",
           "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "003331",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37606",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "30/12 2022",
+          "Tid": "12:45",
+          "Pris": "95",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
           "HasStarted": false,
           "FilmNr": "003331",
           "Notering": ""
@@ -2951,28 +4149,54 @@
       "Genre": "",
       "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/triangleofsadness.jpg",
       "tid": "15:00",
-      "datum": "2022-11-24",
-      "AntalPlatsersalong": "104",
+      "datum": "2022-12-02",
+      "AntalPlatsersalong": "78",
       "forestall": [
         {
-          "LopNr": "37429",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "24/11 2022",
-          "Tid": "20:15",
+          "LopNr": "37616",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "2/12 2022",
+          "Tid": "20:00",
           "Pris": "140",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "96",
-          "HasStarted": true,
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "182",
+          "HasStarted": false,
           "FilmNr": "003344",
           "Notering": ""
         },
         {
-          "LopNr": "37437",
+          "LopNr": "37617",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "3/12 2022",
+          "Tid": "19:30",
+          "Pris": "140",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "191",
+          "HasStarted": false,
+          "FilmNr": "003344",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37668",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "4/12 2022",
+          "Tid": "15:00",
+          "Pris": "140",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "194",
+          "HasStarted": false,
+          "FilmNr": "003344",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37677",
           "Salong": "Salong 3",
           "SalongNr": "3",
-          "Datum": "25/11 2022",
-          "Tid": "15:30",
+          "Datum": "5/12 2022",
+          "Tid": "15:15",
           "Pris": "115",
           "AntalPlatsersalong": "78",
           "AntalLediga": "78",
@@ -2981,49 +4205,23 @@
           "Notering": ""
         },
         {
-          "LopNr": "37528",
-          "Salong": "Salong 2",
-          "SalongNr": "2",
-          "Datum": "26/11 2022",
-          "Tid": "15:15",
-          "Pris": "140",
-          "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
-          "HasStarted": false,
-          "FilmNr": "003344",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37438",
-          "Salong": "Salong 1",
-          "SalongNr": "1",
-          "Datum": "27/11 2022",
-          "Tid": "15:00",
-          "Pris": "140",
-          "AntalPlatsersalong": "195",
-          "AntalLediga": "193",
-          "HasStarted": false,
-          "FilmNr": "003344",
-          "Notering": ""
-        },
-        {
-          "LopNr": "37515",
+          "LopNr": "37691",
           "Salong": "Salong 3",
           "SalongNr": "3",
-          "Datum": "29/11 2022",
-          "Tid": "20:30",
+          "Datum": "7/12 2022",
+          "Tid": "17:45",
           "Pris": "140",
           "AntalPlatsersalong": "78",
-          "AntalLediga": "76",
+          "AntalLediga": "78",
           "HasStarted": false,
           "FilmNr": "003344",
           "Notering": ""
         },
         {
-          "LopNr": "37524",
+          "LopNr": "37695",
           "Salong": "Salong 2",
           "SalongNr": "2",
-          "Datum": "1/12 2022",
+          "Datum": "8/12 2022",
           "Tid": "17:45",
           "Pris": "140",
           "AntalPlatsersalong": "104",
@@ -3031,24 +4229,37 @@
           "HasStarted": false,
           "FilmNr": "003344",
           "Notering": ""
+        },
+        {
+          "LopNr": "37745",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "9/12 2022",
+          "Tid": "17:45",
+          "Pris": "140",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "003344",
+          "Notering": ""
         }
       ],
-      "Antalforestall": 6,
+      "Antalforestall": 7,
       "Antalsalong": "9"
     },
     {
-      "FilmNr": "003448",
+      "FilmNr": "003492",
       "FilmNamn": "Trollkarlen från Oz",
       "Alder": "7 år",
       "Speltid": "1.38",
       "Genre": "Musikal",
-      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/trollkarlenfranoz.jpg",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/trollkarlenfranoz_1.jpg",
       "tid": "14:00",
       "datum": "2022-12-26",
       "AntalPlatsersalong": "104",
       "forestall": [
         {
-          "LopNr": "37456",
+          "LopNr": "37751",
           "Salong": "Salong 2",
           "SalongNr": "2",
           "Datum": "26/12 2022",
@@ -3057,7 +4268,7 @@
           "AntalPlatsersalong": "104",
           "AntalLediga": "104",
           "HasStarted": false,
-          "FilmNr": "003448",
+          "FilmNr": "003492",
           "Notering": ""
         }
       ],
@@ -3065,12 +4276,12 @@
       "Antalsalong": "9"
     },
     {
-      "FilmNr": "003470",
+      "FilmNr": "001160",
       "FilmNamn": "Trollvinter i Mumindalen",
       "Alder": "0 år",
       "Speltid": "1.20",
       "Genre": "Animerad familjefilm, Animerad film, Barnfilm, Familjefilm, Fantasy, Äventyr",
-      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/trollvinter_1_1.jpg",
+      "BildSokvag": "https://panora.internetbokningen.com:443/chap/resources/img/posters/trollvinter_1.jpg",
       "tid": "12:45",
       "datum": "2022-12-25",
       "AntalPlatsersalong": "78",
@@ -3085,7 +4296,7 @@
           "AntalPlatsersalong": "78",
           "AntalLediga": "78",
           "HasStarted": false,
-          "FilmNr": "003470",
+          "FilmNr": "001160",
           "Notering": ""
         },
         {
@@ -3098,11 +4309,203 @@
           "AntalPlatsersalong": "78",
           "AntalLediga": "78",
           "HasStarted": false,
-          "FilmNr": "003470",
+          "FilmNr": "001160",
           "Notering": ""
         }
       ],
       "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "000934",
+      "FilmNamn": "Ture och Jerry",
+      "Alder": "0 år",
+      "Speltid": "0.40",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/ture_jerry.jpg",
+      "tid": "12:15",
+      "datum": "2022-12-27",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37589",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "27/12 2022",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "000934",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37590",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "3/1 2023",
+          "Tid": "13:30",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "000934",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "001255",
+      "FilmNamn": "Urpo och Turpo",
+      "Alder": "0 år",
+      "Speltid": "0.45",
+      "Genre": "Familjefilm",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/Urpoturpo.jpg",
+      "tid": "12:15",
+      "datum": "2023-01-01",
+      "AntalPlatsersalong": "195",
+      "forestall": [
+        {
+          "LopNr": "37625",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "1/1 2023",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "001255",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37626",
+          "Salong": "Salong 1",
+          "SalongNr": "1",
+          "Datum": "6/1 2023",
+          "Tid": "12:15",
+          "Pris": "60",
+          "AntalPlatsersalong": "195",
+          "AntalLediga": "195",
+          "HasStarted": false,
+          "FilmNr": "001255",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "001258",
+      "FilmNamn": "Vatten över huvudet (Sv. txt)",
+      "Alder": "0 år",
+      "Speltid": "0.30",
+      "Genre": "Animerad film",
+      "BildSokvag": "https://panora.internetbokningen.com:443/chap/resources/img/posters/vattenÃ¶vehuvudet.jpg",
+      "tid": "12:45",
+      "datum": "2022-12-29",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37633",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "29/12 2022",
+          "Tid": "12:45",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "001258",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37634",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "6/1 2023",
+          "Tid": "14:45",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "001258",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "000492",
+      "FilmNamn": "Vem?",
+      "Alder": "0 år",
+      "Speltid": "0.30",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com:443/chap/resources/img/posters/Vem_1.jpg",
+      "tid": "12:45",
+      "datum": "2022-12-28",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37629",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "28/12 2022",
+          "Tid": "12:45",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "000492",
+          "Notering": ""
+        },
+        {
+          "LopNr": "37630",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "4/1 2023",
+          "Tid": "12:45",
+          "Pris": "60",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "000492",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "002972",
+      "FilmNamn": "Viljas äventyr (Sv. tal)",
+      "Alder": "7 år",
+      "Speltid": "1.29",
+      "Genre": "Animerad familjefilm",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/viljasÃ¤ventyrx.jpg",
+      "tid": "13:45",
+      "datum": "2023-01-03",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37644",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "3/1 2023",
+          "Tid": "13:45",
+          "Pris": "95",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "78",
+          "HasStarted": false,
+          "FilmNr": "002972",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
       "Antalsalong": "9"
     },
     {
@@ -3124,7 +4527,7 @@
           "Tid": "20:15",
           "Pris": "130",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
+          "AntalLediga": "101",
           "HasStarted": false,
           "FilmNr": "003411",
           "Notering": ""
@@ -3144,6 +4547,34 @@
         }
       ],
       "Antalforestall": 2,
+      "Antalsalong": "9"
+    },
+    {
+      "FilmNr": "002867",
+      "FilmNamn": "Världens värsta människa",
+      "Alder": "7 år",
+      "Speltid": "2.01",
+      "Genre": "Drama",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/vÃ¤rldensvÃ¤rstamÃ¤nniska_1.jpg",
+      "tid": "17:30",
+      "datum": "2023-01-08",
+      "AntalPlatsersalong": "78",
+      "forestall": [
+        {
+          "LopNr": "37732",
+          "Salong": "Salong 3",
+          "SalongNr": "3",
+          "Datum": "8/1 2023",
+          "Tid": "17:30",
+          "Pris": "100",
+          "AntalPlatsersalong": "78",
+          "AntalLediga": "77",
+          "HasStarted": false,
+          "FilmNr": "002867",
+          "Notering": ""
+        }
+      ],
+      "Antalforestall": 1,
       "Antalsalong": "9"
     },
     {
@@ -3193,7 +4624,7 @@
           "Tid": "20:30",
           "Pris": "0",
           "AntalPlatsersalong": "104",
-          "AntalLediga": "104",
+          "AntalLediga": "102",
           "HasStarted": false,
           "FilmNr": "003443",
           "Notering": "Bokade biljetter hämtas i kassan senast 30min före visningen"
@@ -3231,6 +4662,34 @@
       "Antalsalong": "9"
     },
     {
+      "FilmNr": "003482",
+      "FilmNamn": "Wong Kar-Wai: As Tears Go By",
+      "Alder": "15 år",
+      "Speltid": "1.42",
+      "Genre": "",
+      "BildSokvag": "https://panora.internetbokningen.com/chap/resources/img/posters/astearsgoby.jpg",
+      "tid": "18:15",
+      "datum": "2023-02-14",
+      "AntalPlatsersalong": "104",
+      "forestall": [
+        {
+          "LopNr": "37709",
+          "Salong": "Salong 2",
+          "SalongNr": "2",
+          "Datum": "14/2 2023",
+          "Tid": "18:15",
+          "Pris": "120",
+          "AntalPlatsersalong": "104",
+          "AntalLediga": "104",
+          "HasStarted": false,
+          "FilmNr": "003482",
+          "Notering": "Rabatter eller Klippkort gäller ej."
+        }
+      ],
+      "Antalforestall": 1,
+      "Antalsalong": "9"
+    },
+    {
       "FilmNr": "003465",
       "FilmNamn": "Yuku och fjällets blomma (Sv. tal)",
       "Alder": "0 år",
@@ -3262,7 +4721,7 @@
           "Tid": "13:45",
           "Pris": "120",
           "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
+          "AntalLediga": "72",
           "HasStarted": false,
           "FilmNr": "003465",
           "Notering": ""
@@ -3275,7 +4734,7 @@
           "Tid": "13:30",
           "Pris": "120",
           "AntalPlatsersalong": "78",
-          "AntalLediga": "78",
+          "AntalLediga": "76",
           "HasStarted": false,
           "FilmNr": "003465",
           "Notering": ""
@@ -3312,7 +4771,7 @@
           "SalongNr": "1",
           "Datum": "28/12 2022",
           "Tid": "13:00",
-          "Pris": "120",
+          "Pris": "95",
           "AntalPlatsersalong": "195",
           "AntalLediga": "195",
           "HasStarted": false,
