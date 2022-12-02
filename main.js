@@ -1,41 +1,55 @@
 const express = require('express')
 const path = require('path')
-const listings = require('./json/listings-all.json')
+const hbs = require('hbs')
+const listingsJson = require('./json/listings-all.json')
 
 const PORT = 3000
 
-function getTitles(query, maxListings) {
-  let titles = listings
-  .map(listing => listing.title)
-  .filter((title, index, array) => array.findIndex(x => x.toLowerCase() === title.toLowerCase()) === index)
-  .sort()
-  .map(title => {
-    let listingsForTitle = listings
-      .filter(x => x.title.toLowerCase() === title.toLowerCase())
-      .sort(x => x.date)
-      .map(x => ({...x, date: new Date(x.date)}))
-      .map(x => ({...x, date: `${ x.date.toLocaleDateString('se') } ${ x.date.toLocaleTimeString('se').slice(0, -3) }`}))
+hbs.registerHelper('firstThree', function(array) {
+  return array.slice(0, 3)
+})
 
-    if(maxListings) {
-      const count = listingsForTitle.length
-      listingsForTitle = listingsForTitle.slice(0, maxListings)
+hbs.registerHelper('defined', function(x) {
+  return Boolean(x)
+})
 
-      if(listingsForTitle.length < count) {
-        listingsForTitle.push({ date: 'More...' })
-      }
-    }
-    return {
-      title,
-      url: encodeURIComponent(title),
-      listings: listingsForTitle
-    }
-  })
+hbs.registerHelper('formatDate', function(x) {
+  const date = new Date(x)
+  return `${ date.toLocaleDateString('se') } ${ date.toLocaleTimeString('se').slice(0, -3) }`
+})
 
-  if(query) {
-    titles = titles.filter(item => item.title.toLowerCase().includes(query.toLowerCase()))
-  }
 
-  return titles
+const parseDateAsObject = x => {
+  x.date = new Date(x.date)
+  return x
+}
+
+const compareByDate = (a, b) => {
+  return a.date - b.date
+}
+
+const getTitleProperty = (x) => {
+  return x.title
+}
+
+const removeTitleProperty = (x) => {
+  const obj = {...x}
+  delete obj.title
+  return obj
+}
+
+const isUnique = (x, i, array) => {
+  return array.findIndex(y => x.toLowerCase() === y.toLowerCase()) === i
+}
+
+const filterByTitle = (title) => {
+  const func = x => x.title.toLowerCase() === title.toLowerCase()
+  return func
+}
+
+const titleIncludesString = (str) => {
+  const func = x => x.title.toLowerCase().includes(str.toLowerCase())
+  return func
 }
 
 const app = express()
@@ -45,15 +59,35 @@ app.set('views', path.join(__dirname, './views'))
 app.use(express.static(path.join(__dirname, './public')))
 
 app.get('/', (req, res) => {
-  console.log(req.query)
+  const listingsOrderedByDateAsc = listingsJson
+    .slice()
+    .map(parseDateAsObject)
+    .sort(compareByDate)
 
-  const query = req.query.query
-  const titles = query ? getTitles(query) : getTitles(null, 3)
+  const listingsByTitle = listingsOrderedByDateAsc
+    .map(getTitleProperty)
+    .filter(isUnique)
+    .map(title => {
+      const listingsForTitle = listingsOrderedByDateAsc
+        .filter(filterByTitle(title))
+        .map(removeTitleProperty)
+
+      return {
+        title: title,
+        listings: listingsForTitle,
+        url: encodeURIComponent(title)
+      }
+    })
+
+  const query = req.query.query || ''
+  const listingsFilteredByQuery = listingsByTitle.filter(titleIncludesString(query))
+
   res.render('index', {
-    titles,
-    query
+    titles: listingsFilteredByQuery,
+    query: query
   })
 })
+
 
 app.listen(PORT, () => {
   console.log(`[server] listening on port ${PORT}...`)
