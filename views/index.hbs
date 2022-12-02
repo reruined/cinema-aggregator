@@ -1,5 +1,11 @@
 <section class="titles-section">
-  <h2 class="titles-heading">Titles (sorted by expiry)</h2>
+  <a href="/shows"><h2 class="titles-heading">Titles (sorted by expiry)</h2></a>
+  <section class="shortcuts">
+    <p><a href="/today">Today</a></p>
+    <p><a href="/tomorrow">Tomorrow</a></p>
+    <p><a href="/weeks/{{todaysWeek}}">This week</a></p>
+    <p><a href="/weeks/{{nextWeek}}">Next week</a></p>
+  </section>
   <form method="GET" action="/shows">
     <input type="text" name="query" placeholder="Enter query..." value="{{query}}" />
     <input type="submit" value="Search" />
@@ -7,7 +13,7 @@
   <ul class="titles-list">
   {{#each titles}}
     <li class="item">
-      <a href="?query={{this.url}}">
+      <a href="/shows?query={{this.url}}">
         <p class="item-title">{{this.title}}</p>
         <ol class="item-shows">
         {{#if (defined ../query)}}

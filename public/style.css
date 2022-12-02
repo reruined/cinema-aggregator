@@ -7,13 +7,27 @@ ol, ul, li, div, p, a {
   padding: 0;
   margin: 0;
   border: none;
+  text-decoration: none;
+  color: unset;
 }
-
-
 
 .titles-heading {
   display: block;
   text-align: center;
+}
+
+.shortcuts {
+  display: block;
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.shortcuts a {
+  text-decoration: underline;
+}
+
+.shortcuts p {
+  margin: 10px auto;
 }
 
 .titles-list {
@@ -25,6 +39,11 @@ ol, ul, li, div, p, a {
   margin: 0 auto;
   padding: 0;
   max-width: 750px;
+}
+
+.titles-list::after {
+  content: "";
+  flex: auto;
 }
 
 .item {

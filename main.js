@@ -1,3 +1,4 @@
+require('./utils/getWeek.js')
 const express = require('express')
 const path = require('path')
 const hbs = require('hbs')
@@ -16,6 +17,14 @@ hbs.registerHelper('defined', function(x) {
 hbs.registerHelper('formatDate', function(x) {
   const date = new Date(x)
   return `${ date.toLocaleDateString('se') } ${ date.toLocaleTimeString('se').slice(0, -3) }`
+})
+
+hbs.registerHelper('todaysWeek', function() {
+  return getToday().getWeek()
+})
+
+hbs.registerHelper('nextWeek', function() {
+  return getNextWeek().getWeek()
 })
 
 const parseDateAsObject = x => {
@@ -51,17 +60,12 @@ const titleIncludesString = (str) => {
   return func
 }
 
-const app = express()
-app.set('view engine', 'hbs')
-app.set('views', path.join(__dirname, './views'))
+const dateIsWeek = (week) => {
+  const func = x => x.date.getWeek() === week
+  return func
+}
 
-app.use(express.static(path.join(__dirname, './public')))
-
-app.get('/', (req, res) => {
-  res.redirect('/shows')
-})
-
-app.get('/shows', (req, res) => {
+function getShowsByTitleOrderedByLastDate() {
   const showsOrderedByDateAsc = showsJson
     .slice()
     .map(parseDateAsObject)
@@ -89,7 +93,50 @@ app.get('/shows', (req, res) => {
       return lastDateA - lastDateB
     })
 
+  return showsByTitleOrderedByLastDate
+}
+
+function getToday() {
+  const today = new Date(Date.now())
+  today.setHours(0, 0, 0, 0)
+
+  return today
+}
+
+function getTomorrow() {
+  const today = new Date(Date.now())
+
+  const tomorrow = new Date(today)
+  tomorrow.setDate(tomorrow.getDate() + 1)
+  tomorrow.setHours(0, 0, 0, 0)
+
+  return tomorrow
+}
+
+function getNextWeek() {
+  const today = new Date(Date.now())
+
+  const nextWeek = new Date(today)
+  nextWeek.setDate(nextWeek.getDate() + 7)
+  nextWeek.setHours(0, 0, 0, 0)
+
+  return nextWeek
+}
+
+const app = express()
+app.set('view engine', 'hbs')
+app.set('views', path.join(__dirname, './views'))
+
+app.use(express.static(path.join(__dirname, './public')))
+
+app.get('/', (req, res) => {
+  res.redirect('/shows')
+})
+
+app.get('/shows', (req, res) => {
   const query = req.query.query || ''
+
+  const showsByTitleOrderedByLastDate = getShowsByTitleOrderedByLastDate()
   const showsFilteredByQuery = showsByTitleOrderedByLastDate.filter(titleIncludesString(query))
 
   res.render('index', {
@@ -98,6 +145,50 @@ app.get('/shows', (req, res) => {
   })
 })
 
+app.get('/weeks/:week', (req, res) => {
+  const week = req.params.week
+
+  const showsByTitleOrderedByLastDate = getShowsByTitleOrderedByLastDate()
+  const showsFilteredByWeek = showsByTitleOrderedByLastDate.filter(title => {
+    return title.shows.find(x => x.date.getWeek() == week)
+  })
+
+  res.render('index', {
+    titles: showsFilteredByWeek
+  })
+})
+
+app.get('/today', (req, res) => {
+  const today = getToday()
+  const showsByTitleOrderedByLastDate = getShowsByTitleOrderedByLastDate()
+  const showsFilteredByDay = showsByTitleOrderedByLastDate.filter(title => {
+    return title.shows.find(x => {
+      const date = new Date(x.date)
+      date.setHours(0, 0, 0, 0)
+      return date.getTime() === today.getTime()
+    })
+  })
+
+  res.render('index', {
+    titles: showsFilteredByDay
+  })
+})
+
+app.get('/tomorrow', (req, res) => {
+  const tomorrow = getTomorrow()
+  const showsByTitleOrderedByLastDate = getShowsByTitleOrderedByLastDate()
+  const showsFilteredByDay = showsByTitleOrderedByLastDate.filter(title => {
+    return title.shows.find(x => {
+      const date = new Date(x.date)
+      date.setHours(0, 0, 0, 0)
+      return date.getTime() === tomorrow.getTime()
+    })
+  })
+
+  res.render('index', {
+    titles: showsFilteredByDay
+  })
+})
 
 app.listen(PORT, () => {
   console.log(`[server] listening on port ${PORT}...`)
