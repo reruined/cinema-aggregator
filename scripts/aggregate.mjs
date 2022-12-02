@@ -33,25 +33,9 @@ function transformPanora(source) {
   return transformedData
 }
 
-function aggregate(sources, query) {
-  const shows = [].concat(...sources)
-  /*
-  console.log(shows.find(x => x.title.toLowerCase().includes(query)).title)
-  console.log(
-    shows
-      .filter(x => x.title.toLowerCase().includes(query))
-      .sort(x => x.date)
-      .map( x => ({ ...x, date: `${ x.date.toLocaleDateString() } ${ x.date.toLocaleTimeString() }` }) )
-      .map(x => `${x.screen} at ${x.venue}, ${x.date}`)
-    )
-  */
-  return shows
-}
-
-const query = 'avatar'
-const shows = aggregate([
+const shows = [].concat(
   transformSpegeln(spegeln),
   transformPanora(panora)
-], query)
+)
 
 await fs.writeFile('./json/shows-all.json', JSON.stringify(shows, null, 2))
