@@ -18,7 +18,6 @@ hbs.registerHelper('formatDate', function(x) {
   return `${ date.toLocaleDateString('se') } ${ date.toLocaleTimeString('se').slice(0, -3) }`
 })
 
-
 const parseDateAsObject = x => {
   x.date = new Date(x.date)
   return x
@@ -59,6 +58,10 @@ app.set('views', path.join(__dirname, './views'))
 app.use(express.static(path.join(__dirname, './public')))
 
 app.get('/', (req, res) => {
+  res.redirect('/shows')
+})
+
+app.get('/shows', (req, res) => {
   const showsOrderedByDateAsc = showsJson
     .slice()
     .map(parseDateAsObject)
@@ -79,7 +82,6 @@ app.get('/', (req, res) => {
       }
     })
 
-  // const showsByTitleOrderedByLastDate
   const showsByTitleOrderedByLastDate = showsByTitle
     .sort((a, b) => {
       const lastDateA = a.shows[a.shows.length - 1].date

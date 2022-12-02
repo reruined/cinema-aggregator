@@ -1,13 +1,13 @@
 <section class="titles-section">
   <h2 class="titles-heading">Titles (sorted by expiry)</h2>
-  <form method="GET" action="/">
+  <form method="GET" action="/shows">
     <input type="text" name="query" placeholder="Enter query..." value="{{query}}" />
     <input type="submit" value="Search" />
   </form>
   <ul class="titles-list">
   {{#each titles}}
     <li class="item">
-      <a href="/?query={{this.url}}">
+      <a href="?query={{this.url}}">
         <p class="item-title">{{this.title}}</p>
         <ol class="item-shows">
         {{#if (defined ../query)}}
