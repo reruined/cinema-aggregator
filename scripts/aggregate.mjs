@@ -19,7 +19,20 @@ function transformPanora(source) {
     const showings = entry.forestall.map(showing => {
       const [day, month, year] = showing.Datum.split(/[\/\s]/)
       const [hour, minutes] = showing.Tid.split(':')
-      const date = new Date(year, month, day, hour, minutes)
+
+      // CAUTION: the month is 0-indexed
+      const date = new Date(year, month - 1, day, hour, minutes)
+
+      /*
+      if(entry.FilmNamn.toLowerCase().includes('boy from heaven')) {
+        console.log(entry.FilmNamn)
+        console.log(`\tDatum: ${showing.Datum}`)
+        console.log(`\tTid: ${showing.Tid}`)
+        console.log(`\tyear: ${year}, month: ${month}, day: ${day}, hour: ${hour}, minutes: ${minutes}`)
+        console.log(`\tdate: ${date}`)
+      }
+      */
+
       return {
         title: entry.FilmNamn,
         date: date,
