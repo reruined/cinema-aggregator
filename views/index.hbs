@@ -9,13 +9,13 @@
     <li class="item">
       <a href="/?query={{this.url}}">
         <p class="item-title">{{this.title}}</p>
-        <ol class="item-listings">
+        <ol class="item-shows">
         {{#if (defined ../query)}}
-          {{#each this.listings}}
+          {{#each this.shows}}
             <li class="listing">{{formatDate this.date}}, {{this.venue}}, {{this.screen}}</li>
           {{/each}}
         {{else}}
-          {{#each (firstThree this.listings)}}
+          {{#each (firstThree this.shows)}}
             <li class="listing">{{formatDate this.date}}, {{this.venue}}, {{this.screen}}</li>
           {{/each}}
         {{/if}}

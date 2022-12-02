@@ -15,8 +15,8 @@ async function download(url, destination) {
 try {
   console.log('download.js: START')
   await Promise.allSettled([
-    download('https://biografspegeln.se/webservices/show_times/getContent?cinema_id=1&content_id=6', './listings-spegeln.json'),
-    download('https://panora.internetbokningen.com/chap/ajax/getAllMovies', './listings-panora.json')
+    download('https://biografspegeln.se/webservices/show_times/getContent?cinema_id=1&content_id=6', './json/shows-spegeln.json'),
+    download('https://panora.internetbokningen.com/chap/ajax/getAllMovies', './json/shows-panora.json')
   ])
 }
 catch(e) {

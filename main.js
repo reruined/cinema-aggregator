@@ -1,7 +1,7 @@
 const express = require('express')
 const path = require('path')
 const hbs = require('hbs')
-const listingsJson = require('./json/listings-all.json')
+const showsJson = require('./json/shows-all.json')
 
 const PORT = 3000
 
@@ -59,39 +59,39 @@ app.set('views', path.join(__dirname, './views'))
 app.use(express.static(path.join(__dirname, './public')))
 
 app.get('/', (req, res) => {
-  const listingsOrderedByDateAsc = listingsJson
+  const showsOrderedByDateAsc = showsJson
     .slice()
     .map(parseDateAsObject)
     .sort(compareByDate)
 
-  const listingsByTitle = listingsOrderedByDateAsc
+  const showsByTitle = showsOrderedByDateAsc
     .map(getTitleProperty)
     .filter(isUnique)
     .map(title => {
-      const listingsForTitle = listingsOrderedByDateAsc
+      const showsForTitle = showsOrderedByDateAsc
         .filter(filterByTitle(title))
         .map(removeTitleProperty)
 
       return {
         title: title,
-        listings: listingsForTitle,
+        shows: showsForTitle,
         url: encodeURIComponent(title)
       }
     })
 
-  // const listingsByTitleOrderedByLastDate
-  const listingsByTitleOrderedByLastDate = listingsByTitle
+  // const showsByTitleOrderedByLastDate
+  const showsByTitleOrderedByLastDate = showsByTitle
     .sort((a, b) => {
-      const lastDateA = a.listings[a.listings.length - 1].date
-      const lastDateB = b.listings[b.listings.length - 1].date
+      const lastDateA = a.shows[a.shows.length - 1].date
+      const lastDateB = b.shows[b.shows.length - 1].date
       return lastDateA - lastDateB
     })
 
   const query = req.query.query || ''
-  const listingsFilteredByQuery = listingsByTitleOrderedByLastDate.filter(titleIncludesString(query))
+  const showsFilteredByQuery = showsByTitleOrderedByLastDate.filter(titleIncludesString(query))
 
   res.render('index', {
-    titles: listingsFilteredByQuery,
+    titles: showsFilteredByQuery,
     query: query
   })
 })
