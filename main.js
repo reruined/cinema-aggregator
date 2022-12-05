@@ -2,6 +2,8 @@ require('./utils/getWeek.js')
 const express = require('express')
 const path = require('path')
 const hbs = require('hbs')
+const livereload = require('livereload')
+const connectLivereload = require('connect-livereload')
 const showsJson = require('./json/shows-all.json')
 
 const PORT = 3000
@@ -127,6 +129,25 @@ const app = express()
 app.set('view engine', 'hbs')
 app.set('views', path.join(__dirname, './views'))
 
+// live reload
+if(process.argv.includes('--reload')) {
+  console.log('[server] connecting livereload')
+  const liveReloadServer = livereload.createServer()
+  liveReloadServer.server.once('connection', () => {
+    setTimeout(() => {
+      liveReloadServer.refresh("/");
+    }, 100);
+  })
+  app.use(connectLivereload())
+}
+
+// root-level logger
+app.use('/', (req, res, next) => {
+  console.log(`[${req.ip}] ${req.method} ${req.path}`)
+  next()
+})
+
+// remaining middlewares
 app.use(express.static(path.join(__dirname, './public')))
 
 app.get('/', (req, res) => {
@@ -140,6 +161,8 @@ app.get('/shows', (req, res) => {
   const showsFilteredByQuery = showsByTitleOrderedByLastDate.filter(titleIncludesString(query))
 
   res.render('index', {
+    pageName: 'index',
+    pageTitle: 'Cinematrix',
     titles: showsFilteredByQuery,
     query: query
   })
@@ -154,6 +177,8 @@ app.get('/weeks/:week', (req, res) => {
   })
 
   res.render('index', {
+    pageName: 'index',
+    pageTitle: 'Cinematrix',
     titles: showsFilteredByWeek
   })
 })
@@ -170,6 +195,8 @@ app.get('/today', (req, res) => {
   })
 
   res.render('index', {
+    pageName: 'index',
+    pageTitle: 'Cinematrix',
     titles: showsFilteredByDay
   })
 })
@@ -186,7 +213,22 @@ app.get('/tomorrow', (req, res) => {
   })
 
   res.render('index', {
+    pageName: 'index',
+    pageTitle: 'Cinematrix',
     titles: showsFilteredByDay
+  })
+})
+
+app.get('/dev/titles', (req, res) => {
+  const query = req.query.query || ''
+
+  const showsByTitleOrderedByLastDate = getShowsByTitleOrderedByLastDate()
+  const showsFilteredByQuery = showsByTitleOrderedByLastDate.filter(titleIncludesString(query))
+
+  res.render('titles', {
+    pageName: 'titles',
+    pageTitle: 'Cinematrix',
+    titles: showsFilteredByQuery.slice(0, 4),
   })
 })
 

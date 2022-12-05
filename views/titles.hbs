@@ -1,0 +1,24 @@
+<header>
+  <h1>Cinematrix</h1>
+</header>
+<main>
+  <h2>Titles</h2>
+  <div class="titles">
+  {{#each titles}}
+    <article class="card">
+      <h3>{{title}}</h3>
+      <ol class="shows">
+      {{#each shows}}
+        <li class="show">
+          {{formatDate date}}
+        </li>
+      {{/each}}
+      </ol>
+    </article>
+  {{/each}}
+  </div>
+
+</main>
+<footer>
+
+</footer>
