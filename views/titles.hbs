@@ -18,7 +18,7 @@
   {{#each titles}}
     <article class="card">
       <h3 class="title">{{title}}</h3>
-      <ol class="shows" style="background-image: url({{poster}});">
+      <ol class="shows" style="background-image: url('{{poster}}');">
       {{#each shows}}
         <li class="show">
           {{formatDate date}}, {{venue}}
@@ -31,5 +31,8 @@
 
 </main>
 <footer>
-
+  <div class="page-author">
+    <p>Author: Aneira Gramarye</p>
+    <p>Source: <a href="https://github.com/reruined/cinema-aggregator" />https://github.com/reruined/cinema-aggregator</p>
+  </div>
 </footer>

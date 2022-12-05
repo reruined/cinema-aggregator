@@ -94,7 +94,6 @@ main h2 {
   flex-grow: 1;
   list-style-type: none;
   background-color: white;
-  background-image: url("https://biografspegeln.se/media/posters/2956/216/aba489fc-7a7e-4fe4-89c2-3fecc204f7bc.jpg");
   background-size: cover;
 }
 
@@ -104,4 +103,24 @@ main h2 {
   padding: 5px 0 0 5px;
   text-align: left;
   min-width: 180px;
+}
+
+footer {
+  background-color: black;
+}
+
+.page-author {
+  color: white;
+  text-align: left;
+  font-family: monospace;
+  padding: 1em;
+  margin: 0 auto 1em auto;
+  opacity: 0.5;
+  font-size: smaller;
+  display: block;
+  width: fit-content;
+}
+
+footer a {
+  text-decoration: underline;
 }
