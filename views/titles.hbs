@@ -3,14 +3,17 @@
     <h1><a href="/titles">Cinematrix</a></h1>
     <p class="date-updated">(updated {{formatDate dateUpdated}})</p>
   </div>
-  <p><a href="/today">Today's shows</a></p>
-  <p><a href="/tomorrow">Tomorrow's shows</a></p>
-  <p><a href="/weeks/{{todaysWeek}}">This week</a></p>
-  <p><a href="/weeks/{{nextWeek}}">Next week</a></p>
-  <form method="GET" action="/titles">
-    <input type="text" name="query" value="{{query}}" placeholder="Enter query..." />
-    <input type="submit" value="Search" />
-  </form>
+  <div class="navigation">
+    <p><a href="/today">Today's shows</a></p>
+    <p><a href="/tomorrow">Tomorrow's shows</a></p>
+    <p><a href="/weeks/{{todaysWeek}}">This week</a></p>
+    <p><a href="/weeks/{{nextWeek}}">Next week</a></p>
+    <form method="GET" action="/titles">
+      <input type="text" name="query" value="{{query}}" placeholder="Enter query..." />
+      <input type="submit" value="Search" />
+    </form>
+  </div>
+  
 </header>
 <main>
   <h2>{{secondHeading}}</h2>

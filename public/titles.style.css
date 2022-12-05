@@ -25,7 +25,7 @@ header {
   display: flex;
   align-items: center;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: start;
   flex-wrap: wrap;
   background-color: black;
   color: white;
@@ -45,6 +45,14 @@ header .page-title {
 
 header .date-updated {
   font-size: small;
+}
+
+header .navigation {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  align-items: center;
+  flex-direction: row;
 }
 
 main h2 {
