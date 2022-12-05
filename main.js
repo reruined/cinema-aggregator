@@ -16,10 +16,7 @@ hbs.registerHelper('defined', function(x) {
   return Boolean(x)
 })
 
-hbs.registerHelper('formatDate', function(x) {
-  const date = new Date(x)
-  return `${ date.toLocaleDateString('se') } ${ date.toLocaleTimeString('se').slice(0, -3) }`
-})
+hbs.registerHelper('formatDate', formatDate)
 
 hbs.registerHelper('todaysWeek', function() {
   return getToday().getWeek()
@@ -126,6 +123,16 @@ function getNextWeek() {
   return nextWeek
 }
 
+function formatDate(x) {
+  const date = new Date(x)
+  return `${ date.toLocaleDateString('se') } ${ date.toLocaleTimeString('se').slice(0, -3) }`
+}
+
+function formatDateExcludingTime(x) {
+  const date = new Date(x)
+  return `${ date.toLocaleDateString('se') }`
+}
+
 const app = express()
 app.set('view engine', 'hbs')
 app.set('views', path.join(__dirname, './views'))
@@ -152,22 +159,25 @@ app.use('/', (req, res, next) => {
 app.use(express.static(path.join(__dirname, './public')))
 
 app.get('/', (req, res) => {
-  res.redirect('/shows')
+  res.redirect('/titles')
 })
 
+/*
 app.get('/shows', (req, res) => {
   const query = req.query.query || ''
 
   const showsByTitleOrderedByLastDate = getShowsByTitleOrderedByLastDate()
   const showsFilteredByQuery = showsByTitleOrderedByLastDate.filter(titleIncludesString(query))
 
-  res.render('index', {
-    pageName: 'index',
+  res.render('titles', {
+    pageName: 'titles',
     pageTitle: 'Cinematrix',
+    dateUpdated: showsJson.date,
     titles: showsFilteredByQuery,
     query: query
   })
 })
+*/
 
 app.get('/weeks/:week', (req, res) => {
   const week = req.params.week
@@ -177,9 +187,11 @@ app.get('/weeks/:week', (req, res) => {
     return title.shows.find(x => x.date.getWeek() == week)
   })
 
-  res.render('index', {
-    pageName: 'index',
+  res.render('titles', {
+    pageName: 'titles',
     pageTitle: 'Cinematrix',
+    secondHeading: `Week ${week}`,
+    dateUpdated: showsJson.date,
     titles: showsFilteredByWeek
   })
 })
@@ -195,9 +207,11 @@ app.get('/today', (req, res) => {
     })
   })
 
-  res.render('index', {
-    pageName: 'index',
+  res.render('titles', {
+    pageName: 'titles',
     pageTitle: 'Cinematrix',
+    secondHeading: `Today's shows (${formatDateExcludingTime(today)})`,
+    dateUpdated: showsJson.date,
     titles: showsFilteredByDay
   })
 })
@@ -213,14 +227,16 @@ app.get('/tomorrow', (req, res) => {
     })
   })
 
-  res.render('index', {
-    pageName: 'index',
+  res.render('titles', {
+    pageName: 'titles',
     pageTitle: 'Cinematrix',
-    titles: showsFilteredByDay
+    secondHeading: `Tomorrow's shows (${formatDateExcludingTime(tomorrow)})`,
+    titles: showsFilteredByDay,
+    dateUpdated: showsJson.date
   })
 })
 
-app.get('/dev/titles', (req, res) => {
+app.get('/titles', (req, res) => {
   const query = req.query.query || ''
 
   const showsByTitleOrderedByLastDate = getShowsByTitleOrderedByLastDate()
@@ -229,8 +245,10 @@ app.get('/dev/titles', (req, res) => {
   res.render('titles', {
     pageName: 'titles',
     pageTitle: 'Cinematrix',
+    secondHeading: query ? `Titles including '${query}'` : 'All titles',
     dateUpdated: showsJson.date,
     titles: showsFilteredByQuery,
+    query: query
   })
 })
 

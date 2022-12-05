@@ -8,8 +8,13 @@ html, body, h1, h2, h3, h4, h5, h6, header, main, footer, ul, ol, li, article, d
   border: none;
 }
 
+a {
+  text-decoration: none;
+  color: unset;
+}
+
 body {
-  background-color: rgb(39, 0, 0);
+  background-color: rgb(55, 0, 0);
   width: 100%;
   height: 100vh;
   max-width: 1000px;
@@ -17,11 +22,24 @@ body {
 }
 
 header {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
   background-color: black;
   color: white;
   padding: 1.5rem;
+  gap: 15px;
 
   font-family: 'Oswald',Georgia,'Times New Roman',Times,serif
+}
+
+header p a {
+  text-decoration: underline;
+}
+
+header .page-title {
+  margin-right: 10px;
 }
 
 header .date-updated {
@@ -84,4 +102,6 @@ main h2 {
   color: black;
   background-color: white;
   padding: 5px 0 0 5px;
+  text-align: left;
+  min-width: 180px;
 }
