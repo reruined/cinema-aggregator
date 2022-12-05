@@ -1,3 +1,4 @@
+require('dotenv').config()
 require('./utils/getWeek.js')
 const express = require('express')
 const path = require('path')
@@ -7,6 +8,8 @@ const connectLivereload = require('connect-livereload')
 const showsJson = require('./json/shows-all.json')
 
 const PORT = 3000
+
+console.log(`Locale test: ${new Date().toString()}`)
 
 hbs.registerHelper('firstThree', function(array) {
   return array.slice(0, 3)
