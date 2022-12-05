@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-html, body, h1, h2, h3, h4, h5, h6, header, main, footer, ul, ol, li, article, div {
+html, body, h1, h2, h3, h4, h5, h6, header, main, footer, ul, ol, li, article, div, p {
   margin: 0;
   padding: 0;
   border: none;
@@ -24,10 +24,17 @@ header {
   font-family: 'Oswald',Georgia,'Times New Roman',Times,serif
 }
 
+header .date-updated {
+  font-size: small;
+}
+
 main h2 {
-  color: black;
-  background-color: white;
-  padding-left: 1.5rem;
+  color: white;
+  text-align: center;
+  margin: 1em auto 0 auto;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid white;
+  width: 95%;
 
   text-transform: uppercase;
   font-size: 1rem;
@@ -40,9 +47,7 @@ main h2 {
   flex-wrap: wrap;
   justify-content: center;
   gap: 16px;
-  margin-top: 1.5em;
-  background-color: rgba(128, 128, 128, 0.295);
-  padding-top: 1rem;
+  margin-top: 1em;
   padding-bottom: 1rem;
 }
 
@@ -51,16 +56,16 @@ main h2 {
   flex-direction: column;
   background-color: white;
   width: 300px;
-  min-height: 250px;
-  padding: 5px;
+  min-height: 430px;
+  padding: 8px;
 }
 
-.card h3 {
+.card .title {
   color: rgb(70, 70, 70);
-  font-size: 12px;
+  font-size: 18px;
   font-family: 'Oswald',Georgia,'Times New Roman',Times,serif;
   font-weight: lighter;
-  padding: 2px 5px 5px 5px;
+  padding: 2px 5px 8px 5px;
 }
 
 .shows {
@@ -69,15 +74,14 @@ main h2 {
   justify-content: end;
   align-items: flex-end;
   flex-grow: 1;
-  padding: 5px;
   list-style-type: none;
-  background-color: rgb(224, 224, 224);
+  background-color: white;
   background-image: url("https://biografspegeln.se/media/posters/2956/216/aba489fc-7a7e-4fe4-89c2-3fecc204f7bc.jpg");
   background-size: cover;
 }
 
 .show {
-  color: rgb(196, 196, 196);
-  background-color: black;
-  padding: 3px;
+  color: black;
+  background-color: white;
+  padding: 5px 0 0 5px;
 }

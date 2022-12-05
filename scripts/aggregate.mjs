@@ -8,7 +8,8 @@ function transformSpegeln(source) {
     title: entry.title,
     date: new Date(entry.show_time),
     venue: 'Spegeln',
-    screen: entry.screen_name
+    screen: entry.screen_name,
+    poster: `https://biografspegeln.se/media/posters/${entry.movie_id}/216/${entry.movie_poster}`
   }))
   
   return transformedData
@@ -37,7 +38,8 @@ function transformPanora(source) {
         title: entry.FilmNamn,
         date: date,
         venue: 'Panora',
-        screen: showing.Salong
+        screen: showing.Salong,
+        poster: entry.BildSokvag
       }
     })
     return array.concat(showings)
@@ -51,4 +53,9 @@ const shows = [].concat(
   transformPanora(panora)
 )
 
-await fs.writeFile('./json/shows-all.json', JSON.stringify(shows, null, 2))
+const output = {
+  shows: shows,
+  date: new Date()
+}
+
+await fs.writeFile('./json/shows-all.json', JSON.stringify(output, null, 2))

@@ -68,7 +68,7 @@ const dateIsWeek = (week) => {
 }
 
 function getShowsByTitleOrderedByLastDate() {
-  const showsOrderedByDateAsc = showsJson
+  const showsOrderedByDateAsc = showsJson.shows
     .slice()
     .map(parseDateAsObject)
     .sort(compareByDate)
@@ -84,7 +84,8 @@ function getShowsByTitleOrderedByLastDate() {
       return {
         title: title,
         shows: showsForTitle,
-        url: encodeURIComponent(title)
+        url: encodeURIComponent(title),
+        poster: showsForTitle[0].poster
       }
     })
 
@@ -228,7 +229,8 @@ app.get('/dev/titles', (req, res) => {
   res.render('titles', {
     pageName: 'titles',
     pageTitle: 'Cinematrix',
-    titles: showsFilteredByQuery.slice(0, 4),
+    dateUpdated: showsJson.date,
+    titles: showsFilteredByQuery,
   })
 })
 

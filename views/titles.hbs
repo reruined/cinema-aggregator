@@ -1,16 +1,17 @@
 <header>
   <h1>Cinematrix</h1>
+  <p class="date-updated">(updated {{formatDate dateUpdated}})</p>
 </header>
 <main>
-  <h2>Titles</h2>
+  <h2>All titles</h2>
   <div class="titles">
   {{#each titles}}
     <article class="card">
-      <h3>{{title}}</h3>
-      <ol class="shows">
+      <h3 class="title">{{title}}</h3>
+      <ol class="shows" style="background-image: url({{poster}});">
       {{#each shows}}
         <li class="show">
-          {{formatDate date}}
+          {{formatDate date}}, {{venue}}
         </li>
       {{/each}}
       </ol>
