@@ -26,6 +26,7 @@ header {
   align-items: center;
   flex-direction: row;
   justify-content: space-around;
+  flex-wrap: wrap;
   background-color: black;
   color: white;
   padding: 1.5rem;
