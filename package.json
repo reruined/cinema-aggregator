@@ -5,10 +5,10 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "nodemon -e js,html,css,json,env,hbs --watch ./ --watch ./views --watch ./public --inspect ./main.js --reload",
+    "watch": "nodemon -e js,html,css,json,env,hbs --watch ./ --watch ./views --watch ./public --inspect ./app.js --reload",
     "aggregate": "node ./scripts/aggregate.mjs",
     "download": "node ./scripts/download.mjs",
-    "start": "node ./main.js"
+    "start": "node ./app.js"
   },
   "keywords": [
     "learning",
