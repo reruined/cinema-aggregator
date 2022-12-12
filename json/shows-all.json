@@ -1,349 +1,6 @@
 {
   "shows": [
     {
-      "title": "Kärlekens hjältar",
-      "date": "2022-12-05T13:15:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2987/216/76ac4448-9fb5-4656-830e-d537a92010b3.jpeg"
-    },
-    {
-      "title": "Länge leve Bonusfamiljen",
-      "date": "2022-12-05T13:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
-    },
-    {
-      "title": "The Woman King",
-      "date": "2022-12-05T16:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2942/216/1a9bf29c-6971-4490-ad31-5155c4db1f9f.jpeg"
-    },
-    {
-      "title": "East End: A Christmas Carol",
-      "date": "2022-12-05T16:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2937/216/92e94bd5-b457-40c6-957f-ea3f48a242be.jpeg"
-    },
-    {
-      "title": "Boy from Heaven",
-      "date": "2022-12-05T18:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2802/216/f6ac500a-5563-4694-920d-efb3b5482cbf.jpeg"
-    },
-    {
-      "title": "Black Panther: Wakanda Forever",
-      "date": "2022-12-05T19:15:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2950/216/f17f2c4f-8700-46f3-ac5f-6a2cb58715f8.jpeg"
-    },
-    {
-      "title": "Triangle of Sadness",
-      "date": "2022-12-06T13:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2801/216/7bda94da-f81d-4fda-a630-b325c85945b6.jpeg"
-    },
-    {
-      "title": "Rose",
-      "date": "2022-12-06T14:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2970/216/a73f4bd1-84de-49e4-9048-adb13c28aabb.jpeg"
-    },
-    {
-      "title": "Boy from Heaven",
-      "date": "2022-12-06T16:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2802/216/f6ac500a-5563-4694-920d-efb3b5482cbf.jpeg"
-    },
-    {
-      "title": "Cine: Merry Christmas, Mr. Lawrence",
-      "date": "2022-12-06T17:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2250/216/e3eccd12-20a3-4866-8440-21d6a8b41567.jpeg"
-    },
-    {
-      "title": "Triangle of Sadness",
-      "date": "2022-12-06T19:15:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2801/216/7bda94da-f81d-4fda-a630-b325c85945b6.jpeg"
-    },
-    {
-      "title": "Guillermo del Toro's Pinocchio",
-      "date": "2022-12-06T19:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/3018/216/8c88f601-1ddb-4ebc-b5e3-67afc4486e7f.jpg"
-    },
-    {
-      "title": "Kärlekens hjältar",
-      "date": "2022-12-07T13:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2987/216/76ac4448-9fb5-4656-830e-d537a92010b3.jpeg"
-    },
-    {
-      "title": "Beautiful Beings",
-      "date": "2022-12-07T14:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2974/216/c654b509-f45a-4be9-b244-194f8e695ff5.jpg"
-    },
-    {
-      "title": "Hilma",
-      "date": "2022-12-07T16:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2909/216/1f7dc806-a53c-4482-a4b2-a04306f657e2.jpg"
-    },
-    {
-      "title": "Guillermo del Toro's Pinocchio",
-      "date": "2022-12-07T17:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/3018/216/8c88f601-1ddb-4ebc-b5e3-67afc4486e7f.jpg"
-    },
-    {
-      "title": "Länge leve Bonusfamiljen",
-      "date": "2022-12-07T19:15:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
-    },
-    {
-      "title": "The Woman King",
-      "date": "2022-12-07T19:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2942/216/1a9bf29c-6971-4490-ad31-5155c4db1f9f.jpeg"
-    },
-    {
-      "title": "Emily",
-      "date": "2022-12-08T13:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2975/216/fefa0a3a-fe3c-4ccf-b484-35c5db6e00c1.jpeg"
-    },
-    {
-      "title": "Kärlekens hjältar",
-      "date": "2022-12-08T14:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2987/216/76ac4448-9fb5-4656-830e-d537a92010b3.jpeg"
-    },
-    {
-      "title": "Länge leve Bonusfamiljen",
-      "date": "2022-12-08T16:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
-    },
-    {
-      "title": "Rose",
-      "date": "2022-12-08T17:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2970/216/a73f4bd1-84de-49e4-9048-adb13c28aabb.jpeg"
-    },
-    {
-      "title": "Triangle of Sadness",
-      "date": "2022-12-08T19:15:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2801/216/7bda94da-f81d-4fda-a630-b325c85945b6.jpeg"
-    },
-    {
-      "title": "The Menu",
-      "date": "2022-12-08T19:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2920/216/ff224c1c-3bb5-4b72-983e-eef34ca149e3.jpeg"
-    },
-    {
-      "title": "Boy from Heaven",
-      "date": "2022-12-09T13:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2802/216/f6ac500a-5563-4694-920d-efb3b5482cbf.jpeg"
-    },
-    {
-      "title": "Rose",
-      "date": "2022-12-09T13:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2970/216/a73f4bd1-84de-49e4-9048-adb13c28aabb.jpeg"
-    },
-    {
-      "title": "Länge leve Bonusfamiljen",
-      "date": "2022-12-09T15:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
-    },
-    {
-      "title": "Hilma",
-      "date": "2022-12-09T16:15:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2909/216/1f7dc806-a53c-4482-a4b2-a04306f657e2.jpg"
-    },
-    {
-      "title": "Min vackra stjärna",
-      "date": "2022-12-09T16:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2943/216/11532e9b-a80c-4b29-9730-763339bef71b.jpeg"
-    },
-    {
-      "title": "Triangle of Sadness",
-      "date": "2022-12-09T18:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2801/216/7bda94da-f81d-4fda-a630-b325c85945b6.jpeg"
-    },
-    {
-      "title": "Sing Along: Grease",
-      "date": "2022-12-09T19:15:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/482/216/0242efa7-9491-446f-a42e-578a4179bc33.jpg"
-    },
-    {
-      "title": "The Menu",
-      "date": "2022-12-09T19:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2920/216/ff224c1c-3bb5-4b72-983e-eef34ca149e3.jpeg"
-    },
-    {
-      "title": "Triangle of Sadness",
-      "date": "2022-12-10T12:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2801/216/7bda94da-f81d-4fda-a630-b325c85945b6.jpeg"
-    },
-    {
-      "title": "Min vackra stjärna",
-      "date": "2022-12-10T12:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2943/216/11532e9b-a80c-4b29-9730-763339bef71b.jpeg"
-    },
-    {
-      "title": "Länge leve Bonusfamiljen",
-      "date": "2022-12-10T13:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
-    },
-    {
-      "title": "Rose",
-      "date": "2022-12-10T15:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2970/216/a73f4bd1-84de-49e4-9048-adb13c28aabb.jpeg"
-    },
-    {
-      "title": "Boy from Heaven",
-      "date": "2022-12-10T16:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2802/216/f6ac500a-5563-4694-920d-efb3b5482cbf.jpeg"
-    },
-    {
-      "title": "Hilma",
-      "date": "2022-12-10T16:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2909/216/1f7dc806-a53c-4482-a4b2-a04306f657e2.jpg"
-    },
-    {
-      "title": "Met: The Hours",
-      "date": "2022-12-10T18:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2786/216/15ecb9a6-74ff-44c3-8741-be675125c5ad.jpeg"
-    },
-    {
-      "title": "Triangle of Sadness",
-      "date": "2022-12-10T18:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2801/216/7bda94da-f81d-4fda-a630-b325c85945b6.jpeg"
-    },
-    {
-      "title": "The Menu",
-      "date": "2022-12-10T19:15:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2920/216/ff224c1c-3bb5-4b72-983e-eef34ca149e3.jpeg"
-    },
-    {
-      "title": "Sagan om ringen - trilogin",
-      "date": "2022-12-11T10:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/1904/216/0c1a3d01-bd2b-4d7d-93b1-85b6821c6ecc.jpeg"
-    },
-    {
-      "title": "Rose",
-      "date": "2022-12-11T11:45:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2970/216/a73f4bd1-84de-49e4-9048-adb13c28aabb.jpeg"
-    },
-    {
-      "title": "Black Panther: Wakanda Forever",
-      "date": "2022-12-11T12:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2950/216/f17f2c4f-8700-46f3-ac5f-6a2cb58715f8.jpeg"
-    },
-    {
-      "title": "Boy from Heaven",
-      "date": "2022-12-11T14:15:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2802/216/f6ac500a-5563-4694-920d-efb3b5482cbf.jpeg"
-    },
-    {
-      "title": "Min vackra stjärna",
-      "date": "2022-12-11T16:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2943/216/11532e9b-a80c-4b29-9730-763339bef71b.jpeg"
-    },
-    {
-      "title": "The Menu",
-      "date": "2022-12-11T17:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2920/216/ff224c1c-3bb5-4b72-983e-eef34ca149e3.jpeg"
-    },
-    {
-      "title": "Die Hard",
-      "date": "2022-12-11T19:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/781/216/93c9a064-448c-487d-b54b-bf3dfb732eda.jpg"
-    },
-    {
-      "title": "Triangle of Sadness",
-      "date": "2022-12-11T19:30:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2801/216/7bda94da-f81d-4fda-a630-b325c85945b6.jpeg"
-    },
-    {
       "title": "Rose",
       "date": "2022-12-12T13:00:00.000Z",
       "venue": "Spegeln",
@@ -383,7 +40,7 @@
       "date": "2022-12-12T17:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
     },
     {
       "title": "Emily",
@@ -425,7 +82,7 @@
       "date": "2022-12-13T17:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
     },
     {
       "title": "Mupparnas Julsaga",
@@ -446,7 +103,7 @@
       "date": "2022-12-13T20:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/781/216/93c9a064-448c-487d-b54b-bf3dfb732eda.jpg"
+      "poster": "https://biografspegeln.se/media/posters/781/216/390ace0a-5321-405e-951e-7231e62e87c7.jpg"
     },
     {
       "title": "The Menu",
@@ -467,7 +124,7 @@
       "date": "2022-12-14T14:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
     },
     {
       "title": "Mupparnas Julsaga",
@@ -502,14 +159,14 @@
       "date": "2022-12-14T20:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/781/216/93c9a064-448c-487d-b54b-bf3dfb732eda.jpg"
+      "poster": "https://biografspegeln.se/media/posters/781/216/390ace0a-5321-405e-951e-7231e62e87c7.jpg"
     },
     {
       "title": "Länge leve Bonusfamiljen",
       "date": "2022-12-15T13:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
     },
     {
       "title": "Rose",
@@ -547,13 +204,6 @@
       "poster": "https://biografspegeln.se/media/posters/2802/216/f6ac500a-5563-4694-920d-efb3b5482cbf.jpeg"
     },
     {
-      "title": "Spegelns filmquiz",
-      "date": "2022-12-15T17:00:00.000Z",
-      "venue": "Spegeln",
-      "screen": "Foajé",
-      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
-    },
-    {
       "title": "Rymdinvasion i Lappland",
       "date": "2022-12-15T17:45:00.000Z",
       "venue": "Spegeln",
@@ -580,6 +230,13 @@
       "venue": "Spegeln",
       "screen": "Camera",
       "poster": "https://biografspegeln.se/media/posters/2824/216/b427e2e2-f365-46a5-b344-3e3454385c59.jpg"
+    },
+    {
+      "title": "Länge leve Bonusfamiljen",
+      "date": "2022-12-16T17:15:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
     },
     {
       "title": "Avatar: The Way of Water",
@@ -614,7 +271,7 @@
       "date": "2022-12-17T12:30:00.000Z",
       "venue": "Spegeln",
       "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
     },
     {
       "title": "Triangle of Sadness",
@@ -650,6 +307,20 @@
       "venue": "Spegeln",
       "screen": "Camera",
       "poster": "https://biografspegeln.se/media/posters/2914/216/7db68200-4b5a-4587-9e7a-a5f989122e81.jpeg"
+    },
+    {
+      "title": "Triangle of Sadness",
+      "date": "2022-12-17T19:15:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2801/216/7bda94da-f81d-4fda-a630-b325c85945b6.jpeg"
+    },
+    {
+      "title": "The Menu",
+      "date": "2022-12-17T19:45:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2920/216/ff224c1c-3bb5-4b72-983e-eef34ca149e3.jpeg"
     },
     {
       "title": "Frukostbio: Länge leve Bonusfamiljen",
@@ -691,7 +362,7 @@
       "date": "2022-12-18T16:30:00.000Z",
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
     },
     {
       "title": "The Menu",
@@ -713,6 +384,27 @@
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
       "poster": "https://biografspegeln.se/media/posters/1898/216/b9192c59-86f9-40c7-8df3-ed978b6a89f7.jpeg"
+    },
+    {
+      "title": "Hilma",
+      "date": "2022-12-19T15:45:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/2909/216/1f7dc806-a53c-4482-a4b2-a04306f657e2.jpg"
+    },
+    {
+      "title": "Länge leve Bonusfamiljen",
+      "date": "2022-12-19T16:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
+    },
+    {
+      "title": "Mupparnas Julsaga",
+      "date": "2022-12-19T17:15:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/826/216/ef7af759-6bcb-4cff-8a03-bb4a62664adb.jpg"
     },
     {
       "title": "Avatar: The Way of Water",
@@ -775,28 +467,28 @@
       "date": "2022-12-21T13:30:00.000Z",
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2962/216/b23cb34b-0e08-4b3c-b6a4-f623f2d21ec8.jpeg"
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
     },
     {
       "title": "I Wanna Dance With Somebody",
       "date": "2022-12-21T16:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2954/216/5cf80302-524d-457f-aaef-e5cc2cc99695.jpg"
+      "poster": "https://biografspegeln.se/media/posters/2954/216/412848af-fd18-494c-96b8-d9ffbdee5682.jpeg"
     },
     {
       "title": "I Wanna Dance With Somebody",
       "date": "2022-12-21T16:30:00.000Z",
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2954/216/5cf80302-524d-457f-aaef-e5cc2cc99695.jpg"
+      "poster": "https://biografspegeln.se/media/posters/2954/216/412848af-fd18-494c-96b8-d9ffbdee5682.jpeg"
     },
     {
       "title": "I Wanna Dance With Somebody",
       "date": "2022-12-21T17:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Alcazar",
-      "poster": "https://biografspegeln.se/media/posters/2954/216/5cf80302-524d-457f-aaef-e5cc2cc99695.jpg"
+      "poster": "https://biografspegeln.se/media/posters/2954/216/412848af-fd18-494c-96b8-d9ffbdee5682.jpeg"
     },
     {
       "title": "Triangle of Sadness",
@@ -813,6 +505,13 @@
       "poster": "https://biografspegeln.se/media/posters/2999/216/d8feb447-b420-42e6-9cee-b2721f8f4dd7.jpg"
     },
     {
+      "title": "Gremlins",
+      "date": "2022-12-22T16:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/229/216/a4531676-7f52-4acf-8b9d-658b896f1081.jpeg"
+    },
+    {
       "title": "Avatar: The Way of Water",
       "date": "2022-12-22T18:30:00.000Z",
       "venue": "Spegeln",
@@ -825,6 +524,55 @@
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
       "poster": "https://biografspegeln.se/media/posters/2979/216/76fdcb77-f2da-4fee-9e18-0fc6f075ec02.jpg"
+    },
+    {
+      "title": "I Wanna Dance With Somebody",
+      "date": "2022-12-22T19:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2954/216/412848af-fd18-494c-96b8-d9ffbdee5682.jpeg"
+    },
+    {
+      "title": "Perfect Blue",
+      "date": "2022-12-23T11:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/2935/216/f03a5370-7420-4611-896c-f0fc1d62d580.jpg"
+    },
+    {
+      "title": "Länge leve Bonusfamiljen",
+      "date": "2022-12-23T11:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
+    },
+    {
+      "title": "Rose",
+      "date": "2022-12-23T12:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2970/216/a73f4bd1-84de-49e4-9048-adb13c28aabb.jpeg"
+    },
+    {
+      "title": "Hilma",
+      "date": "2022-12-23T13:15:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/2909/216/1f7dc806-a53c-4482-a4b2-a04306f657e2.jpg"
+    },
+    {
+      "title": "Länge leve Bonusfamiljen",
+      "date": "2022-12-23T14:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
+    },
+    {
+      "title": "The Menu",
+      "date": "2022-12-23T14:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2920/216/ff224c1c-3bb5-4b72-983e-eef34ca149e3.jpeg"
     },
     {
       "title": "Gudfadern",
@@ -841,11 +589,32 @@
       "poster": "https://biografspegeln.se/media/posters/1486/216/9d561bc5-a988-4ebd-965c-6664dab7c4bc.jpeg"
     },
     {
+      "title": "I Wanna Dance With Somebody",
+      "date": "2022-12-23T17:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2954/216/412848af-fd18-494c-96b8-d9ffbdee5682.jpeg"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "date": "2022-12-25T11:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2914/216/7db68200-4b5a-4587-9e7a-a5f989122e81.jpeg"
+    },
+    {
       "title": "Håkan Bråkan",
       "date": "2022-12-25T12:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Camera",
       "poster": "https://biografspegeln.se/media/posters/3031/216/9cc431e6-e8cd-4dab-9e82-1e194bc4c9c9.jpeg"
+    },
+    {
+      "title": "I Wanna Dance With Somebody",
+      "date": "2022-12-25T15:45:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2954/216/412848af-fd18-494c-96b8-d9ffbdee5682.jpeg"
     },
     {
       "title": "Avatar: The Way of Water",
@@ -866,14 +635,21 @@
       "date": "2022-12-25T20:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2956/216/aba489fc-7a7e-4fe4-89c2-3fecc204f7bc.jpg"
+      "poster": "https://biografspegeln.se/media/posters/2956/216/310a0c52-eba9-4c2b-8955-437b7e32299c.jpeg"
     },
     {
       "title": "Kikis expressbud",
-      "date": "2022-12-26T11:30:00.000Z",
+      "date": "2022-12-26T11:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
       "poster": "https://biografspegeln.se/media/posters/549/216/a08bb282-a5e3-4d1c-be31-9241860607db.jpg"
+    },
+    {
+      "title": "I Wanna Dance With Somebody",
+      "date": "2022-12-26T11:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2954/216/412848af-fd18-494c-96b8-d9ffbdee5682.jpeg"
     },
     {
       "title": "Håkan Bråkan",
@@ -881,6 +657,13 @@
       "venue": "Spegeln",
       "screen": "Camera",
       "poster": "https://biografspegeln.se/media/posters/3031/216/9cc431e6-e8cd-4dab-9e82-1e194bc4c9c9.jpeg"
+    },
+    {
+      "title": "Decision to Leave",
+      "date": "2022-12-26T14:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/2955/216/2e3f7bed-9437-4c24-8654-fd10539fcad1.jpeg"
     },
     {
       "title": "Avatar: The Way of Water",
@@ -894,7 +677,14 @@
       "date": "2022-12-26T16:45:00.000Z",
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2956/216/aba489fc-7a7e-4fe4-89c2-3fecc204f7bc.jpg"
+      "poster": "https://biografspegeln.se/media/posters/2956/216/310a0c52-eba9-4c2b-8955-437b7e32299c.jpeg"
+    },
+    {
+      "title": "Länge leve Bonusfamiljen",
+      "date": "2022-12-26T17:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
     },
     {
       "title": "Avatar: The Way of Water",
@@ -902,6 +692,13 @@
       "venue": "Spegeln",
       "screen": "Alcazar",
       "poster": "https://biografspegeln.se/media/posters/2914/216/7db68200-4b5a-4587-9e7a-a5f989122e81.jpeg"
+    },
+    {
+      "title": "I Wanna Dance With Somebody",
+      "date": "2022-12-26T19:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2954/216/412848af-fd18-494c-96b8-d9ffbdee5682.jpeg"
     },
     {
       "title": "Håkan Bråkan",
@@ -925,11 +722,11 @@
       "poster": "https://biografspegeln.se/media/posters/2914/216/7db68200-4b5a-4587-9e7a-a5f989122e81.jpeg"
     },
     {
-      "title": "UFO Sweden",
-      "date": "2022-12-27T20:00:00.000Z",
+      "title": "I Wanna Dance With Somebody",
+      "date": "2022-12-27T19:30:00.000Z",
       "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/2956/216/aba489fc-7a7e-4fe4-89c2-3fecc204f7bc.jpg"
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2954/216/412848af-fd18-494c-96b8-d9ffbdee5682.jpeg"
     },
     {
       "title": "Spirited Away",
@@ -940,9 +737,9 @@
     },
     {
       "title": "Håkan Bråkan",
-      "date": "2022-12-28T12:00:00.000Z",
+      "date": "2022-12-28T14:30:00.000Z",
       "venue": "Spegeln",
-      "screen": "Camera",
+      "screen": "Salong Bar Deco",
       "poster": "https://biografspegeln.se/media/posters/3031/216/9cc431e6-e8cd-4dab-9e82-1e194bc4c9c9.jpeg"
     },
     {
@@ -950,7 +747,7 @@
       "date": "2022-12-28T16:45:00.000Z",
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
-      "poster": "https://biografspegeln.se/media/posters/2956/216/aba489fc-7a7e-4fe4-89c2-3fecc204f7bc.jpg"
+      "poster": "https://biografspegeln.se/media/posters/2956/216/310a0c52-eba9-4c2b-8955-437b7e32299c.jpeg"
     },
     {
       "title": "Avatar: The Way of Water",
@@ -960,6 +757,13 @@
       "poster": "https://biografspegeln.se/media/posters/2914/216/7db68200-4b5a-4587-9e7a-a5f989122e81.jpeg"
     },
     {
+      "title": "Triangle of Sadness",
+      "date": "2022-12-28T19:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2801/216/7bda94da-f81d-4fda-a630-b325c85945b6.jpeg"
+    },
+    {
       "title": "The Goonies - Dödskallegänget",
       "date": "2022-12-29T11:30:00.000Z",
       "venue": "Spegeln",
@@ -967,11 +771,18 @@
       "poster": "https://biografspegeln.se/media/posters/1716/216/b2207dad-4fbb-478f-935b-f9e047e6ca57.jpg"
     },
     {
-      "title": "Håkan Bråkan",
-      "date": "2022-12-29T12:00:00.000Z",
+      "title": "UFO Sweden",
+      "date": "2022-12-29T13:30:00.000Z",
       "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/3031/216/9cc431e6-e8cd-4dab-9e82-1e194bc4c9c9.jpeg"
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2956/216/310a0c52-eba9-4c2b-8955-437b7e32299c.jpeg"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "date": "2022-12-29T19:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2914/216/7db68200-4b5a-4587-9e7a-a5f989122e81.jpeg"
     },
     {
       "title": "Decision to Leave",
@@ -982,17 +793,31 @@
     },
     {
       "title": "Den oändliga historien",
+      "date": "2022-12-30T11:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/846/216/906c049c-c9d0-4393-b5ab-e3c428ad44fd.jpg"
+    },
+    {
+      "title": "Den oändliga historien",
       "date": "2022-12-30T11:30:00.000Z",
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
       "poster": "https://biografspegeln.se/media/posters/846/216/906c049c-c9d0-4393-b5ab-e3c428ad44fd.jpg"
     },
     {
-      "title": "Håkan Bråkan",
+      "title": "Avatar: The Way of Water",
       "date": "2022-12-30T12:00:00.000Z",
       "venue": "Spegeln",
-      "screen": "Camera",
-      "poster": "https://biografspegeln.se/media/posters/3031/216/9cc431e6-e8cd-4dab-9e82-1e194bc4c9c9.jpeg"
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2914/216/7db68200-4b5a-4587-9e7a-a5f989122e81.jpeg"
+    },
+    {
+      "title": "Länge leve Bonusfamiljen",
+      "date": "2022-12-30T14:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2962/216/b42520ec-968e-4cba-89fc-c6e839314ba4.jpeg"
     },
     {
       "title": "Blade Runner",
@@ -1009,6 +834,27 @@
       "poster": "https://biografspegeln.se/media/posters/1316/216/dd190cac-07d5-4465-a649-7dee54c18fdd.jpeg"
     },
     {
+      "title": "Avatar: The Way of Water",
+      "date": "2023-01-01T18:45:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/2914/216/7db68200-4b5a-4587-9e7a-a5f989122e81.jpeg"
+    },
+    {
+      "title": "The Goonies - Dödskallegänget",
+      "date": "2023-01-02T11:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/1716/216/b2207dad-4fbb-478f-935b-f9e047e6ca57.jpg"
+    },
+    {
+      "title": "Spirited Away",
+      "date": "2023-01-03T11:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/1100/216/960505fe-9a90-4c85-b21e-ac2c8e857774.jpeg"
+    },
+    {
       "title": "André Rieu i Dublin",
       "date": "2023-01-06T14:00:00.000Z",
       "venue": "Spegeln",
@@ -1021,6 +867,13 @@
       "venue": "Spegeln",
       "screen": "Salong Bar Deco",
       "poster": "https://biografspegeln.se/media/posters/3005/216/2a81b8cf-0d47-4ddb-9c58-4d79a01f4771.jpeg"
+    },
+    {
+      "title": "Operation Fortune: Ruse de Guerre",
+      "date": "2023-01-06T19:15:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2625/216/4df946f7-fe10-44b6-92a6-88f518e2fff8.jpeg"
     },
     {
       "title": "Sing Along: Hair",
@@ -1044,11 +897,32 @@
       "poster": "https://biografspegeln.se/media/posters/785/216/18941240-9902-46c7-adfc-ad89173a9587.jpg"
     },
     {
+      "title": "André Rieu i Dublin",
+      "date": "2023-01-09T14:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/507/216/fe332aa8-fe56-4e05-b8c7-de3923283900.jpeg"
+    },
+    {
+      "title": "Spegelns filmquiz",
+      "date": "2023-01-12T17:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
+    },
+    {
       "title": "All the Beauty and the Bloodshed",
       "date": "2023-01-13T13:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Camera",
       "poster": "https://biografspegeln.se/media/posters/2952/216/3df64d65-3f22-4753-9450-3b33115fc639.jpg"
+    },
+    {
+      "title": "A Man Called Otto",
+      "date": "2023-01-13T19:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Salong Bar Deco",
+      "poster": "https://biografspegeln.se/media/posters/2980/216/1b935e74-c2b2-448b-911b-0bf1f9c98a86.jpg"
     },
     {
       "title": "Party Along: Bohemian Rhapsody",
@@ -1100,6 +974,13 @@
       "poster": "https://biografspegeln.se/media/posters/3004/216/c8e7230f-04b4-43fb-8a42-3a9526b3e7fa.png"
     },
     {
+      "title": "Spegelns filmquiz",
+      "date": "2023-01-26T17:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
+    },
+    {
       "title": "Sing Along: Hair",
       "date": "2023-01-27T19:45:00.000Z",
       "venue": "Spegeln",
@@ -1121,6 +1002,13 @@
       "poster": "https://biografspegeln.se/media/posters/3025/216/a483089a-ced6-42fe-afc5-c6ebcf38ab45.jpg"
     },
     {
+      "title": "The Other Fellow",
+      "date": "2023-02-03T16:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/3042/216/d83e0f3b-55f2-4611-907b-f69bf5b0962a.jpg"
+    },
+    {
       "title": "Armi lever!",
       "date": "2023-02-04T12:00:00.000Z",
       "venue": "Spegeln",
@@ -1140,6 +1028,20 @@
       "venue": "Spegeln",
       "screen": "Alcazar",
       "poster": "https://biografspegeln.se/media/posters/2983/216/8360db00-3354-48f8-ab45-648eb1d5a545.png"
+    },
+    {
+      "title": "Heat",
+      "date": "2023-02-05T19:15:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/3035/216/3b6c068a-9cd4-4423-924e-edfb254c5c1e.jpg"
+    },
+    {
+      "title": "Spegelns filmquiz",
+      "date": "2023-02-09T17:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
     },
     {
       "title": "Party Along: Mamma Mia!",
@@ -1175,6 +1077,13 @@
       "venue": "Spegeln",
       "screen": "Alcazar",
       "poster": "https://biografspegeln.se/media/posters/3002/216/51fe8297-0c6b-4301-9b00-d318b9912af5.jpeg"
+    },
+    {
+      "title": "Spegelns filmquiz",
+      "date": "2023-02-23T17:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
     },
     {
       "title": "Dangerous Men",
@@ -1219,18 +1128,39 @@
       "poster": "https://biografspegeln.se/media/posters/482/216/0242efa7-9491-446f-a42e-578a4179bc33.jpg"
     },
     {
+      "title": "Frukostbio: Women Talking",
+      "date": "2023-03-05T09:30:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/3038/216/f690a4de-346e-4161-8d3c-25108b4f7740.jpg"
+    },
+    {
+      "title": "Mary Cassatt: Painting the Modern Woman",
+      "date": "2023-03-08T16:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/3037/216/867c4173-c144-41b4-b73f-7e977a52d748.jpeg"
+    },
+    {
       "title": "9 to 5",
-      "date": "2023-03-08T16:45:00.000Z",
+      "date": "2023-03-08T17:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Alcazar",
       "poster": "https://biografspegeln.se/media/posters/1888/216/29903914-092f-41cf-90a9-29b3e7780cc8.jpg"
     },
     {
       "title": "Legally Blonde",
-      "date": "2023-03-08T19:00:00.000Z",
+      "date": "2023-03-08T19:45:00.000Z",
       "venue": "Spegeln",
-      "screen": "Salong Bar Deco",
+      "screen": "Alcazar",
       "poster": "https://biografspegeln.se/media/posters/2996/216/0bb5a1fa-8454-4341-a594-695db61ff5a5.jpg"
+    },
+    {
+      "title": "Spegelns filmquiz",
+      "date": "2023-03-09T17:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
     },
     {
       "title": "The Greatest Showman",
@@ -1240,11 +1170,25 @@
       "poster": "https://biografspegeln.se/media/posters/725/216/7e8209ac-852c-45d5-bab3-95291bdc8b44.jpeg"
     },
     {
+      "title": "Howard the Duck",
+      "date": "2023-03-16T19:45:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/3027/216/f94af2bf-e66f-47d1-af7f-a96ff9f4a205.jpg"
+    },
+    {
       "title": "Met: Lohengrin",
       "date": "2023-03-18T16:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Alcazar",
       "poster": "https://biografspegeln.se/media/posters/2790/216/8cde88e2-4262-404b-9384-6e36d8f2e0e8.jpeg"
+    },
+    {
+      "title": "Spegelns filmquiz",
+      "date": "2023-03-23T17:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
     },
     {
       "title": "Party Along: Mamma Mia: Here We Go Again!",
@@ -1261,6 +1205,34 @@
       "poster": "https://biografspegeln.se/media/posters/2791/216/84e7c4a7-24fa-4a00-8e70-5db1c6c8f6fc.jpeg"
     },
     {
+      "title": "Badlands",
+      "date": "2023-04-02T16:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/3015/216/5b07bd33-8d2a-48c4-8b78-30304627bbc3.jpg"
+    },
+    {
+      "title": "Spegelns filmquiz",
+      "date": "2023-04-06T16:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
+    },
+    {
+      "title": "The Dragon Lives Again",
+      "date": "2023-04-06T18:45:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/3028/216/8374d020-5b28-44f1-a3ea-e5a95f84eb1c.jpg"
+    },
+    {
+      "title": "Sing Along: Grease",
+      "date": "2023-04-14T18:45:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/482/216/0242efa7-9491-446f-a42e-578a4179bc33.jpg"
+    },
+    {
       "title": "Met: Rosenkavaljeren",
       "date": "2023-04-15T16:00:00.000Z",
       "venue": "Spegeln",
@@ -1268,11 +1240,46 @@
       "poster": "https://biografspegeln.se/media/posters/2792/216/08521520-d737-4a17-b6d9-69ccc928d077.jpeg"
     },
     {
+      "title": "Spegelns filmquiz",
+      "date": "2023-04-20T16:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
+    },
+    {
+      "title": "Cry Wilderness",
+      "date": "2023-04-27T18:45:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/3029/216/46337037-f7bd-4090-b384-80230a02180d.jpg"
+    },
+    {
+      "title": "Sing Along: Les Misérables",
+      "date": "2023-04-28T18:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Alcazar",
+      "poster": "https://biografspegeln.se/media/posters/966/216/387957e3-7699-4714-b823-2f824cde0521.jpg"
+    },
+    {
       "title": "Met: Champion",
       "date": "2023-04-29T17:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Alcazar",
       "poster": "https://biografspegeln.se/media/posters/2793/216/f6cc598c-005c-47f7-b30a-bcfce7ff13f5.jpeg"
+    },
+    {
+      "title": "Spegelns filmquiz",
+      "date": "2023-05-04T16:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
+    },
+    {
+      "title": "Spegelns filmquiz",
+      "date": "2023-05-18T16:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
     },
     {
       "title": "Troll 2",
@@ -1289,11 +1296,32 @@
       "poster": "https://biografspegeln.se/media/posters/2794/216/0ab4b398-cb65-44d9-8ae3-331166643179.jpeg"
     },
     {
+      "title": "Spegelns filmquiz",
+      "date": "2023-06-01T15:55:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
+    },
+    {
       "title": "Met: Trollflöjten",
       "date": "2023-06-03T17:00:00.000Z",
       "venue": "Spegeln",
       "screen": "Alcazar",
       "poster": "https://biografspegeln.se/media/posters/2795/216/7aa05fa8-97f9-4f32-a571-2402bfbe6f56.jpeg"
+    },
+    {
+      "title": "1990: The Bronx Warriors",
+      "date": "2023-06-08T18:45:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Camera",
+      "poster": "https://biografspegeln.se/media/posters/3030/216/49ede9a3-739d-4137-875e-352715ed5179.jpg"
+    },
+    {
+      "title": "Spegelns filmquiz",
+      "date": "2023-06-15T16:00:00.000Z",
+      "venue": "Spegeln",
+      "screen": "Foajé",
+      "poster": "https://biografspegeln.se/media/posters/133/216/5db68147-1dd2-457e-9399-92aa5c8a1f29.jpeg"
     },
     {
       "title": "Aja baja Alfons Åberg",
@@ -1338,25 +1366,11 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/alfonsmÃ¥llgan.jpg"
     },
     {
-      "title": "All Of Our Heartbeats Are Connected Through Explod",
-      "date": "2022-12-08T14:45:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 2",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/allofourheartbeats.jpg"
-    },
-    {
       "title": "All the Beauty and the Bloodshed - Förhandsvisning!",
       "date": "2023-01-10T19:00:00.000Z",
       "venue": "Panora",
       "screen": "Salong 2",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/AlltheBeautyandtheBloodshed_.jpg"
-    },
-    {
-      "title": "Arne Alligator",
-      "date": "2022-12-10T11:15:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 3",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/arnealligator1_1.jpg"
     },
     {
       "title": "Avatar: The Way of Water",
@@ -1387,6 +1401,55 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Avatarthewayofwater.jpg"
     },
     {
+      "title": "Avatar: The Way of Water",
+      "date": "2022-12-18T13:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Avatarthewayofwater.jpg"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "date": "2022-12-19T18:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Avatarthewayofwater.jpg"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "date": "2022-12-20T18:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Avatarthewayofwater.jpg"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "date": "2022-12-22T18:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Avatarthewayofwater.jpg"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "date": "2022-12-25T18:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Avatarthewayofwater.jpg"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "date": "2022-12-26T19:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Avatarthewayofwater.jpg"
+    },
+    {
+      "title": "Bamse och vulkanön",
+      "date": "2022-12-17T11:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/bamseochvulkanÃ¶n.jpg"
+    },
+    {
       "title": "Bamse och vulkanön",
       "date": "2022-12-26T11:30:00.000Z",
       "venue": "Panora",
@@ -1408,13 +1471,6 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/bamseochvulkanÃ¶n.jpg"
     },
     {
-      "title": "Bardo",
-      "date": "2022-12-06T19:00:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 2",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Bardo_2022_film_poster.png"
-    },
-    {
       "title": "Belle",
       "date": "2023-01-04T13:00:00.000Z",
       "venue": "Panora",
@@ -1423,66 +1479,52 @@
     },
     {
       "title": "Bones and all",
-      "date": "2022-12-06T19:30:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 3",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/bonesandall.jpg"
-    },
-    {
-      "title": "Bones and all",
-      "date": "2022-12-08T19:30:00.000Z",
+      "date": "2022-12-13T16:45:00.000Z",
       "venue": "Panora",
       "screen": "Salong 2",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/bonesandall.jpg"
     },
     {
-      "title": "Bones and all",
-      "date": "2022-12-09T19:30:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 3",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/bonesandall.jpg"
-    },
-    {
       "title": "Boy from Heaven (Sv. txt)",
-      "date": "2022-12-05T16:45:00.000Z",
+      "date": "2022-12-12T16:45:00.000Z",
       "venue": "Panora",
       "screen": "Salong 1",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Boy_from_Heaven_huvudaffisch_TriArt_Film-336x480.jpg"
     },
     {
       "title": "Boy from Heaven (Sv. txt)",
-      "date": "2022-12-06T14:30:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 1",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Boy_from_Heaven_huvudaffisch_TriArt_Film-336x480.jpg"
-    },
-    {
-      "title": "Boy from Heaven (Sv. txt)",
-      "date": "2022-12-06T19:15:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 1",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Boy_from_Heaven_huvudaffisch_TriArt_Film-336x480.jpg"
-    },
-    {
-      "title": "Boy from Heaven (Sv. txt)",
-      "date": "2022-12-07T19:00:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 1",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Boy_from_Heaven_huvudaffisch_TriArt_Film-336x480.jpg"
-    },
-    {
-      "title": "Boy from Heaven (Sv. txt)",
-      "date": "2022-12-08T19:15:00.000Z",
+      "date": "2022-12-13T17:00:00.000Z",
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Boy_from_Heaven_huvudaffisch_TriArt_Film-336x480.jpg"
     },
     {
       "title": "Boy from Heaven (Sv. txt)",
-      "date": "2022-12-09T17:00:00.000Z",
+      "date": "2022-12-14T19:30:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 2",
+      "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Boy_from_Heaven_huvudaffisch_TriArt_Film-336x480.jpg"
+    },
+    {
+      "title": "Boy from Heaven (Sv. txt)",
+      "date": "2022-12-15T17:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Boy_from_Heaven_huvudaffisch_TriArt_Film-336x480.jpg"
+    },
+    {
+      "title": "Boy from Heaven (Sv. txt)",
+      "date": "2022-12-17T16:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Boy_from_Heaven_huvudaffisch_TriArt_Film-336x480.jpg"
+    },
+    {
+      "title": "Brighton 4:e gatan",
+      "date": "2023-01-13T17:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/brighton4e.jpg"
     },
     {
       "title": "Bränn alla mina brev (Sv. txt)",
@@ -1534,18 +1576,25 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/dumbland.jpg"
     },
     {
-      "title": "David Lynch: Twin Peaks: Fire Walk With me",
-      "date": "2022-12-05T17:00:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 3",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Twin_Peaks_-_Fire_Walk_with_Me.png"
-    },
-    {
       "title": "David Lynch: Wild at Heart",
       "date": "2023-01-04T19:15:00.000Z",
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/wildatheart_1.jpg"
+    },
+    {
+      "title": "Decision to Leave",
+      "date": "2022-12-25T16:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/decisiontoleave_2.jpg"
+    },
+    {
+      "title": "Decision to Leave",
+      "date": "2022-12-26T19:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/decisiontoleave_2.jpg"
     },
     {
       "title": "Decision to Leave (Eng. text)",
@@ -1567,13 +1616,6 @@
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/denmagiskamanresan.jpg"
-    },
-    {
-      "title": "Den oändliga historien (Eng tal)",
-      "date": "2022-12-11T13:00:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 2",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/denoandligahistorien_1.jpg"
     },
     {
       "title": "Dunderklumpen",
@@ -1604,17 +1646,24 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/dottrar_1.jpg"
     },
     {
-      "title": "Emily",
-      "date": "2022-12-06T14:15:00.000Z",
+      "title": "Eldens färger",
+      "date": "2023-01-07T14:45:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 2",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/eldensfarger.jpg"
+    },
+    {
+      "title": "Emily",
+      "date": "2022-12-15T14:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/emily.jpg"
     },
     {
       "title": "En annorlunda värld (Sv. tal)",
-      "date": "2022-12-11T12:30:00.000Z",
+      "date": "2022-12-17T12:30:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 3",
+      "screen": "Salong 2",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/enannorlundavarld.jpg"
     },
     {
@@ -1653,6 +1702,13 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/enpersikolund_2.jpg"
     },
     {
+      "title": "En sång för min dotter",
+      "date": "2023-01-06T15:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/ensangformindotter.jpg"
+    },
+    {
       "title": "Encanto (Sv. tal)",
       "date": "2023-01-07T12:30:00.000Z",
       "venue": "Panora",
@@ -1674,13 +1730,6 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/findingfela.jpg"
     },
     {
-      "title": "FRIIS FRAME: Dekolonialitet workshop/studiecirkel",
-      "date": "2022-12-05T17:15:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 2",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Friisframe-internetbokningen_27_9.jpg"
-    },
-    {
       "title": "FRIIS FRAME: Sven slutar gå",
       "date": "2022-12-19T17:00:00.000Z",
       "venue": "Panora",
@@ -1695,39 +1744,88 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Friisframe-internetbokningen_27_10.jpg"
     },
     {
+      "title": "Grymma tider - vårdarbetets sånger",
+      "date": "2023-03-26T16:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/grymmatider.jpg"
+    },
+    {
+      "title": "Grymma tider - vårdarbetets sånger",
+      "date": "2023-03-28T16:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/grymmatider.jpg"
+    },
+    {
+      "title": "Guellermo del Toro: Pinocchio",
+      "date": "2022-12-14T14:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/pinoccgioGDT.jpg"
+    },
+    {
       "title": "Hilma (Sv. txt)",
-      "date": "2022-12-05T14:30:00.000Z",
+      "date": "2022-12-15T14:45:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/hilma.jpg"
+    },
+    {
+      "title": "Hilma (Sv. txt)",
+      "date": "2022-12-18T16:45:00.000Z",
       "venue": "Panora",
       "screen": "Salong 1",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/hilma.jpg"
     },
     {
-      "title": "Hilma (Sv. txt)",
-      "date": "2022-12-06T16:45:00.000Z",
+      "title": "Holy Spider",
+      "date": "2023-01-21T14:30:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 2",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/hilma.jpg"
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/holuspider.jpg"
     },
     {
-      "title": "Hilma (Sv. txt)",
-      "date": "2022-12-07T14:30:00.000Z",
+      "title": "Holy Spider",
+      "date": "2023-01-21T19:00:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 3",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/hilma.jpg"
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/holuspider.jpg"
     },
     {
-      "title": "Hilma (Sv. txt)",
-      "date": "2022-12-09T14:30:00.000Z",
+      "title": "Holy Spider",
+      "date": "2023-01-22T14:30:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 3",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/hilma.jpg"
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/holuspider.jpg"
     },
     {
-      "title": "Historien om Bodri",
-      "date": "2022-12-11T12:00:00.000Z",
+      "title": "Holy Spider",
+      "date": "2023-01-22T16:45:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 3",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/historienombodri.jpg"
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/holuspider.jpg"
+    },
+    {
+      "title": "Holy Spider + Premiärmingel",
+      "date": "2023-01-20T16:45:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/holuspider_2.jpg"
+    },
+    {
+      "title": "Holy Spider + Premiärmingel",
+      "date": "2023-01-20T19:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/holuspider_2.jpg"
+    },
+    {
+      "title": "Holy Spider - Förhandsvisning!",
+      "date": "2023-01-05T18:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/holuspider_1.jpg"
     },
     {
       "title": "Hundhotellet",
@@ -1735,6 +1833,55 @@
       "venue": "Panora",
       "screen": "Salong 2",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/hundhotellet_2.jpg"
+    },
+    {
+      "title": "Håkan Bråkan (Sv. txt)",
+      "date": "2022-12-25T14:45:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/hakanbrakan.jpeg"
+    },
+    {
+      "title": "Håkan Bråkan (Sv. txt)",
+      "date": "2022-12-26T15:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/hakanbrakan.jpeg"
+    },
+    {
+      "title": "Håkan Bråkan (Sv. txt)",
+      "date": "2022-12-27T15:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/hakanbrakan.jpeg"
+    },
+    {
+      "title": "I Wanna Dance with Somebody",
+      "date": "2022-12-21T19:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/iwannadancewithsomebody.jpeg"
+    },
+    {
+      "title": "I Wanna Dance with Somebody",
+      "date": "2022-12-22T16:45:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/iwannadancewithsomebody.jpeg"
+    },
+    {
+      "title": "I Wanna Dance with Somebody",
+      "date": "2022-12-23T16:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/iwannadancewithsomebody.jpeg"
+    },
+    {
+      "title": "I Wanna Dance with Somebody",
+      "date": "2022-12-25T14:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/iwannadancewithsomebody.jpeg"
     },
     {
       "title": "Inna de Yard",
@@ -1772,25 +1919,25 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/gudsstad.jpg"
     },
     {
-      "title": "Kärlekens hjältar",
-      "date": "2022-12-05T19:00:00.000Z",
+      "title": "Kikka!",
+      "date": "2023-02-26T17:00:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 1",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/karlekenshjaltar.jpg"
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/kikka.jpg"
+    },
+    {
+      "title": "Kikka!",
+      "date": "2023-02-28T17:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/kikka.jpg"
     },
     {
       "title": "Kärlekens hjältar",
-      "date": "2022-12-06T15:00:00.000Z",
+      "date": "2022-12-14T14:45:00.000Z",
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/karlekenshjaltar.jpg"
-    },
-    {
-      "title": "LasseMajas Detektivbyrå: Skorpionens gåta (Sv. txt",
-      "date": "2022-12-11T12:15:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 1",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/lassemajaskorpionensgta.jpg"
     },
     {
       "title": "LasseMajas Detektivbyrå: Skorpionens gåta (Sv. txt",
@@ -1836,9 +1983,9 @@
     },
     {
       "title": "Lilla Spöket Laban - Världens snällaste spöke",
-      "date": "2022-12-11T11:15:00.000Z",
+      "date": "2022-12-18T12:00:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 1",
+      "screen": "Salong 2",
       "poster": "https://panora.internetbokningen.com:443/chap/resources/img/posters/lillaspÃ¶ketlaban_1.jpg"
     },
     {
@@ -1878,17 +2025,17 @@
     },
     {
       "title": "Maija Isola",
+      "date": "2023-01-27T16:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/maijaisola.jpg"
+    },
+    {
+      "title": "Maija Isola",
       "date": "2023-01-29T17:15:00.000Z",
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/maijaisola.jpg"
-    },
-    {
-      "title": "Mamma Mu hittar hem (Sv. txt)",
-      "date": "2022-12-11T11:30:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 2",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Mamma_Mu_hittar_hem_Poster_01.jpg"
     },
     {
       "title": "Mamma Mu hittar hem (Sv. txt)",
@@ -1933,32 +2080,60 @@
       "poster": "https://panora.internetbokningen.com:443/chap/resources/img/posters/Matangi_2.jpg"
     },
     {
-      "title": "Maya Nilo (Laura) (Eng. txt)",
-      "date": "2022-12-05T19:15:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 2",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Maya-Nilo-Laura-poster-336x480_1.jpg"
-    },
-    {
       "title": "Min vackra stjärna",
-      "date": "2022-12-10T16:45:00.000Z",
+      "date": "2022-12-12T14:15:00.000Z",
       "venue": "Panora",
       "screen": "Salong 2",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled.jpg"
     },
     {
       "title": "Min vackra stjärna",
-      "date": "2022-12-11T16:45:00.000Z",
+      "date": "2022-12-12T19:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled.jpg"
+    },
+    {
+      "title": "Min vackra stjärna",
+      "date": "2022-12-13T16:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled.jpg"
+    },
+    {
+      "title": "Min vackra stjärna",
+      "date": "2022-12-14T19:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled.jpg"
+    },
+    {
+      "title": "Min vackra stjärna",
+      "date": "2022-12-15T16:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled.jpg"
+    },
+    {
+      "title": "Min vackra stjärna",
+      "date": "2022-12-16T19:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled.jpg"
+    },
+    {
+      "title": "Min vackra stjärna",
+      "date": "2022-12-17T14:15:00.000Z",
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled.jpg"
     },
     {
-      "title": "Min vackra stjärna + premiärmingel",
-      "date": "2022-12-09T19:00:00.000Z",
+      "title": "Min vackra stjärna",
+      "date": "2022-12-18T17:00:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 1",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled_1.jpg"
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Min-vackra-stjarna-poster-scaled.jpg"
     },
     {
       "title": "Minioner: Berättelsen om Gru (Sv. tal)",
@@ -1973,6 +2148,20 @@
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/minioner-berattelsen-om-gru.jpg"
+    },
+    {
+      "title": "Minnet av vatten",
+      "date": "2023-05-14T16:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/minnetavvatten.jpg"
+    },
+    {
+      "title": "Minnet av vatten",
+      "date": "2023-05-16T16:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/minnetavvatten.jpg"
     },
     {
       "title": "Miraï min lillasyster (Sv. tal)",
@@ -2018,24 +2207,136 @@
     },
     {
       "title": "Moonage Daydream",
-      "date": "2022-12-07T19:30:00.000Z",
+      "date": "2022-12-14T15:00:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 3",
+      "screen": "Salong 2",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/moonagedaydream.jpg"
     },
     {
       "title": "Mor och Son",
-      "date": "2022-12-07T14:45:00.000Z",
+      "date": "2022-12-13T14:15:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 2",
+      "screen": "Salong 1",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Mother_and_Son_TriArt_Film_Bild_11.jpg"
     },
     {
-      "title": "Mor och Son",
-      "date": "2022-12-08T17:00:00.000Z",
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2022-12-21T14:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2022-12-22T14:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2022-12-23T14:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2022-12-25T12:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2022-12-26T12:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2022-12-27T12:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2022-12-28T14:30:00.000Z",
       "venue": "Panora",
       "screen": "Salong 3",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Mother_and_Son_TriArt_Film_Bild_11.jpg"
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2022-12-29T12:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2022-12-30T12:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2023-01-01T12:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2023-01-02T12:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2023-01-03T14:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2023-01-04T12:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2023-01-05T12:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2023-01-06T12:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2023-01-07T12:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
+    },
+    {
+      "title": "Mästerkatten 2 (Sv. tal)",
+      "date": "2023-01-08T14:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/masterkatten2.jpg"
     },
     {
       "title": "Nausicaä från Vindarnas dal (Jap. tal)",
@@ -2049,6 +2350,13 @@
       "date": "2022-12-12T19:00:00.000Z",
       "venue": "Panora",
       "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/neilyoungharvesttime.jpg"
+    },
+    {
+      "title": "Neil Young: Harvest Time",
+      "date": "2022-12-19T16:45:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/neilyoungharvesttime.jpg"
     },
     {
@@ -2108,6 +2416,13 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/pellesvanslÃ¶s2020.jpg"
     },
     {
+      "title": "Pissa i motvind",
+      "date": "2022-12-27T16:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/pissaimotvind.jpg"
+    },
+    {
       "title": "Playground",
       "date": "2023-01-07T16:45:00.000Z",
       "venue": "Panora",
@@ -2157,6 +2472,27 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/resantillmelonia.jpg"
     },
     {
+      "title": "Rita och Krokodil",
+      "date": "2022-12-17T12:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/ritaochkrokodil.jpg"
+    },
+    {
+      "title": "Rita och Krokodil",
+      "date": "2022-12-18T11:45:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/ritaochkrokodil.jpg"
+    },
+    {
+      "title": "Rodeo",
+      "date": "2023-01-13T17:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/rodeo-affisch-a4.jpg"
+    },
+    {
       "title": "Ronja Rövardotter",
       "date": "2023-01-08T13:00:00.000Z",
       "venue": "Panora",
@@ -2165,24 +2501,38 @@
     },
     {
       "title": "Rose",
-      "date": "2022-12-05T14:45:00.000Z",
+      "date": "2022-12-13T14:45:00.000Z",
       "venue": "Panora",
       "screen": "Salong 2",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/rose.jpg"
     },
     {
       "title": "Rumbaterapi",
-      "date": "2022-12-06T17:00:00.000Z",
+      "date": "2022-12-14T16:30:00.000Z",
       "venue": "Panora",
       "screen": "Salong 1",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/rumbaterapi.jpg"
     },
     {
       "title": "Rumbaterapi",
-      "date": "2022-12-07T15:00:00.000Z",
+      "date": "2022-12-15T14:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/rumbaterapi.jpg"
+    },
+    {
+      "title": "Rumbaterapi",
+      "date": "2022-12-19T16:30:00.000Z",
       "venue": "Panora",
       "screen": "Salong 1",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/rumbaterapi.jpg"
+    },
+    {
+      "title": "Sameblod + förfilm: Svonni vs Skatteverket",
+      "date": "2023-02-06T17:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/sameblod_2.jpg"
     },
     {
       "title": "Satoshi Kon: Paprika",
@@ -2220,20 +2570,6 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Tokyo_Godfathers_(Movie_Poster).jpg"
     },
     {
-      "title": "She Said",
-      "date": "2022-12-08T14:30:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 3",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/shesaid.jpg"
-    },
-    {
-      "title": "Shoplifters",
-      "date": "2022-12-07T19:15:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 2",
-      "poster": "https://panora.internetbokningen.com:443/chap/resources/img/posters/Shoplifters_(film)_3.jpg"
-    },
-    {
       "title": "Sing  2 (Sv. tal)",
       "date": "2023-01-05T12:30:00.000Z",
       "venue": "Panora",
@@ -2246,20 +2582,6 @@
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/sirens_movie_poster.jpg"
-    },
-    {
-      "title": "Skolan vid världens ände",
-      "date": "2022-12-08T15:00:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 1",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/skolanvidvarlden_1.jpg"
-    },
-    {
-      "title": "Skolan vid världens ände",
-      "date": "2022-12-09T14:15:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 1",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/skolanvidvarlden_1.jpg"
     },
     {
       "title": "Snipp Snapp Snut och Tråkmånsarna",
@@ -2281,13 +2603,6 @@
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/snippsnappsnutochtrakmansar_2.jpg"
-    },
-    {
-      "title": "Speak No Evil",
-      "date": "2022-12-05T19:30:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 3",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/speaknoevil.jpg"
     },
     {
       "title": "Stanley Kubrick: Full Metal Jacket (otextad)",
@@ -2354,9 +2669,23 @@
     },
     {
       "title": "The Menu",
-      "date": "2022-12-07T17:00:00.000Z",
+      "date": "2022-12-12T14:45:00.000Z",
       "venue": "Panora",
       "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Menu_web.jpg"
+    },
+    {
+      "title": "The Menu",
+      "date": "2022-12-17T17:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Menu_web.jpg"
+    },
+    {
+      "title": "The Menu",
+      "date": "2022-12-18T15:00:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/Menu_web.jpg"
     },
     {
@@ -2375,6 +2704,13 @@
     },
     {
       "title": "Titina (Sv. tal)",
+      "date": "2022-12-18T11:30:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 1",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/titina.jpg"
+    },
+    {
+      "title": "Titina (Sv. tal)",
       "date": "2022-12-30T11:45:00.000Z",
       "venue": "Panora",
       "screen": "Salong 3",
@@ -2382,28 +2718,21 @@
     },
     {
       "title": "Triangle of Sadness",
-      "date": "2022-12-05T14:15:00.000Z",
+      "date": "2022-12-12T14:30:00.000Z",
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/triangleofsadness.jpg"
     },
     {
       "title": "Triangle of Sadness",
-      "date": "2022-12-07T16:45:00.000Z",
+      "date": "2022-12-12T19:30:00.000Z",
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/triangleofsadness.jpg"
     },
     {
       "title": "Triangle of Sadness",
-      "date": "2022-12-08T16:45:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 2",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/triangleofsadness.jpg"
-    },
-    {
-      "title": "Triangle of Sadness",
-      "date": "2022-12-09T16:45:00.000Z",
+      "date": "2022-12-18T16:30:00.000Z",
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/triangleofsadness.jpg"
@@ -2435,6 +2764,27 @@
       "venue": "Panora",
       "screen": "Salong 1",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/ture_jerry.jpg"
+    },
+    {
+      "title": "Tänk om...",
+      "date": "2022-12-17T11:45:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com:443/chap/resources/img/posters/tÃ¤nkom.jpg"
+    },
+    {
+      "title": "UFO Sweden (Sv. txt)",
+      "date": "2022-12-25T17:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 2",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/ufo-sweden-teaser.jpg"
+    },
+    {
+      "title": "UFO Sweden (Sv. txt)",
+      "date": "2022-12-26T17:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/ufo-sweden-teaser.jpg"
     },
     {
       "title": "Urpo och Turpo",
@@ -2487,16 +2837,23 @@
     },
     {
       "title": "Vitt Brus",
-      "date": "2022-12-09T19:15:00.000Z",
+      "date": "2022-12-13T14:30:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 2",
+      "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/vitt-brus-poster.jpg"
     },
     {
       "title": "Vitt Brus",
-      "date": "2022-12-10T19:00:00.000Z",
+      "date": "2022-12-14T17:00:00.000Z",
       "venue": "Panora",
-      "screen": "Salong 1",
+      "screen": "Salong 3",
+      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/vitt-brus-poster.jpg"
+    },
+    {
+      "title": "Vitt Brus",
+      "date": "2022-12-15T19:15:00.000Z",
+      "venue": "Panora",
+      "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/vitt-brus-poster.jpg"
     },
     {
@@ -2505,13 +2862,6 @@
       "venue": "Panora",
       "screen": "Salong 3",
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/vÃ¤rldensvÃ¤rstamÃ¤nniska_1.jpg"
-    },
-    {
-      "title": "Werner Herzog: Fitzcarraldo",
-      "date": "2022-12-11T14:00:00.000Z",
-      "venue": "Panora",
-      "screen": "Salong 1",
-      "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/fitzcarraldo.jpg"
     },
     {
       "title": "WIFT SJUAN+",
@@ -2577,5 +2927,5 @@
       "poster": "https://panora.internetbokningen.com/chap/resources/img/posters/YUKU.jpg"
     }
   ],
-  "date": "2022-12-05T16:14:44.117Z"
+  "date": "2022-12-12T10:28:54.271Z"
 }
