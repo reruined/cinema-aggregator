@@ -9,7 +9,8 @@ function transformSpegeln(source) {
     date: new Date(entry.show_time),
     venue: 'Spegeln',
     screen: entry.screen_name,
-    poster: `https://biografspegeln.se/media/posters/${entry.movie_id}/216/${entry.movie_poster}`
+    poster: `https://biografspegeln.se/media/posters/${entry.movie_id}/216/${entry.movie_poster}`,
+    link: `https://biografspegeln.se/#/movie/${entry.movie_id}`
   }))
   
   return transformedData
@@ -39,7 +40,8 @@ function transformPanora(source) {
         date: date,
         venue: 'Panora',
         screen: showing.Salong,
-        poster: entry.BildSokvag
+        poster: entry.BildSokvag,
+        link: `https://www.panora.se/?s=${encodeURIComponent(entry.FilmNamn)}`
       }
     })
     return array.concat(showings)

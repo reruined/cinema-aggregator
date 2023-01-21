@@ -24,7 +24,9 @@
       <ol class="shows" style="background-image: url('{{poster}}');">
       {{#each shows}}
         <li class="show">
-          {{formatDate date}}, {{venue}}
+          <a href="{{link}}">
+            {{formatDate date}}, {{venue}}
+          </a>
         </li>
       {{/each}}
       </ol>
